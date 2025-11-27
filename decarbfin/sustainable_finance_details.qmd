@@ -1,0 +1,47 @@
+------------------------------------------------------------------------
+
+**Default**
+
+View the following items:
+
+-   The Description of the instrument,
+
+-   The recorded range of aviation-related volumes,
+
+-   Areas of Eligibility,
+
+-   Potential Use of Proceeds,
+
+-   Instrument’s Characteristics,
+
+-   Procedural Framework,
+
+-   Sustainability Strategy,
+
+-   Key Performance Indicators,
+
+-   Reporting Needs,
+
+-   External Verification Needs and Completed with the relevant (if any) Use Cases corresponding to that specific instrument.
+
+------------------------------------------------------------------------
+
+**Output**
+
+Sustainable finance instruments are presented in detail. The navigation can also be managed from the navigation menu on the left hand-side.
+
+![](images/sus_finance_details.png){fig-align="center"}
+
+---
+
+**Data**
+
+All information is sourced from publicly accessible sources which are located at the bottom of the page.
+
+---
+
+**Definitions**
+
+Please consult the Dictionary of terms function
+
+---

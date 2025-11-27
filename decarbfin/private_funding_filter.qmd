@@ -1,0 +1,19 @@
+**Query**
+
+-   *Type of stakeholder:* definition of stakeholder type
+
+-   *Project purpose:* selection of the purpose of the proceeds (project – based or non-project based)
+
+-   *Strategy and Reporting:* profiling of sustainability strategy and reporting capabilities of the company
+
+![](images/private_1.png){fig-align="center"}
+
+------------------------------------------------------------------------
+
+**Output**
+
+List of search results pertaining to sustainable finance instruments
+
+![](images/private_2.png){fig-align="center"}
+
+------------------------------------------------------------------------

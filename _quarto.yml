@@ -1,0 +1,33 @@
+project:
+  type: book
+
+book:
+  title: "FlyingGreen User Manual"
+  author: "EUROCONTROL/ASU"
+  date: "`r Sys.Date()`"
+
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - fg_in_brief.qmd
+    - fg_functionalities.qmd
+    - common_features/initial_login.qmd
+    - netzero/index.qmd  
+    - fuelingdecarb/index.qmd
+    - climadapt/index.qmd
+    - decarbfin/index.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      light: minty
+      dark: darkly
+    number-sections: true
+    number-depth: 2
+    toc: true
+    toc-depth: 2
+
+editor: visual

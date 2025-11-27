@@ -1,0 +1,31 @@
+![](/netzero/images/flightcriteria.png)
+
+------------------------------------------------------------------------
+
+**Default**
+
+Default Area of interest is Area focus.
+
+Default Flight type Area Focus is Departures and Arrivals Default Flight type.
+
+Full trajectory is Departures.
+
+No Default Flight phases for Area focus or Full trajectory.
+
+No Default Market segment for Area focus.
+
+------------------------------------------------------------------------
+
+**Output**
+
+The Area of interest and filters selection update the Emissions, Fuel burn, Cumulative Emissions and What-if Graphs.
+
+------------------------------------------------------------------------
+
+**Data**
+
+Emission values are calculated using 2 different methodologies.
+
+The Area focus presents Fuel burn and Emissions within the Area selected. Finetune the type of traffic to be presented by Departures to outside the Area selected, Arrivals to within the Area selected, Internal flight withing the Area selected, and Overflying traffic of the Area selected.
+
+With the Full trajectory method, the Fuel burn, and Emissions of the Full trajectory are presented. Possible traffic selections are Full emission and Fuel burn of departing traffic from the Area selected, from Arrivals to the Area selected and from Domestic flights. Traffic selections cannot be selected simultaneously to avoid overlap.

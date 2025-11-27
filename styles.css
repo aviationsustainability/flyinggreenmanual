@@ -1,0 +1,40 @@
+/* Main color palette */
+:root {
+  --bs-primary: #1a8c3a;   /* FlyingGreen green */
+  --bs-secondary: #004080; /* aviation blue */
+}
+
+/* Navbar styling */
+.navbar {
+  background-color: var(--bs-primary) !important;
+}
+.navbar a, .navbar-brand {
+  color: white !important;
+  font-weight: bold;
+}
+
+/* Sidebar */
+.sidebar {
+  background: #f7fbf8;
+}
+.sidebar a.active {
+  color: var(--bs-primary);
+  font-weight: bold;
+}
+
+/* Headers */
+h1, h2, h3 {
+  color: var(--bs-primary);
+}
+
+/* Add leaf/plane icons to headers */
+h1::before, h2::before {
+  content: "✈️🌿 ";
+  font-size: 0.9em;
+}
+
+.book-header {
+  background: url('www/planes-banner.png') no-repeat center;
+  background-size: cover;
+  padding: 1rem;
+}

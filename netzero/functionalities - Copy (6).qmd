@@ -1,0 +1,23 @@
+![](/www/netzero_navigation.png){fig-align="center"}
+
+Based on EUROCONTROL data and traffic forecasts, get an estimate of future trip fuel burn and emissions towards 2050 in different operational views and with traffic filtering options. Explore what-if scenarios to inform sustainable strategic decisions. Leverage on what-if scenario tools, exploring how Sustainable Aviation Fuel (SAF) volumes, technological and operational improvements can impact emission reduction potential. See an indication of additional environmental costs from SAF and market-based measures.
+
+**Project Data**
+
+1.  Save/Retrieve/Delete Project
+
+2.  **Emissions estimate**\
+
+    2.  Select the Area and Level of interest\
+    3.  View the Emissions (totals, average and reference)\
+    4.  View the Fuel Burn and Flights number\
+    5.  View the Cumulative Emissions\
+    6.  View the KPIs or results per category\
+    7.  View the Environmental Costs\
+    8.  Select the Flight criteria Filters\
+    9.  Select the Aviation Outlook Scenario
+
+3.  **What-if estimates**\
+
+    10. Customise the SAF Blend\
+    11. Customise the Fleet, Air Traffic Management and Economic Prices

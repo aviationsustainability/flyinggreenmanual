@@ -1,0 +1,27 @@
+![](images/projects_ov_1.png){fig-align="center" width="421"}
+
+**Default**
+
+Current or past Projects, publicly available, that have benefited from EU Funding and are relevant for aviation decarbonisation.
+
+------------------------------------------------------------------------
+
+**Output**
+
+The Projects are presented on the carrousel.
+
+![](images/projects_ov_2.png){fig-align="center" width="396"}
+
+------------------------------------------------------------------------
+
+**Data**
+
+All projects showcased and their descriptions are sourced from the official sites of the projects or from relevant EU websites.
+
+------------------------------------------------------------------------
+
+**Definition**
+
+**Projects showcase:** A (non-exhaustive) selection of publicly disclosed projects, that have benefited from EU Funding and are relevant for aviation decarbonisation.
+
+------------------------------------------------------------------------

@@ -1,0 +1,27 @@
+![](/netzero/images/customsaf2.png)
+
+------------------------------------------------------------------------
+
+**Default**
+
+Default Blend *Low scenario*: 4% in 2030, 26% in 2040, 50% in 2050
+
+Blend *Base scenario*: 6% in 2030, 34% in 2040, 70% in 2050
+
+Default Blend *High scenario*: 10% in 2030, 49% in 2040, 88% in 2050
+
+Bio-SAF/synth-SAF ratios are applied according to ReFuelEU mandate.
+
+------------------------------------------------------------------------
+
+**Output**
+
+The Blend % changes the CO2 net curve on the Emissions and Cumulative emissions graph and the SAF curve on the Fuel Burn graph.
+
+![](/netzero/images/customsaf1.png)
+
+------------------------------------------------------------------------
+
+**Data**
+
+To assess the impact of the use of Sustainable Aviation Fuels on the NET emission values, input the percentages of SAF blend in the different years and the specific SAF pathway. Default values in the base scenario are aligned with the ReFuelEU SAF requirements. LCA values applied are: 65% emission reduction for bio-SAF and 70% emission reduction for synthetic SAFs.

@@ -1,0 +1,25 @@
+## ![](/www/view_env_costs.png){fig-align="center"}
+
+**Default**
+
+Default values: EU ETS and Total view
+
+------------------------------------------------------------------------
+
+**Output**
+
+The Environmental costs vary depending on the Zone selected and the What if simulation.
+
+The Environmental cost are visible for 3 years: 2030, 2040 and 2050.​
+
+------------------------------------------------------------------------
+
+**Data**
+
+Data to calculate additional environmental costs are synchronized with assumptions from Eurocontrol Aviation Outlook 2050 (*see below*).​
+
+EU ETS cost are assumed to offset the total remaining net emissions,both taking into consideration LCA values (option EU ETS), and not taking into consideration SAF lifecycle values (the option with SAF excluded). ​
+
+Simplified CORSIA costs only appear if emission values for eligibleflights are higher than 85% of 2019 emissions and then takingCORSIA sectoral growth factors into consideration (linear progressionfrom zero towards SGF 2,6 in 2050). Only sectoral offsetmethodologies are included to avoid too high calculation complexities.​
+
+![](images/clipboard-2275571278.png)

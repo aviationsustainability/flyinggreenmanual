@@ -1,0 +1,9 @@
+# Fuelling Decarb
+
+## Gateway to Informed Green Energy Choices
+
+{{< include intro.qmd >}}
+
+## Fuel Assessment
+
+{{< include functionalities.qmd >}}

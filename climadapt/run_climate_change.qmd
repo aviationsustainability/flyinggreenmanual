@@ -1,0 +1,33 @@
+![](images/run_1.png)
+
+------------------------------------------------------------------------
+
+**Default**
+
+Default **Location** type: *State*
+
+No profile selected
+
+------------------------------------------------------------------------
+
+**Output**
+
+Selected State or IPCC geographical subdivision, and selected profile, impacts the questions presented for:
+
+-   Temperature;
+
+-   Storms;
+
+-   Sea level rise;
+
+-   Precipitation.
+
+![](images/run_2.png)
+
+------------------------------------------------------------------------
+
+**Data**
+
+Questionnaire and methodology are designed by EUROCONTROL experts.
+
+------------------------------------------------------------------------

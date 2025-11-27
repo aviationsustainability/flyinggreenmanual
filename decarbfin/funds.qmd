@@ -1,0 +1,33 @@
+![](images/funds_1.png)
+
+**Default**
+
+All Currently available Funds & Programmes
+
+###### (With one exception: although completed and replaced by Horizon Europe, Horizon 2020 is displayed here as it has funded many aviation related projects of interest)
+
+------------------------------------------------------------------------
+
+**Output**
+
+The Funds & Programmes available are presented on the carrousel. 
+
+![](images/funds_2.png)
+
+------------------------------------------------------------------------
+
+**Data**
+
+The source of information for the Funds & Programmes is the official EU (and EU relevant agencies) websites.
+
+------------------------------------------------------------------------
+
+**Definition**
+
+**Funds / Programmes:** financial resources allocated by the EU to projects & initiatives that support the EU strategic priorities, within its Member States and beyond in some cases. A sub-set of Funds selected for their relevance to aviation sustainability.
+
+**State:** ECAC Member State in which the aviation beneficiary is located.
+
+**Stakeholder:** type of company/organisation in the aviation value chain.
+
+------------------------------------------------------------------------

@@ -1,0 +1,66 @@
+# FLYINGGREEN {.unnumbered}
+
+Your journey manual.
+
+Version 2.3
+
+![](www/fg_logo.png){fig-align="center"}
+
+```{=html}
+<style>
+/* Floating Chatbot button and iframe */
+#chatbase-widget {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 380px;
+  height: 500px;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+  display: none;
+  z-index: 9999;
+}
+
+#chatbase-button {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #0084ff;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  font-size: 28px;
+  cursor: pointer;
+  z-index: 10000;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+}
+</style>
+```
+
+<button id="chatbase-button">
+
+💬
+
+</button>
+
+<iframe id="chatbase-widget" src="https://www.chatbase.co/chatbot-iframe/lfoIwoYxa01_q3kTlkn0y">
+
+</iframe>
+
+```{=html}
+<script>
+const btn = document.getElementById('chatbase-button');
+const chat = document.getElementById('chatbase-widget');
+
+btn.addEventListener('click', () => {
+  if (chat.style.display === 'none') {
+    chat.style.display = 'block';
+  } else {
+    chat.style.display = 'none';
+  }
+});
+</script>
+```

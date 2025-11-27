@@ -1,0 +1,33 @@
+------------------------------------------------------------------------
+
+**Default**
+
+Sustainable finance instruments offered by the financial institutions: sustainability-linked loans, green bonds, sustainability-linked bonds, green loans, social bonds and venture capital.
+
+------------------------------------------------------------------------
+
+**Output**
+
+Carousel of the summary cards of sustainable finance instruments located in the landing page constitute a very structured summary of the full description of sustainable finance instruments.
+
+![](images/sus_finance.png){fig-align="center"}
+
+------------------------------------------------------------------------
+
+**Data**
+
+Public data available in various websites with focus on ICMA resources.
+
+The selection of options is based on historic transactions pertaining to the aviation industry coupled with two extra alternatives for social and early-stage projects.
+
+------------------------------------------------------------------------
+
+**Definition**
+
+Please consult the Dictionary of terms function.
+
+------------------------------------------------------------------------
+
+> *Tip:* By clicking on any of the cards in the carousel, a longer description of the sustainable finance instrument appears – please see next page.
+
+---

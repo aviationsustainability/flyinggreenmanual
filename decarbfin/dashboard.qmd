@@ -1,0 +1,35 @@
+**Default**
+
+-   Volume transactions per State (ECAC & Global)
+
+-   Sustainable financing volume per instrument
+
+-   Sustainable financing volume per Key Performance Indicator
+
+-   Proceeds allocation per instrument and per stakeholder
+
+-   Key Performance Indicator used per stakeholder type
+
+------------------------------------------------------------------------
+
+**Output**
+
+Key volumes per geography, over time and per instrument, per Environmental, Social or General context, per stakeholder type and use of proceeds and finally, indicators appearing in transactions.
+
+![](images/dashboard_1.png){fig-align="center"}
+
+![](images/dashboard_2.png)
+
+------------------------------------------------------------------------
+
+**Data**
+
+Public data (web).
+
+For a comprehensive list of sources, click [here](https://docs.google.com/document/d/1RIO_S5FOcCurFOcuOKQNBF7hQQtOMEh6/edit?amp;amp;ouid=107479216635173070479&amp;rtpof=true&amp;sd=true).
+
+------------------------------------------------------------------------
+
+**Definitions**
+
+Please consult the Sustainable Finance dashboard for more information on how to read and interact with the visuals.

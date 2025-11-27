@@ -1,0 +1,25 @@
+![](images/financial_plan_1.png)
+
+------------------------------------------------------------------------
+
+**Default**
+
+No answers selected
+
+------------------------------------------------------------------------
+
+**Output**
+
+Selected levels impact the results.
+
+![](images/financial_plan_2.png)
+
+------------------------------------------------------------------------
+
+**Data**
+
+These reference values were developed based on a range of industry and academic sources of information.
+
+For more details you can see the [*Repository of Information and Guidance*](https://flying-green.eurocontrol.int/#/clim-adapt/repository-information-and-guidance/resources-on-climate-change-effects).
+
+------------------------------------------------------------------------

@@ -1,0 +1,21 @@
+------------------------------------------------------------------------
+
+**Default**
+
+List of short explanations and definitions of terms appearing in the Funding Booster functionalities .
+
+------------------------------------------------------------------------
+
+**Output**
+
+Each term is categorised under the Funding Booster’s functionality it belongs due to times of appearance. Each term is shortly explained with examples provided sometimes.
+
+------------------------------------------------------------------------
+
+**Data**
+
+All information is based on internal ASU validated information/knowledge and/or public acknowledged websites.
+
+![](images/dictionary.png){fig-align="center"}
+
+---

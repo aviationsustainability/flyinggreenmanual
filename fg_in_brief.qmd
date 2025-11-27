@@ -1,0 +1,28 @@
+# FlyingGreen in brief
+
+Welcome to the **FlyingGreen** platform, developed by EUROCONTROL's **Aviation Sustainability Unit (ASU)** in cooperation with key aviation stakeholders. '
+
+As unique one-stop-shop, FlyingGreen supports **ECAC Member States** and the **aviation sector** in their efforts toward decarbonisation and climate change adaptation.
+
+Our comprehensive toolkit includes the following pillars: •
+
+-   **NetZero:** Embark on a data-driven journey toward achieving zero emissions by 2050. Explore what-if scenarios to inform strategic decisions.
+
+-   **FuellingDecarb:** Access centralised information on transitioning from fossil to sustainable aviation fuels. Utilise our ‘green fuels’ calculator and resource hub.
+
+-   **ClimAdapt:** Build resilience to climate change, by using our climate risk pre-screening or ECO assessment tools and repository of information on risk assessment and adaptation.
+
+-   **DecarbFin:** Facilitating access to funding and providing good practices and tools for compliance with EU sustainability regulations.
+
+### FlyingGreen On-boarding video
+
+Here you can find a FlyingGreen on-boarding video, through which you can learn by doing how the platform works:
+
+::: {.content-visible when-format="html"}
+
+<div style="text-align: center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yb5YedrPrEA" title="Quarto introduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
+</div>
+:::

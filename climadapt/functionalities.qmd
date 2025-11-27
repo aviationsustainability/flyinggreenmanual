@@ -1,0 +1,16 @@
+1.  **Climate Change effects**
+    1.  View Climate change effects per Climate zone or State
+2.  **High level Pre-Screening tool**
+    1.  Run a climate change risk pre-screening assessment
+    2.  View the pre-screening assessment report summary
+3.  **Economic Assessment tool**
+    1.  Plan for the financial implications of climate change
+    2.  View the economic assessment results
+4.  **Repository of Impacts and Adaptation Measures**
+    1.  Search for potential climate impacts and targeted measures to reduce vulnerabilities
+5.  **Adaptation Planning Checklists**
+    1.  Check the key steps for climate risk assessment and adaptation action
+6.  **Repository of Information and Guidance**
+    1.  Get guidance on climate change risks and adaptation measures from various sources
+7.  **About the Data**
+    1.  View ClimAdapt data sources

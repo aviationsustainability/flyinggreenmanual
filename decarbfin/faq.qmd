@@ -1,0 +1,51 @@
+![](images/faq_1.png){fig-align="center"}
+
+------------------------------------------------------------------------
+
+**Default**
+
+FAQ for Fund Pathfinder
+
+------------------------------------------------------------------------
+
+**Output**
+
+The FAQ is presented for the Fund-Pathfinder.
+
+![](images/faq_2.png)
+
+------------------------------------------------------------------------
+
+**Data**
+
+The FAQ summarises the **scope** of Fund Pathfinder under a list of given Q&A defining:
+
+-   geographical scope,
+
+-   programme/fund scope,
+
+-   stakeholders addressed,
+
+-   funding options,
+
+-   project (sub-) types,
+
+-   project maturity.
+
+------------------------------------------------------------------------
+
+**Definition**
+
+**Beneficiaries:**: aviation stakeholders benefiting from the EU funding programmes included in Fund Pathfinder;
+
+**Result type:** search results that correspond to either a Fund, a Call, or both;
+
+**Fund:** a EU funding programme or financing instrument;
+
+**Call:** a specific funding opportunity (often a grant) for a given Fund/Programme, with a specific time window when applicants are invited to submit under their Call for Proposal;
+
+**Technology Readiness Level (TRL):** a method used to assess the maturity of a particular technology;
+
+**Project type/sub-type:** project categorisation according to eligible stakeholders, purpose of project and maturity level.
+
+------------------------------------------------------------------------

@@ -1,0 +1,45 @@
+------------------------------------------------------------------------
+
+**Default**
+
+A selection of diverse sustainable finance transactions or past Use Cases from the global aviation sector. They constitute financial deals between borrower companies active in aviation and financial institutions. These deals are subject to ESG-related financial conditions.
+
+------------------------------------------------------------------------
+
+**Output**
+
+Each Use Case outlines a single transaction with details on:
+
+-   State,
+
+-   Type of stakeholder,
+
+-   Organisation,
+
+-   Amount asked,
+
+-   Use of proceeds,
+
+-   KPIs used,
+
+-   EU Taxonomy relevance,
+
+-   Transaction year,
+
+-   Source.
+
+![](images/use_cases.png){fig-align="center"}
+
+------------------------------------------------------------------------
+
+**Data**
+
+Public data mainly by press releases from involved parties or articles mainly at bank websites.
+
+---
+
+**Definitions**
+
+Please consult the Dictionary of terms function.
+
+------------------------------------------------------------------------

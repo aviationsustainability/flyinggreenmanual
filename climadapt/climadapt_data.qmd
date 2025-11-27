@@ -1,0 +1,15 @@
+![](images/climadapt_data.png)
+
+**Default**
+
+Links
+
+------------------------------------------------------------------------
+
+**Output**
+
+The data sources links open in a new window.
+
+![](images/climadapt_data_1.png)
+
+------------------------------------------------------------------------

@@ -1,0 +1,27 @@
+![](images/climate_change_effects_1.png){width="466"}
+
+------------------------------------------------------------------------
+
+**Default**
+
+No Geographical subdivision selected
+
+Climate change effects is empty
+
+Map displayed with all IPCC zone with colour codes
+
+------------------------------------------------------------------------
+
+**Output**
+
+Selected IPCC geographical subdivision highlighted with related Climate change effects.
+
+![](images/climate_change_effects_2.png){width="535"}
+
+------------------------------------------------------------------------
+
+**Data**
+
+Scientific sources the IPCC assessment reports.
+
+------------------------------------------------------------------------

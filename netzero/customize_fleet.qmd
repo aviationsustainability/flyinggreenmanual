@@ -1,0 +1,35 @@
+![](/netzero/images/customizefleet1.png)
+
+------------------------------------------------------------------------
+
+**Default**
+
+Default Levels:
+
+1)  Moderate (Fleet and Air Traffic Management)
+
+2)  Moderate (Economic Scenario)
+
+------------------------------------------------------------------------
+
+**Output**
+
+The different levels update the Emissions, Fuel burn, Cumulative Emissions, What-if and Environmental Cost Graphs.
+
+![](/netzero/images/customizefleet2.png)
+
+------------------------------------------------------------------------
+
+**Data**
+
+Fleet evolution, revolution are derived from forecasted emission reductions as presented in the EUROCONTROL Aviation Outlook 2050.
+
+The reduction potential per year are extrapolated towards final results in 2050 in the different scenarios.
+
+The user can select his/her/their specific improvement percentages using the sliders and/or select low, moderate or high prices for fuels, SAF and CO2.
+
+The state view includes the impact on ticket price and subsequent impact on demand.
+
+In this release very simple values and methodologies are applied (not specified per market segment or other filters), assuming fixed operational margins and fuel cost shares of airlines, to present the user with an mererly and indication of possible impact.
+
+The price elasticity value applied is *-0.1*.

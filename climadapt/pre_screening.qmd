@@ -1,0 +1,25 @@
+![](images/pre_screening_1.png)
+
+------------------------------------------------------------------------
+
+**Default**
+
+Results from the High-level pre-screening assessment
+
+------------------------------------------------------------------------
+
+**Output**
+
+The results of the high-level pre-screening assessment are presented:
+
+-   Screening Assessment Report;
+
+-   Answers to climate change effects and impacts questions;
+
+-   Recommendation for next steps.
+
+Results of the last assessment can be downloaded.
+
+![](images/pre_screening_2.png)
+
+------------------------------------------------------------------------

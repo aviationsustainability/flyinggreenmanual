@@ -1,0 +1,11 @@
+# Purpose
+
+Welcome to the **FlyingGreen User Manual**, your comprehensive guide for navigating and utilising the innovative FlyingGreen platform. 
+
+This manual is designed for all users, whether you're a new or an experienced user, and aims to provide all the necessary information to understand and operate the FlyingGreen platform effectively.
+
+Within this document, you will find detailed instructions, guidelines, and visual aids to help you make the most of FlyingGreen's functionalities.
+
+From data representation to practical implementation, this reference manual covers every aspect of the FlyingGreen platform, ensuring you have the knowledge required to leverage its features to their fullest potential.
+
+Thank you for choosing FlyingGreen.

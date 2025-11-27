@@ -1,0 +1,51 @@
+# FlyingGreen functionalities
+
+## Netzero
+
+-   Improved traffic and emission values
+
+-   ANSP / AUA area selections
+
+-   Links with environmental management systems such as GreenATM, ACA
+
+-   Flight Phases filter improvements
+
+-   Fleet Renewal & Revolution (e- and H2) What If slider
+
+-   Air Traffic Management and Airline Operation Improvements What if slider including detailed improvements per flight phase
+
+-   Log In and save-retrieve multiple projects
+
+-   KPI overview for ANSP and Airport views
+
+-   Environmental costs bar chart including impact on ticket price and demand (assuming a -0.1-elasticity value which will be updated in a next release to reflect better values per market segments)
+
+## FuellingDecarb
+
+-   Estimation tool covers 2025, 2035 & 2045 in addition to existing 2030, 2040 & 2050.
+
+-   Select the conversion provider : TU Delft or Trinity college of Dublin
+
+-   Hydrogen and Electric powered aircraft, updates (new input data and formulas).
+
+-   Gap electricity : Infrastructures deployment costs estimation for Wind Onshore & Offshore, Solar and Nuclear.
+
+-   SAF Costs and prices : Estimate the SAF levelised cost and Minimumselling Price globally and per feedstock/Pathway.
+
+-   Display SAF and Hydrogen Costs graphical representation
+
+-   Electricity Share : display the electricity repartition (renewable, low-carbon, other) for “Global” , “Allowed” and “Used” electricity. Customize the repartition for each feedstock.
+
+## ClimAdapt
+
+-   Airport Operators, ANSPs, Airlines Climate Change Adaptation Planning Checklists
+
+-   Repository of Information and Guidance
+
+## DecarbFin
+
+-   Landing Page Design & Structure
+
+-   Funding Basket: add, select, remove and link essentials to build an EU & Private funding business case
+
+-   Funding Booster including Financial Instruments, Use Cases,

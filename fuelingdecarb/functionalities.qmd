@@ -1,0 +1,40 @@
+1.  Settings Select the Fuel Assessment tool settings
+
+2.  Fuel Estimate View the Fuel Assessment page
+
+3.  Bio SAF The Bio SAF Fuel production, units, electricity required, GHGs, cost & Minimum Selling Price
+
+4.  SAF Coproduct Assess the SAF Coproducts production
+
+5.  Synthetic SAF The Synthetic SAF fuel production, electricity required, units GHGs, Costs & Minimum Selling Price
+
+6.  Electric Aircraft The Electric Aircraft electricity production
+
+7.  Hydrogen Aircraft The Hydrogen fuel production
+
+8.  Allocated Renewable Electricity Assess the volume of Green electricity (produced with renewable energy) necessary for Fuel production
+
+9.  Electricity Share Display Global, Allocated & Used electricity
+
+10. Fill the Renewable Electricity gap Plan the Renewable electricity infrastructures to fill the Renewable electricity gap with costs
+
+**Fuel Assessment**
+
+11. **Allocated Low-Carbon Electricity** Assess the Low-Carbon electricity necessary for Fuel production
+
+12. **Fill the Low Carbon Electricity gap** Plan the Low-Carbon electricity infrastructures to fill the Low-Carbon electricity gap with costs
+
+13. **Allocated Other Electricity** Assess the Others energy category of electricity necessary for Fuel production
+
+14. **Needs & Production** View needs & production chart (SAF, Hydrogen fuel and Electric aircraft)
+
+15. **SAF & H₂ Costs Graph** Graphical display of SAF and H₂ costs for each feedstock/pathway
+
+**SAF Map**
+
+16. **SAF Map** View the SAF map
+
+**SAF News Corner**
+
+17. **SAF News**\
+    View the SAF news

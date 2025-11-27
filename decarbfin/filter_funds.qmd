@@ -1,0 +1,34 @@
+
+![](images/filter_1.png){fig-align="center" width="411"}
+
+------------------------------------------------------------------------
+
+**Query**
+
+**Two methods for searching**
+
+-   **Quick general query:** you may use the filters at the top of the page: State, Stakeholder, Keyword: you can select one State, one or multiple Stakeholders and optionally Keyword(s).
+
+![](images/filter_2.png){fig-align="center" width="381"}
+
+-   **Refined query for specific project types:** You may use the filters on the left hand-side, where all filtering combinations are possible:
+
+    1.  Result type (Fund/Call),
+    2.  Status (Active/Upcoming…),
+    3.  Funding Type (Grant, other…),
+    4.  Project maturity,
+    5.  Project Type (purpose).
+
+The search can combine filters at the top and the left of the page.
+
+![](images/filter_3.png){fig-align="center" width="201"}
+
+> *Note on Result Type:* The query can be made on “Funds” or “Calls”, or both combined.  “Calls” are instantiations of “Funds” meaning that they are more focused and may only target a subset of the project types defined in the corresponding “Fund”. 
+
+------------------------------------------------------------------------
+
+**Output**
+
+![](images/filter_4.png){fig-align="center"}
+
+------------------------------------------------------------------------

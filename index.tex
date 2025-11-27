@@ -1,0 +1,1169 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+%
+\documentclass[
+  letterpaper,
+]{report}
+
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\setcounter{secnumdepth}{5}
+% Make \paragraph and \subparagraph free-standing
+\ifx\paragraph\undefined\else
+  \let\oldparagraph\paragraph
+  \renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+  \let\oldsubparagraph\subparagraph
+  \renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+\usepackage{color}
+\usepackage{fancyvrb}
+\newcommand{\VerbBar}{|}
+\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
+% Add ',fontsize=\small' for more characters per line
+\usepackage{framed}
+\definecolor{shadecolor}{RGB}{241,243,245}
+\newenvironment{Shaded}{\begin{snugshade}}{\end{snugshade}}
+\newcommand{\AlertTok}[1]{\textcolor[rgb]{0.68,0.00,0.00}{#1}}
+\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.37,0.37,0.37}{#1}}
+\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.40,0.45,0.13}{#1}}
+\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.68,0.00,0.00}{#1}}
+\newcommand{\BuiltInTok}[1]{\textcolor[rgb]{0.00,0.23,0.31}{#1}}
+\newcommand{\CharTok}[1]{\textcolor[rgb]{0.13,0.47,0.30}{#1}}
+\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.37,0.37,0.37}{#1}}
+\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.37,0.37,0.37}{\textit{#1}}}
+\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
+\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.00,0.23,0.31}{#1}}
+\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.68,0.00,0.00}{#1}}
+\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.68,0.00,0.00}{#1}}
+\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.37,0.37,0.37}{\textit{#1}}}
+\newcommand{\ErrorTok}[1]{\textcolor[rgb]{0.68,0.00,0.00}{#1}}
+\newcommand{\ExtensionTok}[1]{\textcolor[rgb]{0.00,0.23,0.31}{#1}}
+\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.68,0.00,0.00}{#1}}
+\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.28,0.35,0.67}{#1}}
+\newcommand{\ImportTok}[1]{\textcolor[rgb]{0.00,0.46,0.62}{#1}}
+\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.37,0.37,0.37}{#1}}
+\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.00,0.23,0.31}{#1}}
+\newcommand{\NormalTok}[1]{\textcolor[rgb]{0.00,0.23,0.31}{#1}}
+\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.37,0.37,0.37}{#1}}
+\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.00,0.23,0.31}{#1}}
+\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.68,0.00,0.00}{#1}}
+\newcommand{\RegionMarkerTok}[1]{\textcolor[rgb]{0.00,0.23,0.31}{#1}}
+\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.37,0.37,0.37}{#1}}
+\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.13,0.47,0.30}{#1}}
+\newcommand{\StringTok}[1]{\textcolor[rgb]{0.13,0.47,0.30}{#1}}
+\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.07,0.07,0.07}{#1}}
+\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.13,0.47,0.30}{#1}}
+\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.37,0.37,0.37}{\textit{#1}}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\newlength{\cslhangindent}
+\setlength{\cslhangindent}{1.5em}
+\newlength{\csllabelwidth}
+\setlength{\csllabelwidth}{3em}
+\newlength{\cslentryspacingunit} % times entry-spacing
+\setlength{\cslentryspacingunit}{\parskip}
+\newenvironment{CSLReferences}[2] % #1 hanging-ident, #2 entry spacing
+ {% don't indent paragraphs
+  \setlength{\parindent}{0pt}
+  % turn on hanging indent if param 1 is 1
+  \ifodd #1
+  \let\oldpar\par
+  \def\par{\hangindent=\cslhangindent\oldpar}
+  \fi
+  % set entry spacing
+  \setlength{\parskip}{#2\cslentryspacingunit}
+ }%
+ {}
+\usepackage{calc}
+\newcommand{\CSLBlock}[1]{#1\hfill\break}
+\newcommand{\CSLLeftMargin}[1]{\parbox[t]{\csllabelwidth}{#1}}
+\newcommand{\CSLRightInline}[1]{\parbox[t]{\linewidth - \csllabelwidth}{#1}\break}
+\newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
+
+\makeatletter
+\makeatother
+\makeatletter
+\@ifpackageloaded{bookmark}{}{\usepackage{bookmark}}
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\AtBeginDocument{%
+\ifdefined\contentsname
+  \renewcommand*\contentsname{Table of contents}
+\else
+  \newcommand\contentsname{Table of contents}
+\fi
+\ifdefined\listfigurename
+  \renewcommand*\listfigurename{List of Figures}
+\else
+  \newcommand\listfigurename{List of Figures}
+\fi
+\ifdefined\listtablename
+  \renewcommand*\listtablename{List of Tables}
+\else
+  \newcommand\listtablename{List of Tables}
+\fi
+\ifdefined\figurename
+  \renewcommand*\figurename{Figure}
+\else
+  \newcommand\figurename{Figure}
+\fi
+\ifdefined\tablename
+  \renewcommand*\tablename{Table}
+\else
+  \newcommand\tablename{Table}
+\fi
+}
+\@ifpackageloaded{float}{}{\usepackage{float}}
+\floatstyle{ruled}
+\@ifundefined{c@chapter}{\newfloat{codelisting}{h}{lop}}{\newfloat{codelisting}{h}{lop}[chapter]}
+\floatname{codelisting}{Listing}
+\newcommand*\listoflistings{\listof{codelisting}{List of Listings}}
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\@ifpackageloaded{subcaption}{}{\usepackage{subcaption}}
+\makeatother
+\makeatletter
+\@ifpackageloaded{tcolorbox}{}{\usepackage[many]{tcolorbox}}
+\makeatother
+\makeatletter
+\@ifundefined{shadecolor}{\definecolor{shadecolor}{rgb}{.97, .97, .97}}
+\makeatother
+\makeatletter
+\makeatother
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={FlyingGreen User Manual},
+  pdfauthor={EUROCONTROL/ASU},
+  colorlinks=true,
+  linkcolor={blue},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={Blue},
+  pdfcreator={LaTeX via pandoc}}
+
+\title{FlyingGreen User Manual}
+\author{EUROCONTROL/ASU}
+\date{2/9/25}
+
+\begin{document}
+\maketitle
+\ifdefined\Shaded\renewenvironment{Shaded}{\begin{tcolorbox}[boxrule=0pt, breakable, interior hidden, borderline west={3pt}{0pt}{shadecolor}, sharp corners, enhanced, frame hidden]}{\end{tcolorbox}}\fi
+
+\renewcommand*\contentsname{Table of contents}
+{
+\hypersetup{linkcolor=}
+\setcounter{tocdepth}{2}
+\tableofcontents
+}
+\bookmarksetup{startatroot}
+
+\hypertarget{flyinggreen}{%
+\chapter*{FLYINGGREEN}\label{flyinggreen}}
+\addcontentsline{toc}{chapter}{FLYINGGREEN}
+
+\markboth{FLYINGGREEN}{FLYINGGREEN}
+
+Your journey manual.
+
+Version 2.3
+
+\begin{figure}
+
+{\centering \includegraphics{./www/fg_logo.png}
+
+}
+
+\end{figure}
+
+\bookmarksetup{startatroot}
+
+\hypertarget{purpose}{%
+\chapter{Purpose}\label{purpose}}
+
+Welcome to the FlyingGreen User Manual, your comprehensive guide for
+navigating and utilising the innovative FlyingGreen platform. This
+manual is designed for all users, whether you're a new or an experienced
+user, and aims to provide all the necessary information to understand
+and operate the FlyingGreen platform effectively.
+
+Within this document, you will find detailed instructions, guidelines,
+and visual aids to help you make the most of FlyingGreen's
+functionalities.
+
+From data representation to practical implementation, this reference
+manual covers every aspect of the FlyingGreen platform, ensuring you
+have the knowledge required to leverage its features to their fullest
+potential.
+
+Thank you for choosing FlyingGreen.
+
+\bookmarksetup{startatroot}
+
+\hypertarget{flyinggreen-in-brief}{%
+\chapter{FlyingGreen in brief}\label{flyinggreen-in-brief}}
+
+Welcome to theFlyingGreenplatform. \textbf{FlyingGreen} platform,
+developed by EUROCONTROL's \textbf{AviationSustainability Unit (ASU)} in
+cooperation with key aviation stakeholders. As unique one-stop-shop,
+FlyingGreen supports ECAC Member States and the aviation sector in their
+efforts toward decarbonisation and climate change adaptation. Our
+comprehensive toolkit includes the following pillars: •
+
+\begin{itemize}
+\item
+  \textbf{NetZero:} Embark on a data-driven journey toward achieving
+  zero emissions by 2050. Explore what-if scenarios to inform strategic
+  decisions.
+\item
+  \textbf{FuellingDecarb:} Access centralised information on
+  transitioning from fossil to sustainable aviation fuels. Utilise our
+  `green fuels' calculator and resource hub.
+\item
+  \textbf{ClimAdapt:} Build resilience to climate change, by using
+  ourclimate risk pre-screening or ECO assessment tools and repository
+  of information on risk assessment and adaptation.
+\item
+  \textbf{DecarbFin:} Facilitating access to funding and providing good
+  practices and tools for compliance with EU sustainability regulations.
+\end{itemize}
+
+\bookmarksetup{startatroot}
+
+\hypertarget{flyinggreen-functionalities}{%
+\chapter{FlyingGreen
+functionalities}\label{flyinggreen-functionalities}}
+
+\hypertarget{netzero}{%
+\section{Netzero}\label{netzero}}
+
+\begin{itemize}
+\item
+  Improved traffic and emission values
+\item
+  ANSP / AUA area selections
+\item
+  Links with environmental management systems such as GreenATM, ACA
+\item
+  Flight Phases filter improvements
+\item
+  Fleet Renewal \& Revolution (e- and H2) What If slider
+\item
+  Air Traffic Management and Airline Operation Improvements What if
+  slider including detailed improvements per flight phase
+\item
+  Log In and save-retrieve multiple projects
+\item
+  KPI overview for ANSP and Airport views
+\item
+  Environmental costs bar chart including impact on ticket price and
+  demand (assuming a -0.1-elasticity value which will be updated in a
+  next release to reflect better values per market segments)
+\end{itemize}
+
+\hypertarget{fuelingdecarb}{%
+\section{FuelingDecarb}\label{fuelingdecarb}}
+
+\begin{itemize}
+\item
+  Estimation tool covers 2025, 2035 \& 2045 in addition to existing
+  2030, 2040 \& 2050.
+\item
+  Select the conversion provider : TU Delft or Trinity college of Dublin
+\item
+  Hydrogen and Electric powered aircraft, updates (new input data and
+  formulas).
+\item
+  Gap electricity : Infrastructures deployment costs estimation for Wind
+  Onshore \& Offshore, Solar and Nuclear.
+\item
+  SAF Costs and prices : Estimate the SAF levelised cost and
+  Minimumselling Price globally and per feedstock/Pathway.
+\item
+  Display SAF and Hydrogen Costs graphical representation
+\item
+  Electricity Share : display the electricity repartition (renewable,
+  low-carbon, other) for ``Global'' , ``Allowed'' and ``Used''
+  electricity. Customize the repartition for each feedstock.
+\end{itemize}
+
+\hypertarget{climadapt}{%
+\section{ClimAdapt}\label{climadapt}}
+
+\begin{itemize}
+\item
+  Airport Operators, ANSPs, Airlines Climate Change Adaptation Planning
+  Checklists
+\item
+  Repository of Information and Guidance
+\end{itemize}
+
+\hypertarget{decarbfin}{%
+\section{DecarbFin}\label{decarbfin}}
+
+\begin{itemize}
+\item
+  Landing Page Design \& Structure
+\item
+  Funding Basket: add, select, remove and link essentials to build an EU
+  \& Private funding business case
+\item
+  Funding Booster including Financial Instruments, Use Cases,
+\end{itemize}
+
+\bookmarksetup{startatroot}
+
+\hypertarget{login}{%
+\chapter{Login}\label{login}}
+
+\begin{figure}
+
+{\centering \includegraphics{www/common_features_login.png}
+
+}
+
+\end{figure}
+
+\bookmarksetup{startatroot}
+
+\hypertarget{netzero-1}{%
+\chapter{NetZero}\label{netzero-1}}
+
+\hypertarget{functionalities}{%
+\section{Functionalities}\label{functionalities}}
+
+\begin{figure}
+
+{\centering \includegraphics{www/netzero_navigation.png}
+
+}
+
+\end{figure}
+
+Based on EUROCONTROL data and traffic forecasts, get an estimate of
+future trip fuel burn and emissions towards 2050 in different
+operational views and with traffic filtering options. Explore what-if
+scenarios to inform sustainable strategic decisions. Leverage on what-if
+scenario tools, exploring how Sustainable Aviation Fuel (SAF) volumes,
+technological and operational improvements can impact emission reduction
+potential. See an indication of additional environmental costs from SAF
+and market-based measures.
+
+\textbf{Project Data}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  Save/Retrieve/Delete Project
+\item
+  \textbf{Emissions estimate}\\
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \setcounter{enumii}{1}
+  \tightlist
+  \item
+    Select the Area and Level of interest\\
+  \item
+    View the Emissions (totals, average and reference)\\
+  \item
+    View the Fuel Burn and Flights number\\
+  \item
+    View the Cumulative Emissions\\
+  \item
+    View the KPIs or results per category\\
+  \item
+    View the Environmental Costs\\
+  \item
+    Select the Flight criteria Filters\\
+  \item
+    Select the Aviation Outlook Scenario
+  \end{enumerate}
+\item
+  \textbf{What-if estimates}\\
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \setcounter{enumii}{9}
+  \tightlist
+  \item
+    Customise the SAF Blend\\
+  \item
+    Customise the Fleet, Air Traffic Management and Economic Prices
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{save-retrieve-delete-project-data}{%
+\section{Save, Retrieve, Delete Project
+data}\label{save-retrieve-delete-project-data}}
+
+Note: You need to log in to enable project data management.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi})}
+\tightlist
+\item
+  Display the projects list
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii})}
+  \tightlist
+  \item
+    Open the Project(s) dropdown.
+  \item
+    The list of available projects appears (e.g., MyFirstProject,
+    MySecondProject, New Project).
+  \end{enumerate}
+\item
+  Create a new project and save data
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii})}
+  \tightlist
+  \item
+    In the Project(s) dropdown, choose New Project.
+  \item
+    In the New Project field, enter the project name (e.g., My New
+    Project Name).
+  \item
+    Review the Net Zero information shown on the page.
+  \item
+    Click Save to create the project and store the displayed Net Zero
+    information.
+  \end{enumerate}
+\item
+  Update data in the current project
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii})}
+  \tightlist
+  \item
+    Ensure the desired project is selected in Project(s) (e.g.,
+    MyFirstProject).
+  \item
+    Make your changes on the page.
+  \item
+    Click Save to update the current project with the new information.
+  \end{enumerate}
+\item
+  Retrieve project data
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii})}
+  \tightlist
+  \item
+    Open the Project(s) dropdown.
+  \item
+    Select the project you want to load (e.g., MyFirstProject,
+    MySecondProject, or My New Project Name).
+  \item
+    The stored data for that project will be retrieved and displayed.
+  \end{enumerate}
+\item
+  Delete a project
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii})}
+  \tightlist
+  \item
+    Open the Project(s) dropdown and locate the project to remove.
+  \item
+    Click the delete (trash/bin) icon next to that project.
+  \item
+    In the confirmation dialog, click Confirm to permanently delete the
+    project (or Cancel to keep it).
+  \end{enumerate}
+\end{enumerate}
+
+\begin{figure}
+
+{\centering \includegraphics{www/netzero_session_saving.png}
+
+}
+
+\end{figure}
+
+\hypertarget{select-area-of-interest}{%
+\section{Select Area of interest}\label{select-area-of-interest}}
+
+You can analyze results at different levels. First pick a Level, then
+pick the corresponding Area.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi})}
+\tightlist
+\item
+  Select the Level
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii})}
+  \tightlist
+  \item
+    Open the Level dropdown. Choose one of:
+  \item
+    Network
+  \item
+    State
+  \item
+    FAB
+  \item
+    Airport
+  \end{enumerate}
+\end{enumerate}
+
+(After you choose a level, the Area dropdown will adapt to that level.)
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi})}
+\setcounter{enumi}{1}
+\tightlist
+\item
+  Select the Area / State / FAB / ANSP / Airport
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii})}
+  \setcounter{enumii}{1}
+  \tightlist
+  \item
+    Open the Area dropdown.
+  \item
+    Pick the item that matches your chosen level:
+
+    \begin{enumerate}
+    \def\labelenumiii{\arabic{enumiii})}
+    \tightlist
+    \item
+      Network → choose a region (e.g., ECAC, EUROCONTROL, EU27+EFTA,
+      EEA, RP3, EU27).
+    \item
+      State → choose a country (e.g., Belgium).
+    \item
+      FAB → choose a Functional Airspace Block (e.g., FABEC).
+    \item
+      Airport → choose an airport (e.g., Brussels).
+    \end{enumerate}
+  \item
+    The map panel updates to your selection.
+  \end{enumerate}
+\end{enumerate}
+
+What to do next
+
+\begin{itemize}
+\item
+  Click Area focus to view metrics for the selected area (you'll see
+  panels such as Fuel burn and others update accordingly).
+\item
+  Or click Full trajectory if you want trajectory-based views (when
+  available).
+\end{itemize}
+
+Notes \& tips
+
+\begin{itemize}
+\item
+  ``Please select your area of interest to determine the filters'',
+  filters become available after you pick a Level + Area.
+\item
+  For Airport level, select a source to display airport emissions (e.g.,
+  LTO, TMA) when prompted.
+\end{itemize}
+
+Default values
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  Level value is Network
+\item
+  Area value is ECAC
+\item
+  State value is Belgium
+\item
+  FAB value is FABEC
+\item
+  ANSP value is Skeyes
+\item
+  Airport value is Brussels
+\end{enumerate}
+
+\includegraphics{netzero/images/clipboard-1061742285.png}
+
+Output
+
+The Level and Area selection update the Emissions, Fuel burn, Cumulative
+Emissions and What-if Graphs.
+
+Data
+
+UN list of countries. The designations employed do not imply the
+expression of any opinion whatsoever on the part of EUROCONTROL
+concerning the legal status of any country, territory, city or area or
+of its authorities, or concerning the delimitation of its frontiers or
+boundaries. Generally, Airports with, on average, more than 10 movements
+per\includegraphics{netzero/images/clipboard-1061742285.png} day are
+included.
+
+Definition
+
+Network: group of states State: nation or territory considered as an
+organized political community under one government FAB (Functional
+Airspace Block): an airspace block based on operational requirements and
+established regardless of State boundaries.
+
+\begin{figure}
+
+{\centering \includegraphics{www/netzero_level_of_interest.png}
+
+}
+
+\end{figure}
+
+\hypertarget{view-the-emissions-totals-average-and-reference}{%
+\section{View the Emissions (totals, average and
+reference)}\label{view-the-emissions-totals-average-and-reference}}
+
+\begin{figure}
+
+{\centering \includegraphics[width=3.125in,height=\textheight]{www/select_emissions_mode.png}
+
+}
+
+\end{figure}
+
+Default
+
+\begin{itemize}
+\item
+  values CO2 exhaust, CO2 net, SAF, Fleet Renewal, Fleet Revolution,
+  Operation Improvements, NOx, SOx
+\item
+  Emissions View Total
+\end{itemize}
+
+Output
+
+The Emissions results vary depending on the Zone selected, the Filters
+and the What if values. The total emissions of one year, and the
+reduction potential of in-sector improvements are visible at the top of
+the graph.
+
+\begin{figure}
+
+{\centering \includegraphics{www/emissions_graph.png}
+
+}
+
+\end{figure}
+
+Data
+
+Total value presents absolute total values of emissions Average values
+present values per flight Relative values present the yearly relative
+change compared to the reference year (currently 2024)
+
+Definition
+
+Total value presents absolute total values of emissions
+
+Average values present values per flight
+
+Relative values present the yearly relative change compared to the
+reference year (currently 2024)
+
+\hypertarget{view-the-fuel-burn-number-of-flights}{%
+\section{View the Fuel Burn \& Number of
+Flights}\label{view-the-fuel-burn-number-of-flights}}
+
+Default
+
+Default values~Fossil, SAF, e-H2~and Number of flights~
+
+Output
+
+The Fuel Burn results vary depending on the Zone selected, the
+Filtersand the What if simulation. The Fuel Burn of one year is visible
+atthe~top of the graph. The graph shows total fuel burn and averagefuel
+burn per flight. The H2~and electricity energy is based on thepercentage
+of fleet revolution chosen.\hspace{0pt}
+
+\begin{figure}
+
+{\centering \includegraphics{www/fuel_burn_no_flights_graph.png}
+
+}
+
+\end{figure}
+
+Data
+
+Fuel burn historical values are~calculated for each flight
+using~theEUROCONTROL~Advanced~Emission~Model (AEM) based on
+latestaircraft/engine fuel burn and emission models with
+BADA3.16.Estimated Fuel burn values towards 2050 are based on
+actualtrajectories of reference year (usually the last full year) and
+trafficgrowth rates as published by STATFOR.\hspace{0pt}
+
+\hypertarget{view-the-cumulative-emissions}{%
+\section{View the cumulative
+emissions}\label{view-the-cumulative-emissions}}
+
+\begin{figure}
+
+{\centering \includegraphics[width=3.125in,height=\textheight]{www/cum_emissions.png}
+
+}
+
+\end{figure}
+
+Default
+
+Default~values~CO2~exhaust and CO2~net
+
+Output
+
+The Cumulative Emissions results vary depending on the Zoneselected, the
+Filters and the What if simulation. The CumulativeEmissions of one year
+is visible by travelling on top of the graph.
+
+Data
+
+The yearly results from the main graph are added to indicate
+thecumulative emission results for CO2~(as CO2~remains in theatmosphere
+for many decades).\hspace{0pt}
+
+\hypertarget{view-the-what-if-results}{%
+\section{View the what-if results}\label{view-the-what-if-results}}
+
+\hypertarget{view-the-environmental-management-status}{%
+\section{View the Environmental Management
+status}\label{view-the-environmental-management-status}}
+
+\includegraphics{www/env_management_status.png}
+
+Default
+
+In the ANSP and Airport views, instead of the cost graphs an overviewis
+presented on the EMS status of ANSP and airports\hspace{0pt}
+
+Output
+
+Indication of the Environmental Systems that are applied at the ANSPand
+different national Airports.
+
+Data
+
+\textbf{ANSP}\hspace{0pt}
+
+Several Environmental Systems may be applied at ANSP level, such as
+EMAS,GreenATM, ISO 14000 family, etc.\hspace{0pt}
+
+The CANSO GreenATM programme is a voluntary environmental
+accreditationdesigned for ANSPs to assess and enhance their
+environmental performance. Itoffers a structured framework with five
+maturity levels, evaluating areas such asgovernance, operational
+efficiency, infrastructure, and stakeholder engagement.\hspace{0pt}
+
+Participation in the GreenATM programme is entirely voluntary for ANSPs.
+Itserves as an independent, industry-endorsed accreditation of
+theirenvironmental efforts.\hspace{0pt}
+
+\hypertarget{view-the-environmental-costs}{%
+\section{View the Environmental
+Costs}\label{view-the-environmental-costs}}
+
+\begin{figure}
+
+{\centering \includegraphics{www/view_env_costs.png}
+
+}
+
+\end{figure}
+
+Default~
+
+Default~values~EU ETS and Total view
+
+Output
+
+The Environmental costs vary depending on the Zone selected andthe What
+if simulation. The Environmental cost are visible for 3 years:
+
+2030, 2040 and 2050.\hspace{0pt}
+
+Data
+
+Data to calculate additional environmental costs are synchronized
+withassumptions from Eurocontrol Aviation Outlook 2050 (see
+below).\hspace{0pt}
+
+EU ETS cost are assumed to offset the total remaining net emissions,both
+taking into consideration LCA values (option EU ETS), and nottaking into
+consideration SAF lifecycle values (the option with SAFexcluded).
+\hspace{0pt}
+
+Simplified CORSIA costs only appear if emission values for
+eligibleflights are higher than 85\% of 2019 emissions and then
+takingCORSIA sectoral growth factors into consideration (linear
+progressionfrom zero towards SGF 2,6 in 2050). Only sectoral
+offsetmethodologies are included to avoid too high calculation
+complexities.\hspace{0pt}
+
+\includegraphics{netzero/images/clipboard-2275571278.png}
+
+\hypertarget{select-the-flight-criteria-filters}{%
+\section{Select the Flight criteria
+Filters}\label{select-the-flight-criteria-filters}}
+
+\hypertarget{select-the-aviation-outlook-scenario}{%
+\section{Select the Aviation Outlook
+Scenario}\label{select-the-aviation-outlook-scenario}}
+
+\hypertarget{customise-the-saf-blend}{%
+\section{Customise the SAF Blend}\label{customise-the-saf-blend}}
+
+\hypertarget{customise-the-fleet-air-traffic-management-and-economic-prices}{%
+\section{Customise the Fleet, Air Traffic Management and Economic
+Prices}\label{customise-the-fleet-air-traffic-management-and-economic-prices}}
+
+\hypertarget{see-the-impact-of-operational-improvements}{%
+\section{See the impact of operational
+improvements}\label{see-the-impact-of-operational-improvements}}
+
+\hypertarget{netzero-journey}{%
+\section{NetZero journey}\label{netzero-journey}}
+
+\bookmarksetup{startatroot}
+
+\hypertarget{fueling-decarb}{%
+\chapter{Fueling Decarb}\label{fueling-decarb}}
+
+\hypertarget{gateway-to-informed-green-energy-choices}{%
+\section{Gateway to Informed Green Energy
+Choices}\label{gateway-to-informed-green-energy-choices}}
+
+The~FuellingDecarb~pillar of the platform allows to assessthe volumes,
+costs and Minimum Selling Prices of SustainableAviation Fuel and the
+quantities of electricity and feedstockrequired to produce Sustainable
+Aviation Fuel (SAF) but alsohydrogen, electricity for hydrogen and
+electric poweredaircraft.\hspace{0pt}
+
+\hypertarget{fuel-assessment}{%
+\section{Fuel Assessment}\label{fuel-assessment}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  Settings Select the Fuel Assessment tool settings
+\item
+  Fuel Estimate View the Fuel Assessment page
+\item
+  Bio SAF The Bio SAF Fuel production, units, electricity required,
+  GHGs, cost \& Minimum Selling Price
+\item
+  SAF Coproduct Assess the SAF Coproducts production
+\item
+  Synthetic SAF The Synthetic SAF fuel production, electricity required,
+  units GHGs, Costs \& Minimum Selling Price
+\item
+  Electric Aircraft The Electric Aircraft electricity production
+\item
+  Hydrogen Aircraft The Hydrogen fuel production
+\item
+  Allocated Renewable Electricity Assess the volume of Green electricity
+  (produced with renewable energy) necessary for Fuel production
+\item
+  Electricity Share Display Global, Allocated \& Used electricity
+\item
+  Fill the Renewable Electricity gap Plan the Renewable electricity
+  infrastructures to fill the Renewable electricity gap with costs
+\end{enumerate}
+
+\textbf{Fuel Assessment}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{10}
+\item
+  \textbf{Allocated Low-Carbon Electricity} Assess the Low-Carbon
+  electricity necessary for Fuel production
+\item
+  \textbf{Fill the Low Carbon Electricity gap} Plan the Low-Carbon
+  electricity infrastructures to fill the Low-Carbon electricity gap
+  with costs
+\item
+  \textbf{Allocated Other Electricity} Assess the Others energy category
+  of electricity necessary for Fuel production
+\item
+  \textbf{Needs \& Production} View needs \& production chart (SAF,
+  Hydrogen fuel and Electric aircraft)
+\item
+  \textbf{SAF \& H₂ Costs Graph} Graphical display of SAF and H₂ costs
+  for each feedstock/pathway
+\end{enumerate}
+
+\textbf{SAF Map}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{15}
+\tightlist
+\item
+  \textbf{SAF Map} View the SAF map
+\end{enumerate}
+
+\textbf{SAF News Corner}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{16}
+\tightlist
+\item
+  \textbf{SAF News}\\
+  View the SAF news
+\end{enumerate}
+
+\bookmarksetup{startatroot}
+
+\hypertarget{climadapt-1}{%
+\chapter{ClimAdapt}\label{climadapt-1}}
+
+\hypertarget{intro}{%
+\section{Intro}\label{intro}}
+
+\includegraphics{climadapt/images/clipboard-1459319874.png}
+
+ClimAdapt is your portal to information on climate change impacts
+andadaptation measures for your organisation. \hspace{0pt}
+
+\begin{itemize}
+\item
+  Find out how the climate will change around the European region.
+  \hspace{0pt}
+\item
+  Initiate a location and organisation-based pre-screening assessment
+  tosupport the initiation of a full climate risk
+  assessment.\hspace{0pt}
+\item
+  Run a financial assessment and evaluate the potential costs of
+  climateimpacts.\hspace{0pt}
+\item
+  Use the checklist to plan a climate change risk assessment and
+  adaptationstrategy.~\hspace{0pt}
+\item
+  Explore key climate impacts and adaptation measures by
+  stakeholder,climate effect, or risk category.\hspace{0pt}
+\item
+  Get guidance on assessing climate change risks and implementing
+  effectiveadaptation strategies from various sources.\hspace{0pt}
+\end{itemize}
+
+\hypertarget{functionalities-1}{%
+\section{Functionalities}\label{functionalities-1}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \textbf{Climate Change effects}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    View Climate change effects per Climate zone or State
+  \end{enumerate}
+\item
+  \textbf{High level Pre-Screening tool}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Run a climate change risk pre-screening assessment
+  \item
+    View the pre-screening assessment report summary
+  \end{enumerate}
+\item
+  \textbf{Economic Assessment tool}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Plan for the financial implications of climate change
+  \item
+    View the economic assessment results
+  \end{enumerate}
+\item
+  \textbf{Repository of Impacts and Adaptation Measures}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Search for potential climate impacts and targeted measures to reduce
+    vulnerabilities
+  \end{enumerate}
+\item
+  \textbf{Adaptation Planning Checklists}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Check the key steps for climate risk assessment and adaptation
+    action
+  \end{enumerate}
+\item
+  \textbf{Repository of Information and Guidance}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Get guidance on climate change risks and adaptation measures from
+    various sources
+  \end{enumerate}
+\item
+  \textbf{About the Data}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    View ClimAdapt data sources
+  \end{enumerate}
+\end{enumerate}
+
+\bookmarksetup{startatroot}
+
+\hypertarget{decarbfin-1}{%
+\chapter{DecarbFin}\label{decarbfin-1}}
+
+\hypertarget{gateway-to-informed-green-energy-choices-1}{%
+\section{Gateway to Informed Green Energy
+Choices}\label{gateway-to-informed-green-energy-choices-1}}
+
+As financing aviation~decarbonisation~proves challenging, dueto limited
+access to sustainable finance and evolvingregulatory
+landscape,~DecarbFin~provides you with tools andinformation necessary to
+facilitate your access to public andprivate sustainable funding
+opportunities. Check out also theBluebook, a guide for enhanced ESG
+reporting andcompliance with the EU Taxonomy and CSRD to help
+younavigate this complex regulatory and reporting landscape.\hspace{0pt}
+
+\hypertarget{fuel-assessment-1}{%
+\section{Fuel Assessment}\label{fuel-assessment-1}}
+
+\textbf{FAQ}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  View the DecarbFin FAQ
+\end{enumerate}
+
+\textbf{Fund-Pathfinder}\\
+2. \textbf{Funds Overview} --- View the Funds \& Programmes overview\\
+3. \textbf{Search My Funds} --- Filter My Funds and Calls\\
+4. \textbf{Funds in detail} --- View the Funds, the Programmes and the
+Calls' details\\
+5. \textbf{Projects Overview} --- View the Projects overview
+
+\bookmarksetup{startatroot}
+
+\hypertarget{summary}{%
+\chapter{Summary}\label{summary}}
+
+In summary, this book has no content whatsoever.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\DecValTok{1} \SpecialCharTok{+} \DecValTok{1}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+[1] 2
+\end{verbatim}
+
+\bookmarksetup{startatroot}
+
+\hypertarget{references}{%
+\chapter*{References}\label{references}}
+\addcontentsline{toc}{chapter}{References}
+
+\markboth{References}{References}
+
+\hypertarget{refs}{}
+\begin{CSLReferences}{0}{0}
+\end{CSLReferences}
+
+
+
+\end{document}

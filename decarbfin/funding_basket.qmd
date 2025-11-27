@@ -1,0 +1,21 @@
+**Funding Basket:** a space to temporarily store selected information from Fund Pathfinder and Funding Booster and export to a word format.
+
+![](images/basket_1.png){fig-align="center"}
+
+------------------------------------------------------------------------
+
+**Default**
+
+The basket view consists of a **Fund Pathfinder (EU funding)** and **Funding Booster (private funding)** space: the user can select/add, view, and remove all the funds/calls and financial instruments previously selected. They can also add, view and remove ESG frameworks and Roadmaps.
+
+![](images/basket_2.png){fig-align="center"}
+
+![](images/basket_3.png)
+
+------------------------------------------------------------------------
+
+**Output**
+
+-   **Fund Pathfinder**: Sustainable business case including a selection of Funds and/or Calls including relevant EU funded project cases.
+
+-   **Funding Booster**: Sustainable business case defined by a single, selected financial instrument, and may include a linked ESG framework and/or a linked Roadmap.

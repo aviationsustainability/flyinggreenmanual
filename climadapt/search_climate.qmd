@@ -1,0 +1,29 @@
+![](images/search_1.png)
+
+------------------------------------------------------------------------
+
+**Default**
+
+All filters (Stakeholder, Climate Effect and Risk Category) preselected.
+
+------------------------------------------------------------------------
+
+**Output**
+
+Climate impacts results with vulnerabilities and adaptations measures.
+
+ ![](images/search_2.png)
+
+**Data**
+
+The information in this [repository](https://flying-green.eurocontrol.int/#/clim-adapt/repository) is based on:
+
+-   ICAO Key Climate Change Vulnerabilities for Aviation Organisations;
+
+-   ICAO Menu of Adaptation Options;
+
+-   EUROCONTROL Climate Change Risks for European Aviation 2021;
+
+-   EUROCONTROL Adapting Aviation to a Changing Climate 2018.
+
+------------------------------------------------------------------------

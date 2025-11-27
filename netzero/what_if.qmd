@@ -1,0 +1,41 @@
+<<<<<<< HEAD:netzero/what_if.qmd
+![](images/what_if_1.png){fig-align="center"}
+=======
+## ![](/www/what_if_results.png){fig-align="center" width="500"}
+>>>>>>> 0c5489e7c3ffb5f1e432003aa1a46c3d0dc9706d:netzero/what_if_results.qmd
+
+**Default**
+
+Default view Fleet Renewal
+
+------------------------------------------------------------------------
+
+**Output**
+
+The What if results vary depending on the Zone selected, the Filtersand the What if simulation. The What if results of one year are visibleby travelling on top of the graph.
+
+------------------------------------------------------------------------
+
+**Data**
+
+​The results for the parameters are extracted from the results in the main emission, fuel burn and cost calculation. This graphs presents simply an easier overview of expected results over time for only one parameter.​
+
+![](images/what_if_2.png){fig-align="center"}
+
+------------------------------------------------------------------------
+
+**Default**
+
+Default view In ANSP and Airport views, a KPI overview is shown
+
+------------------------------------------------------------------------
+
+**Output**
+
+The KPI results depend on the Zone selected, the Filters and the Whatif simulation. The What if results of one year are visible by travellingon top of the KPI overview.
+
+------------------------------------------------------------------------
+
+**Data**
+
+The results for the parameters are extracted from the results in themain emission, fuel burn and cost calculation. This overview presentssimply an easier overview of expected results over time for the mainindicators of interest (improvements and cost impact)

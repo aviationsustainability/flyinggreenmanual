@@ -1,0 +1,24 @@
+Note: You need to log in to enable project data management.
+
+1)  Display the projects list
+    1)  Open the Project(s) dropdown.
+    2)  The list of available projects appears (e.g., MyFirstProject, MySecondProject, New Project).
+2)  Create a new project and save data
+    1)  In the Project(s) dropdown, choose New Project.
+    2)  In the New Project field, enter the project name (e.g., My New Project Name).
+    3)  Review the Net Zero information shown on the page.
+    4)  Click Save to create the project and store the displayed Net Zero information.
+3)  Update data in the current project
+    1)  Ensure the desired project is selected in Project(s) (e.g., MyFirstProject).
+    2)  Make your changes on the page.
+    3)  Click Save to update the current project with the new information.
+4)  Retrieve project data
+    1)  Open the Project(s) dropdown.
+    2)  Select the project you want to load (e.g., MyFirstProject, MySecondProject, or My New Project Name).
+    3)  The stored data for that project will be retrieved and displayed.
+5)  Delete a project
+    1)  Open the Project(s) dropdown and locate the project to remove.
+    2)  Click the delete (trash/bin) icon next to that project.
+    3)  In the confirmation dialog, click Confirm to permanently delete the project (or Cancel to keep it).
+
+![](/www/netzero_session_saving.png){fig-align="center"}

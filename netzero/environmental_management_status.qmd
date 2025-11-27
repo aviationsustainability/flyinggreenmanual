@@ -1,0 +1,27 @@
+![](/www/env_management_status.png)
+
+**Default**
+
+In the ANSP and Airport views, instead of the cost graphs an overviewis presented on the EMS status of ANSP and airports​
+
+------------------------------------------------------------------------
+
+**Output**
+
+Indication of the Environmental Systems that are applied at the ANSPand different national Airports.
+
+------------------------------------------------------------------------
+
+**Data**
+
+*ANSP*​
+
+Several Environmental Systems may be applied at ANSP level, such as EMAS,GreenATM, ISO 14000 family, etc.​
+
+The CANSO GreenATM programme is a voluntary environmental accreditationdesigned for ANSPs to assess and enhance their environmental performance. Itoffers a structured framework with five maturity levels, evaluating areas such asgovernance, operational efficiency, infrastructure, and stakeholder engagement.​
+
+Participation in the GreenATM programme is entirely voluntary for ANSPs. It serves as an independent, industry-endorsed accreditation of their environmental efforts.​
+
+*Airports*
+
+The Airport Carbon Accreditation (ACA) programme, developed by Airports Council International (ACI), is a globally recognized certification that helps airports measure, manage, and reduce their carbon emissions. It offers a six-level framework, from mapping emissions to achieving net zero, and is based on independent assessment and annual verification.

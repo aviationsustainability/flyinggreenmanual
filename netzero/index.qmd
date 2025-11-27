@@ -1,0 +1,65 @@
+# NetZero
+
+## Functionalities
+
+{{< include functionalities.qmd >}}
+
+## Save, Retrieve, Delete Project data
+
+{{< include save_retrieve_delete_project_data.qmd >}}
+
+## Select Area of interest
+
+{{< include level_of_interest.qmd >}}
+
+## View the Emissions (totals, average and reference)
+
+{{< include emissions_totals.qmd >}}
+
+## View the Fuel Burn & Number of Flights
+
+{{< include fuel_burn_no_flights.qmd >}}
+
+## View the cumulative emissions
+
+{{< include cumulative_emissions.qmd >}}
+
+## View the what-if results
+
+{{< include what_if.qmd >}}
+
+## View the Environmental Management status
+
+{{< include environmental_management_status.qmd >}}
+
+## View the Environmental Costs
+
+{{< include view_env_costs.qmd >}}
+
+## Select the Flight criteria Filters
+
+{{< include flight_criteria_filters.qmd >}}
+
+## Select the Aviation Outlook
+
+{{< include aviation_outlook.qmd >}}
+
+## Customise the SAF Blend
+
+{{< include custom_saf_blend.qmd >}}
+
+## Customise the Fleet, Air Traffic Management and Economic Prices
+
+{{< include customize_fleet.qmd >}}
+
+## See the impact of operational improvements
+
+{{< include op_improvements.qmd >}}
+
+## NetZero journey
+
+{{< include net_zero_journey.qmd >}}
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0c5489e7c3ffb5f1e432003aa1a46c3d0dc9706d

@@ -1,0 +1,33 @@
+![](/www/select_emissions_mode.png){fig-align="center" width="300"}
+
+------------------------------------------------------------------------
+
+**Default**
+
+-   values CO2 exhaust, CO2 net, SAF, Fleet Renewal, Fleet Revolution, Operation Improvements, NOx, SOx
+
+-   Emissions View Total
+
+------------------------------------------------------------------------
+
+**Output**
+
+The Emissions results vary depending on the Zone selected, the Filters and the What if values. The total emissions of one year, and the reduction potential of in-sector improvements are visible at the top of the graph.
+
+![](/www/emissions_graph.png){fig-align="center"}
+
+------------------------------------------------------------------------
+
+**Data**
+
+Total value presents absolute total values of emissions Average values present values per flight Relative values present the yearly relative change compared to the reference year (currently 2024)
+
+------------------------------------------------------------------------
+
+**Definition**
+
+Total value presents absolute total values of emissions
+
+Average values present values per flight
+
+Relative values present the yearly relative change compared to the reference year (currently 2024)

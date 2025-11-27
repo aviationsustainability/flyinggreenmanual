@@ -1,0 +1,21 @@
+![](images/bluebook1.png){fig-align="center"}
+
+------------------------------------------------------------------------
+
+**Default**
+
+Bluebook
+
+------------------------------------------------------------------------
+
+**Output**
+
+The Bluebook is downloadable from the Landing page.
+
+![](images/bluebook2.png){fig-align="center"}
+
+------------------------------------------------------------------------
+
+**Data**
+
+The Bluebook summarises the EU Taxonomy and CSRD regulations using and quoting information provided by official EU regulatory websites, material produced by EFRAG, and other non-EU advisory services.

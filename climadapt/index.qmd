@@ -1,0 +1,49 @@
+# ClimAdapt
+
+## Intro
+
+{{< include intro.qmd >}}
+
+## Functionalities
+
+{{< include functionalities.qmd >}}
+
+## View Climate change effects​ per Climate zone or State
+
+{{< include climate_change_effects.qmd >}}
+
+## Run a climate change risk pre-screening assessment​
+
+{{< include run_climate_change.qmd >}}
+
+## View the pre-screening assessment report​ summary
+
+{{< include pre_screening.qmd >}}
+
+## Plan for the financial implications of climate change
+
+{{< include financial_plan.qmd >}}
+
+## View the economic assessment results
+
+{{< include economic_assessment.qmd >}}
+
+## Search for potential climate impacts and targeted measures to reduce vulnerabilities
+
+{{< include search_climate.qmd >}}
+
+## Check the key steps for climate risk assessment and adaptation action
+
+{{< include key_climate.qmd >}}
+
+## Get guidance on climate change risks and adaptation measures from various sources
+
+{{< include guidance_climate.qmd >}}
+
+## View ClimAdapt data sources
+
+{{< include climadapt_data.qmd >}}
+
+## ClimAdapt journey
+
+{{< include climadapt_journey.qmd >}}

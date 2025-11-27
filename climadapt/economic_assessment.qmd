@@ -1,0 +1,31 @@
+![](images/economic_assessment_1.png)
+
+------------------------------------------------------------------------
+
+**Default**
+
+Results from the Economic assessment
+
+------------------------------------------------------------------------
+
+**Output**
+
+The results of the Economic assessment are presented:
+
+-   PHOCCE score,
+
+-   Severity costs,
+
+-   Potential loss details,
+
+-   Next steps,
+
+-   Disclaimer,
+
+-   Sources.
+
+Results of the last assessment can be displayed.
+
+Recalculation is possible at the end of the results.
+
+------------------------------------------------------------------------

@@ -1,0 +1,37 @@
+![](/netzero/images/opimprovements1.png)
+
+------------------------------------------------------------------------
+
+**Default**
+
+Default Level is Moderate (Fleet and Air Traffic Management)
+
+------------------------------------------------------------------------
+
+**Output**
+
+The different input of operational improvements update:
+
+-   Emissions (with indicated reduction of emissions from operational improvements)
+
+-   Fuel burn
+
+-   Cumulative Emissions
+
+-   What-if
+
+-   Environmental Cost Graphs.
+
+![](/netzero/images/opimprovements2.png)
+
+------------------------------------------------------------------------
+
+**Data**
+
+The user can select specific improvement percentages per flight phase.
+
+Each flight phase presents indications of potential improvement percentages for different operational concepts.
+
+The operational improvements are only applied to the available trajectory segments in the selected zone/area.
+
+E.g. taxi operational improvements will not affect upper area airspace emissions.

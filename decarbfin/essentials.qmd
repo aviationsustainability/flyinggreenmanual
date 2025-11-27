@@ -1,0 +1,93 @@
+### 1. ESG Frameworks
+
+**Default**
+
+View the following items:
+
+-   Purpose of the framework
+
+-   Focus Areas
+
+-   Key Highlights
+
+-   Categories of ESG metrics
+
+-   Target Audience
+
+-   Relevance with Aviation Sector
+
+-   Where to Report
+
+-   Cost of Use
+
+-   Target Users
+
+-   Reporting Period
+
+-   Short Conclusion
+
+------------------------------------------------------------------------
+
+**Output**
+
+Each ESG framework is presented in detail. The navigation can be also managed from the navigation menu on the left side.
+
+------------------------------------------------------------------------
+
+**Data**
+
+All information is sourced from publicly accessible sources which are indicated at the bottom of the page. Some of them correspond to the official site of the ESG framework, where applicable (ie. CDP).
+
+![](images/cdp.png){fig-align="center" width="390"}
+
+------------------------------------------------------------------------
+
+**Definitions**
+
+Please consult the Dictionary of terms function.
+
+------------------------------------------------------------------------
+
+### 2. Roadmaps
+
+**Default**
+
+View the following items: - Description of the roadmap
+
+-   Strategy Goals it entails
+
+-   Main Features
+
+-   Technological solutions put forward
+
+-   Policy and Market Mechanisms
+
+-   Investment and Financing
+
+-   Operational and Infrastructure Changes
+
+-   International Collaboration
+
+-   Timelines/Milestones under its decarbonisation pathways
+
+![](images/roadmaps.png){fig-align="center" width="470"}
+
+------------------------------------------------------------------------
+
+**Output**
+
+Each roadmap is presented in detail. The navigation can be also managed from the navigation menu on the left side.
+
+------------------------------------------------------------------------
+
+**Data**
+
+All information is sourced from publicly accessible sources which are located at the bottom of the page. They correspond to the official site of the roadmap release (ie. ICAO, IATA, SBTi, etc.).
+
+------------------------------------------------------------------------
+
+**Definitions**
+
+Please consult the Dictionary of terms function.
+
+------------------------------------------------------------------------

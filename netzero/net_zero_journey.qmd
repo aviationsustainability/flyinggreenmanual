@@ -1,0 +1,25 @@
+### NetZero step by step
+
+-   **Emissions:** Check the Emissions for ECAC in 2035
+
+-   **Fuel Burn:** Check the Fuel Burn for ECAC in 2035
+
+-   **Filters:** Check only the departures, take-off phase and Mainline market segment for ECAC through the years
+
+-   **Scenarios:** Check the high scenario for ECAC through the years
+
+-   **SAF Blend:** Change the % of SAF blending for 2030 for ECAC
+
+-   **Fleet, Air Traffic Mgt and Economic Prices:** Consider High Fleet Renewal and a Moderate scenario for ATM and Airline operation Improvements or enter specific improvements per flight phase. Set the SAF Price on the highest possible level.
+
+    ------------------------------------------------------------------------
+
+### The advantages of your journey
+
+1)  Have the latest EUROCONTROL emission data of your area of interest available. 
+
+2)  See the impact of operational changes on fuel burn and emission values.
+
+3)  Benchmark your emission values with those of different area of interests and using different methodologies.
+
+4)  Get an indication of additional environmental cost due to regulations (ReFuelEU, EU ETS, CORSIA), and impact on ticket price and demand.

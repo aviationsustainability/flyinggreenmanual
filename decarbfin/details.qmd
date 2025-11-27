@@ -1,0 +1,32 @@
+![](images/details_1.png){fig-align="center"}
+
+------------------------------------------------------------------------
+
+**Default**
+
+-   **Sections appearing in a Fund:** Description, Funding types, Calls, Other support, Funding principles and rates, Project Maturity, Eligible States, Aviation related cases, References, Contact. 
+
+-   **Sections appearing in a Call:** Description, Funding types, Call total budget, Funding ratio, Call topics.
+
+------------------------------------------------------------------------
+
+**Output**
+
+The Funds & Programme or Calls details are displayed. The navigation is managed from the navigation index on the left-hand side.
+
+![](images/details_2.png){fig-align="center"}
+
+------------------------------------------------------------------------
+
+**Data**
+
+The information is sourced from the official EU websites and/or from the website of the specific programme/fund/call.
+
+------------------------------------------------------------------------
+
+**Definition**
+
+-   **Funding type(s):** type of funding resource (e.g. grant) or financing instrument (e.g. loan, bond, equity...)
+-   **Submission:** process of providing all necessary documents before deadline when applying for an EU funding opportunity
+
+------------------------------------------------------------------------

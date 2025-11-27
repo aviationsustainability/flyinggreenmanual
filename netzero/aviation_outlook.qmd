@@ -1,0 +1,21 @@
+![](/netzero/images/avoutlook1.png)
+
+------------------------------------------------------------------------
+
+**Default**
+
+Default Scenario value is Base
+
+------------------------------------------------------------------------
+
+**Output**
+
+The Low, Base and High Scenarios represent traffic hypothesis. The Scenario changes the Emissions, Fuel burn, Cumulative Emissions and What-if Graphs values.
+
+![](/netzero/images/avoutlook2.png)
+
+------------------------------------------------------------------------
+
+**Data**
+
+Traffic numbers and Emission and Fuel burn are based on High, Base and Low scenario as applied in the EUROCONTROL Aviation Outlook 2050. Each scenario presents different growth rates that are reflected in the emission Fuel burn graphs.
