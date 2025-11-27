@@ -184,17 +184,7 @@
     "href": "netzero/index.html#environmental-costs",
     "title": "5  NetZero",
     "section": "5.10 Environmental Costs",
-    "text": "5.10 Environmental Costs",
-    "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>NetZero</span>"
-    ]
-  },
-  {
-    "objectID": "netzero/index.html#section",
-    "href": "netzero/index.html#section",
-    "title": "5  NetZero",
-    "section": "5.11 ",
-    "text": "5.11 \nDefault\nDefault values: EU ETS and Total view\n\nOutput\nThe Environmental costs vary depending on the Zone selected and the What if simulation.\nThe Environmental cost are visible for 3 years: 2030, 2040 and 2050.​\n\nData\nData to calculate additional environmental costs are synchronized with assumptions from Eurocontrol Aviation Outlook 2050 (see below).​\nEU ETS cost are assumed to offset the total remaining net emissions,both taking into consideration LCA values (option EU ETS), and not taking into consideration SAF lifecycle values (the option with SAF excluded). ​\nSimplified CORSIA costs only appear if emission values for eligibleflights are higher than 85% of 2019 emissions and then takingCORSIA sectoral growth factors into consideration (linear progressionfrom zero towards SGF 2,6 in 2050). Only sectoral offsetmethodologies are included to avoid too high calculation complexities.​",
+    "text": "5.10 Environmental Costs\n\n\n\n\n\nDefault\nDefault values: EU ETS and Total view\n\nOutput\nThe Environmental costs vary depending on the Zone selected and the What if simulation.\nThe Environmental cost are visible for 3 years: 2030, 2040 and 2050.​\n\nData\nData to calculate additional environmental costs are synchronized with assumptions from Eurocontrol Aviation Outlook 2050 (see below).​\nEU ETS cost are assumed to offset the total remaining net emissions,both taking into consideration LCA values (option EU ETS), and not taking into consideration SAF lifecycle values (the option with SAF excluded). ​\nSimplified CORSIA costs only appear if emission values for eligibleflights are higher than 85% of 2019 emissions and then takingCORSIA sectoral growth factors into consideration (linear progressionfrom zero towards SGF 2,6 in 2050). Only sectoral offsetmethodologies are included to avoid too high calculation complexities.​",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>NetZero</span>"
     ]
@@ -203,8 +193,8 @@
     "objectID": "netzero/index.html#flight-criteria-filters",
     "href": "netzero/index.html#flight-criteria-filters",
     "title": "5  NetZero",
-    "section": "5.12 Flight criteria Filters",
-    "text": "5.12 Flight criteria Filters\n\n\nDefault\nDefault Area of interest is Area focus.\nDefault Flight type Area Focus is Departures and Arrivals Default Flight type.\nFull trajectory is Departures.\nNo Default Flight phases for Area focus or Full trajectory.\nNo Default Market segment for Area focus.\n\nOutput\nThe Area of interest and filters selection update the Emissions, Fuel burn, Cumulative Emissions and What-if Graphs.\n\nData\nEmission values are calculated using 2 different methodologies.\nThe Area focus presents Fuel burn and Emissions within the Area selected. Finetune the type of traffic to be presented by Departures to outside the Area selected, Arrivals to within the Area selected, Internal flight withing the Area selected, and Overflying traffic of the Area selected.\nWith the Full trajectory method, the Fuel burn, and Emissions of the Full trajectory are presented. Possible traffic selections are Full emission and Fuel burn of departing traffic from the Area selected, from Arrivals to the Area selected and from Domestic flights. Traffic selections cannot be selected simultaneously to avoid overlap.",
+    "section": "5.11 Flight criteria Filters",
+    "text": "5.11 Flight criteria Filters\n\n\nDefault\nDefault Area of interest is Area focus.\nDefault Flight type Area Focus is Departures and Arrivals Default Flight type.\nFull trajectory is Departures.\nNo Default Flight phases for Area focus or Full trajectory.\nNo Default Market segment for Area focus.\n\nOutput\nThe Area of interest and filters selection update the Emissions, Fuel burn, Cumulative Emissions and What-if Graphs.\n\nData\nEmission values are calculated using 2 different methodologies.\nThe Area focus presents Fuel burn and Emissions within the Area selected. Finetune the type of traffic to be presented by Departures to outside the Area selected, Arrivals to within the Area selected, Internal flight withing the Area selected, and Overflying traffic of the Area selected.\nWith the Full trajectory method, the Fuel burn, and Emissions of the Full trajectory are presented. Possible traffic selections are Full emission and Fuel burn of departing traffic from the Area selected, from Arrivals to the Area selected and from Domestic flights. Traffic selections cannot be selected simultaneously to avoid overlap.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>NetZero</span>"
     ]
@@ -213,8 +203,8 @@
     "objectID": "netzero/index.html#aviation-outlook",
     "href": "netzero/index.html#aviation-outlook",
     "title": "5  NetZero",
-    "section": "5.13 Aviation Outlook",
-    "text": "5.13 Aviation Outlook\n\n\nDefault\nDefault Scenario value is Base\n\nOutput\nThe Low, Base and High Scenarios represent traffic hypothesis. The Scenario changes the Emissions, Fuel burn, Cumulative Emissions and What-if Graphs values.\n\n\nData\nTraffic numbers and Emission and Fuel burn are based on High, Base and Low scenario as applied in the EUROCONTROL Aviation Outlook 2050. Each scenario presents different growth rates that are reflected in the emission Fuel burn graphs.",
+    "section": "5.12 Aviation Outlook",
+    "text": "5.12 Aviation Outlook\n\n\nDefault\nDefault Scenario value is Base\n\nOutput\nThe Low, Base and High Scenarios represent traffic hypothesis. The Scenario changes the Emissions, Fuel burn, Cumulative Emissions and What-if Graphs values.\n\n\nData\nTraffic numbers and Emission and Fuel burn are based on High, Base and Low scenario as applied in the EUROCONTROL Aviation Outlook 2050. Each scenario presents different growth rates that are reflected in the emission Fuel burn graphs.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>NetZero</span>"
     ]
@@ -223,8 +213,8 @@
     "objectID": "netzero/index.html#saf-blend-customisation",
     "href": "netzero/index.html#saf-blend-customisation",
     "title": "5  NetZero",
-    "section": "5.14 SAF Blend Customisation",
-    "text": "5.14 SAF Blend Customisation\n\n\nDefault\nDefault Blend Low scenario: 4% in 2030, 26% in 2040, 50% in 2050\nBlend Base scenario: 6% in 2030, 34% in 2040, 70% in 2050\nDefault Blend High scenario: 10% in 2030, 49% in 2040, 88% in 2050\nBio-SAF/synth-SAF ratios are applied according to ReFuelEU mandate.\n\nOutput\nThe Blend % changes the CO2 net curve on the Emissions and Cumulative emissions graph and the SAF curve on the Fuel Burn graph.\n\n\nData\nTo assess the impact of the use of Sustainable Aviation Fuels on the NET emission values, input the percentages of SAF blend in the different years and the specific SAF pathway. Default values in the base scenario are aligned with the ReFuelEU SAF requirements. LCA values applied are: 65% emission reduction for bio-SAF and 70% emission reduction for synthetic SAFs.",
+    "section": "5.13 SAF Blend Customisation",
+    "text": "5.13 SAF Blend Customisation\n\n\nDefault\nDefault Blend Low scenario: 4% in 2030, 26% in 2040, 50% in 2050\nBlend Base scenario: 6% in 2030, 34% in 2040, 70% in 2050\nDefault Blend High scenario: 10% in 2030, 49% in 2040, 88% in 2050\nBio-SAF/synth-SAF ratios are applied according to ReFuelEU mandate.\n\nOutput\nThe Blend % changes the CO2 net curve on the Emissions and Cumulative emissions graph and the SAF curve on the Fuel Burn graph.\n\n\nData\nTo assess the impact of the use of Sustainable Aviation Fuels on the NET emission values, input the percentages of SAF blend in the different years and the specific SAF pathway. Default values in the base scenario are aligned with the ReFuelEU SAF requirements. LCA values applied are: 65% emission reduction for bio-SAF and 70% emission reduction for synthetic SAFs.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>NetZero</span>"
     ]
@@ -233,8 +223,8 @@
     "objectID": "netzero/index.html#fleet-air-traffic-management-and-economic-prices-customisation",
     "href": "netzero/index.html#fleet-air-traffic-management-and-economic-prices-customisation",
     "title": "5  NetZero",
-    "section": "5.15 Fleet, Air Traffic Management and Economic Prices Customisation",
-    "text": "5.15 Fleet, Air Traffic Management and Economic Prices Customisation\n\n\nDefault\nDefault Levels:\n\nModerate (Fleet and Air Traffic Management)\nModerate (Economic Scenario)\n\n\nOutput\nThe different levels update the Emissions, Fuel burn, Cumulative Emissions, What-if and Environmental Cost Graphs.\n\n\nData\nFleet evolution, revolution are derived from forecasted emission reductions as presented in the EUROCONTROL Aviation Outlook 2050.\nThe reduction potential per year are extrapolated towards final results in 2050 in the different scenarios.\nThe user can select his/her/their specific improvement percentages using the sliders and/or select low, moderate or high prices for fuels, SAF and CO2.\nThe state view includes the impact on ticket price and subsequent impact on demand.\nIn this release very simple values and methodologies are applied (not specified per market segment or other filters), assuming fixed operational margins and fuel cost shares of airlines, to present the user with an mererly and indication of possible impact.\nThe price elasticity value applied is -0.1.",
+    "section": "5.14 Fleet, Air Traffic Management and Economic Prices Customisation",
+    "text": "5.14 Fleet, Air Traffic Management and Economic Prices Customisation\n\n\nDefault\nDefault Levels:\n\nModerate (Fleet and Air Traffic Management)\nModerate (Economic Scenario)\n\n\nOutput\nThe different levels update the Emissions, Fuel burn, Cumulative Emissions, What-if and Environmental Cost Graphs.\n\n\nData\nFleet evolution, revolution are derived from forecasted emission reductions as presented in the EUROCONTROL Aviation Outlook 2050.\nThe reduction potential per year are extrapolated towards final results in 2050 in the different scenarios.\nThe user can select his/her/their specific improvement percentages using the sliders and/or select low, moderate or high prices for fuels, SAF and CO2.\nThe state view includes the impact on ticket price and subsequent impact on demand.\nIn this release very simple values and methodologies are applied (not specified per market segment or other filters), assuming fixed operational margins and fuel cost shares of airlines, to present the user with an mererly and indication of possible impact.\nThe price elasticity value applied is -0.1.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>NetZero</span>"
     ]
@@ -243,8 +233,8 @@
     "objectID": "netzero/index.html#impact-of-operational-improvements",
     "href": "netzero/index.html#impact-of-operational-improvements",
     "title": "5  NetZero",
-    "section": "5.16 Impact of operational improvements",
-    "text": "5.16 Impact of operational improvements\n\n\nDefault\nDefault Level is Moderate (Fleet and Air Traffic Management)\n\nOutput\nThe different input of operational improvements update:\n\nEmissions (with indicated reduction of emissions from operational improvements)\nFuel burn\nCumulative Emissions\nWhat-if\nEnvironmental Cost Graphs.\n\n\n\nData\nThe user can select specific improvement percentages per flight phase.\nEach flight phase presents indications of potential improvement percentages for different operational concepts.\nThe operational improvements are only applied to the available trajectory segments in the selected zone/area.\nE.g. taxi operational improvements will not affect upper area airspace emissions.",
+    "section": "5.15 Impact of operational improvements",
+    "text": "5.15 Impact of operational improvements\n\n\nDefault\nDefault Level is Moderate (Fleet and Air Traffic Management)\n\nOutput\nThe different input of operational improvements update:\n\nEmissions (with indicated reduction of emissions from operational improvements)\nFuel burn\nCumulative Emissions\nWhat-if\nEnvironmental Cost Graphs.\n\n\n\nData\nThe user can select specific improvement percentages per flight phase.\nEach flight phase presents indications of potential improvement percentages for different operational concepts.\nThe operational improvements are only applied to the available trajectory segments in the selected zone/area.\nE.g. taxi operational improvements will not affect upper area airspace emissions.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>NetZero</span>"
     ]
@@ -253,8 +243,8 @@
     "objectID": "netzero/index.html#netzero-journey",
     "href": "netzero/index.html#netzero-journey",
     "title": "5  NetZero",
-    "section": "5.17 NetZero journey",
-    "text": "5.17 NetZero journey\n\nNetZero step by step\n\nEmissions: Check the Emissions for ECAC in 2035\nFuel Burn: Check the Fuel Burn for ECAC in 2035\nFilters: Check only the departures, take-off phase and Mainline market segment for ECAC through the years\nScenarios: Check the high scenario for ECAC through the years\nSAF Blend: Change the % of SAF blending for 2030 for ECAC\nFleet, Air Traffic Mgt and Economic Prices: Consider High Fleet Renewal and a Moderate scenario for ATM and Airline operation Improvements or enter specific improvements per flight phase. Set the SAF Price on the highest possible level.\n\n\n\n\nThe advantages of your journey\n\nHave the latest EUROCONTROL emission data of your area of interest available. \nSee the impact of operational changes on fuel burn and emission values.\nBenchmark your emission values with those of different area of interests and using different methodologies.\nGet an indication of additional environmental cost due to regulations (ReFuelEU, EU ETS, CORSIA), and impact on ticket price and demand.",
+    "section": "5.16 NetZero journey",
+    "text": "5.16 NetZero journey\n\nNetZero step by step\n\nEmissions: Check the Emissions for ECAC in 2035\nFuel Burn: Check the Fuel Burn for ECAC in 2035\nFilters: Check only the departures, take-off phase and Mainline market segment for ECAC through the years\nScenarios: Check the high scenario for ECAC through the years\nSAF Blend: Change the % of SAF blending for 2030 for ECAC\nFleet, Air Traffic Mgt and Economic Prices: Consider High Fleet Renewal and a Moderate scenario for ATM and Airline operation Improvements or enter specific improvements per flight phase. Set the SAF Price on the highest possible level.\n\n\n\n\nThe advantages of your journey\n\nHave the latest EUROCONTROL emission data of your area of interest available. \nSee the impact of operational changes on fuel burn and emission values.\nBenchmark your emission values with those of different area of interests and using different methodologies.\nGet an indication of additional environmental cost due to regulations (ReFuelEU, EU ETS, CORSIA), and impact on ticket price and demand.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>NetZero</span>"
     ]
