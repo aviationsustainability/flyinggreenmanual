@@ -32,51 +32,51 @@
   {
     "objectID": "fg_functionalities.html",
     "href": "fg_functionalities.html",
-    "title": "3  FlyingGreen functionalities",
+    "title": "3  Functionalities",
     "section": "",
     "text": "3.1 Netzero",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>FlyingGreen functionalities</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Functionalities</span>"
     ]
   },
   {
     "objectID": "fg_functionalities.html#netzero",
     "href": "fg_functionalities.html#netzero",
-    "title": "3  FlyingGreen functionalities",
+    "title": "3  Functionalities",
     "section": "",
     "text": "Improved traffic and emission values\nANSP / AUA area selections\nLinks with environmental management systems such as GreenATM, ACA\nFlight Phases filter improvements\nFleet Renewal & Revolution (e- and H2) What If slider\nAir Traffic Management and Airline Operation Improvements What if slider including detailed improvements per flight phase\nLog In and save-retrieve multiple projects\nKPI overview for ANSP and Airport views\nEnvironmental costs bar chart including impact on ticket price and demand (assuming a -0.1-elasticity value which will be updated in a next release to reflect better values per market segments)",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>FlyingGreen functionalities</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Functionalities</span>"
     ]
   },
   {
     "objectID": "fg_functionalities.html#fuellingdecarb",
     "href": "fg_functionalities.html#fuellingdecarb",
-    "title": "3  FlyingGreen functionalities",
+    "title": "3  Functionalities",
     "section": "3.2 FuellingDecarb",
     "text": "3.2 FuellingDecarb\n\nEstimation tool covers 2025, 2035 & 2045 in addition to existing 2030, 2040 & 2050.\nSelect the conversion provider : TU Delft or Trinity college of Dublin\nHydrogen and Electric powered aircraft, updates (new input data and formulas).\nGap electricity : Infrastructures deployment costs estimation for Wind Onshore & Offshore, Solar and Nuclear.\nSAF Costs and prices : Estimate the SAF levelised cost and Minimumselling Price globally and per feedstock/Pathway.\nDisplay SAF and Hydrogen Costs graphical representation\nElectricity Share : display the electricity repartition (renewable, low-carbon, other) for “Global” , “Allowed” and “Used” electricity. Customize the repartition for each feedstock.",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>FlyingGreen functionalities</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Functionalities</span>"
     ]
   },
   {
     "objectID": "fg_functionalities.html#climadapt",
     "href": "fg_functionalities.html#climadapt",
-    "title": "3  FlyingGreen functionalities",
+    "title": "3  Functionalities",
     "section": "3.3 ClimAdapt",
     "text": "3.3 ClimAdapt\n\nAirport Operators, ANSPs, Airlines Climate Change Adaptation Planning Checklists\nRepository of Information and Guidance",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>FlyingGreen functionalities</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Functionalities</span>"
     ]
   },
   {
     "objectID": "fg_functionalities.html#decarbfin",
     "href": "fg_functionalities.html#decarbfin",
-    "title": "3  FlyingGreen functionalities",
+    "title": "3  Functionalities",
     "section": "3.4 DecarbFin",
     "text": "3.4 DecarbFin\n\nLanding Page Design & Structure\nFunding Basket: add, select, remove and link essentials to build an EU & Private funding business case\nFunding Booster including Financial Instruments, Use Cases,",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>FlyingGreen functionalities</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Functionalities</span>"
     ]
   },
   {
@@ -264,7 +264,7 @@
     "href": "fuelingdecarb/index.html#fuel-assessment",
     "title": "6  Fuelling Decarb",
     "section": "6.2 Fuel Assessment",
-    "text": "6.2 Fuel Assessment\n\nSettings Select the Fuel Assessment tool settings\nFuel Estimate View the Fuel Assessment page\nBio SAF The Bio SAF Fuel production, units, electricity required, GHGs, cost & Minimum Selling Price\nSAF Coproduct Assess the SAF Coproducts production\nSynthetic SAF The Synthetic SAF fuel production, electricity required, units GHGs, Costs & Minimum Selling Price\nElectric Aircraft The Electric Aircraft electricity production\nHydrogen Aircraft The Hydrogen fuel production\nAllocated Renewable Electricity Assess the volume of Green electricity (produced with renewable energy) necessary for Fuel production\nElectricity Share Display Global, Allocated & Used electricity\nFill the Renewable Electricity gap Plan the Renewable electricity infrastructures to fill the Renewable electricity gap with costs\n\nFuel Assessment\n\nAllocated Low-Carbon Electricity Assess the Low-Carbon electricity necessary for Fuel production\nFill the Low Carbon Electricity gap Plan the Low-Carbon electricity infrastructures to fill the Low-Carbon electricity gap with costs\nAllocated Other Electricity Assess the Others energy category of electricity necessary for Fuel production\nNeeds & Production View needs & production chart (SAF, Hydrogen fuel and Electric aircraft)\nSAF & H₂ Costs Graph Graphical display of SAF and H₂ costs for each feedstock/pathway\n\nSAF Map\n\nSAF Map View the SAF map\n\nSAF News Corner\n\nSAF News\nView the SAF news",
+    "text": "6.2 Fuel Assessment\n\nSettings Select the Fuel Assessment tool settings\nFuel Estimate View the Fuel Assessment page\nBio SAF The Bio SAF Fuel production, units, electricity required, GHGs, cost & Minimum Selling Price\nSAF Coproduct Assess the SAF Coproducts production\nSynthetic SAF The Synthetic SAF fuel production, electricity required, units GHGs, Costs & Minimum Selling Price\nElectric Aircraft The Electric Aircraft electricity production\nHydrogen Aircraft The Hydrogen fuel production\nAllocated Renewable Electricity Assess the volume of Green electricity (produced with renewable energy) necessary for Fuel production\nElectricity Share Display Global, Allocated & Used electricity\nFill the Renewable Electricity gap Plan the Renewable electricity infrastructures to fill the Renewable electricity gap with costs\n\nFuel Assessment\n\nAllocated Low-Carbon Electricity: Assess the Low-Carbon electricity necessary for Fuel production\nFill the Low Carbon Electricity gap: Plan the Low-Carbon electricity infrastructures to fill the Low-Carbon electricity gap with costs\nAllocated Other Electricity: Assess the Others energy category of electricity necessary for Fuel production\nNeeds & Production: View needs & production chart (SAF, Hydrogen fuel and Electric aircraft)\nSAF & H₂ Costs Graph: Graphical display of SAF and H₂ costs for each feedstock/pathway\n\nSAF Map\n\nSAF Map: View the SAF map\n\nSAF News Corner\n\nSAF News: View the SAF news",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Fuelling Decarb</span>"
     ]
