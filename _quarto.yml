@@ -4,7 +4,7 @@ project:
 book:
   title: "FlyingGreen User Manual"
   author: "EUROCONTROL/ASU"
-  date: "`r Sys.Date()`"
+  date: today
 
   chapters:
     - index.qmd

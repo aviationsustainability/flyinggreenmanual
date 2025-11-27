@@ -4,7 +4,7 @@ Your journey manual.
 
 Version 2.3
 
-![](www/fg_logo.png){fig-align="center"}
+![](images/thumbnail_icon-flyinggreen.png){fig-align="center"}
 
 ```{=html}
 <style>
