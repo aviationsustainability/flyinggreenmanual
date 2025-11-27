@@ -32,8 +32,8 @@
 
 **SAF Map**
 
-16. [**SAF Map**](https://www.eurocontrol.int/shared/saf/)**:** View the SAF map
+16. View the [**SAF Map**](https://www.eurocontrol.int/shared/saf/)
 
 **SAF News Corner**
 
-17. [**SAF News**](https://flying-green.eurocontrol.int/#/fuelling-decarb/)**:** View the SAF news
+17. View the [**SAF News**](https://flying-green.eurocontrol.int/#/fuelling-decarb/)
