@@ -16,7 +16,6 @@ book:
     - fuelingdecarb/index.qmd
     - climadapt/index.qmd
     - decarbfin/index.qmd
-    - references.qmd
 
 bibliography: references.bib
 
