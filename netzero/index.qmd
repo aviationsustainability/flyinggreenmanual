@@ -8,58 +8,54 @@
 
 {{< include save_retrieve_delete_project_data.qmd >}}
 
-## Select Area of interest
+## Area of interest
 
 {{< include level_of_interest.qmd >}}
 
-## View the Emissions (totals, average and reference)
+## Emissions (totals, average and reference)
 
 {{< include emissions_totals.qmd >}}
 
-## View the Fuel Burn & Number of Flights
+## Fuel Burn & Number of Flights
 
 {{< include fuel_burn_no_flights.qmd >}}
 
-## View the cumulative emissions
+## Cumulative emissions
 
 {{< include cumulative_emissions.qmd >}}
 
-## View the what-if results
+## What-if results
 
 {{< include what_if.qmd >}}
 
-## View the Environmental Management status
+## Environmental Management status
 
 {{< include environmental_management_status.qmd >}}
 
-## View the Environmental Costs
+## Environmental Costs
 
 {{< include view_env_costs.qmd >}}
 
-## Select the Flight criteria Filters
+## Flight criteria Filters
 
 {{< include flight_criteria_filters.qmd >}}
 
-## Select the Aviation Outlook
+## Aviation Outlook
 
 {{< include aviation_outlook.qmd >}}
 
-## Customise the SAF Blend
+## SAF Blend Customisation
 
 {{< include custom_saf_blend.qmd >}}
 
-## Customise the Fleet, Air Traffic Management and Economic Prices
+## Fleet, Air Traffic Management and Economic Prices Customisation
 
 {{< include customize_fleet.qmd >}}
 
-## See the impact of operational improvements
+## Impact of operational improvements
 
 {{< include op_improvements.qmd >}}
 
 ## NetZero journey
 
 {{< include net_zero_journey.qmd >}}
-<<<<<<< HEAD
-=======
-
->>>>>>> 0c5489e7c3ffb5f1e432003aa1a46c3d0dc9706d

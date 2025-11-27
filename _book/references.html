@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>3&nbsp; FlyingGreen functionalities – FlyingGreen User Manual</title>
+<title>References – FlyingGreen User Manual</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,7 +20,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -30,8 +49,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./common_features/initial_login.html" rel="next">
-<link href="./fg_in_brief.html" rel="prev">
+<link href="./decarbfin/index.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -248,7 +266,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./fg_functionalities.html"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">FlyingGreen functionalities</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./references.html">References</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -296,7 +314,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./fg_functionalities.html" class="sidebar-item-text sidebar-link active">
+  <a href="./fg_functionalities.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">FlyingGreen functionalities</span></span></a>
   </div>
 </li>
@@ -332,7 +350,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./references.html" class="sidebar-item-text sidebar-link">
+  <a href="./references.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">References</span></a>
   </div>
 </li>
@@ -341,17 +359,8 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">Table of contents</h2>
-   
-  <ul class="collapse">
-  <li><a href="#netzero" id="toc-netzero" class="nav-link active" data-scroll-target="#netzero"><span class="header-section-number">3.1</span> Netzero</a></li>
-  <li><a href="#fuellingdecarb" id="toc-fuellingdecarb" class="nav-link" data-scroll-target="#fuellingdecarb"><span class="header-section-number">3.2</span> FuellingDecarb</a></li>
-  <li><a href="#climadapt" id="toc-climadapt" class="nav-link" data-scroll-target="#climadapt"><span class="header-section-number">3.3</span> ClimAdapt</a></li>
-  <li><a href="#decarbfin" id="toc-decarbfin" class="nav-link" data-scroll-target="#decarbfin"><span class="header-section-number">3.4</span> DecarbFin</a></li>
-  </ul>
-</nav>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -359,7 +368,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">FlyingGreen functionalities</span></h1>
+<h1 class="title">References</h1>
 </div>
 
 
@@ -376,49 +385,11 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="netzero" class="level2" data-number="3.1">
-<h2 data-number="3.1" class="anchored" data-anchor-id="netzero"><span class="header-section-number">3.1</span> Netzero</h2>
-<ul>
-<li><p>Improved traffic and emission values</p></li>
-<li><p>ANSP / AUA area selections</p></li>
-<li><p>Links with environmental management systems such as GreenATM, ACA</p></li>
-<li><p>Flight Phases filter improvements</p></li>
-<li><p>Fleet Renewal &amp; Revolution (e- and H2) What If slider</p></li>
-<li><p>Air Traffic Management and Airline Operation Improvements What if slider including detailed improvements per flight phase</p></li>
-<li><p>Log In and save-retrieve multiple projects</p></li>
-<li><p>KPI overview for ANSP and Airport views</p></li>
-<li><p>Environmental costs bar chart including impact on ticket price and demand (assuming a -0.1-elasticity value which will be updated in a next release to reflect better values per market segments)</p></li>
-</ul>
-</section>
-<section id="fuellingdecarb" class="level2" data-number="3.2">
-<h2 data-number="3.2" class="anchored" data-anchor-id="fuellingdecarb"><span class="header-section-number">3.2</span> FuellingDecarb</h2>
-<ul>
-<li><p>Estimation tool covers 2025, 2035 &amp; 2045 in addition to existing 2030, 2040 &amp; 2050.</p></li>
-<li><p>Select the conversion provider : TU Delft or Trinity college of Dublin</p></li>
-<li><p>Hydrogen and Electric powered aircraft, updates (new input data and formulas).</p></li>
-<li><p>Gap electricity : Infrastructures deployment costs estimation for Wind Onshore &amp; Offshore, Solar and Nuclear.</p></li>
-<li><p>SAF Costs and prices : Estimate the SAF levelised cost and Minimumselling Price globally and per feedstock/Pathway.</p></li>
-<li><p>Display SAF and Hydrogen Costs graphical representation</p></li>
-<li><p>Electricity Share : display the electricity repartition (renewable, low-carbon, other) for “Global” , “Allowed” and “Used” electricity. Customize the repartition for each feedstock.</p></li>
-</ul>
-</section>
-<section id="climadapt" class="level2" data-number="3.3">
-<h2 data-number="3.3" class="anchored" data-anchor-id="climadapt"><span class="header-section-number">3.3</span> ClimAdapt</h2>
-<ul>
-<li><p>Airport Operators, ANSPs, Airlines Climate Change Adaptation Planning Checklists</p></li>
-<li><p>Repository of Information and Guidance</p></li>
-</ul>
-</section>
-<section id="decarbfin" class="level2" data-number="3.4">
-<h2 data-number="3.4" class="anchored" data-anchor-id="decarbfin"><span class="header-section-number">3.4</span> DecarbFin</h2>
-<ul>
-<li><p>Landing Page Design &amp; Structure</p></li>
-<li><p>Funding Basket: add, select, remove and link essentials to build an EU &amp; Private funding business case</p></li>
-<li><p>Funding Booster including Financial Instruments, Use Cases,</p></li>
-</ul>
+<div id="refs" role="list" style="display: none">
+
+</div>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -835,14 +806,11 @@ ul.task-list li input[type="checkbox"] {
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./fg_in_brief.html" class="pagination-link" aria-label="FlyingGreen in brief">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">FlyingGreen in brief</span></span>
+      <a href="./decarbfin/index.html" class="pagination-link" aria-label="DecarbFin">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">DecarbFin</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./common_features/initial_login.html" class="pagination-link" aria-label="Login">
-        <span class="nav-page-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Login</span></span> <i class="bi bi-arrow-right-short"></i>
-      </a>
   </div>
 </nav>
 </div> <!-- /content -->

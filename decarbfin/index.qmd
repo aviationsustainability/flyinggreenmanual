@@ -8,59 +8,59 @@
 
 {{< include functionalities.qmd >}}
 
-## View the DecarbFin FAQ
+## DecarbFin FAQ
 
 {{< include faq.qmd >}}
 
-## View the Funds & Programmes overview
+## Funds & Programmes overview
 
 {{< include funds.qmd >}}
 
-## Filter My Funds and Calls
+## My Funds and Calls
 
 {{< include filter_funds.qmd >}}
 
-## View the Funds, the Programmes and the Calls details
+## Funds, Programmes and Calls details
 
 {{< include details.qmd >}}
 
-## View the Projects overview
+## Projects overview
 
 {{< include projects_overview.qmd >}}
 
-## View the finance instruments - Sustainable Summary
+## Finance instruments - Sustainable Summary
 
 {{< include sustainable_finance_summary.qmd >}}
 
-## View the Sustainable finance instruments - Details
+## Sustainable finance instruments - Details
 
 {{< include sustainable_finance_details.qmd >}}
 
-## View the Use Cases
+## Use cases
 
 {{< include use_cases.qmd >}}
 
-## View the Dictionary of terms
+## Dictionary of terms
 
 {{< include dictionary.qmd >}}
 
-## Search my "private" funding and Filter my Sustainable Finance instruments
+## My "private" funding and my Sustainable Finance instruments
 
 {{< include private_funding_filter.qmd >}}
 
-## View the Essentials
+## Essentials
 
 {{< include essentials.qmd >}}
 
-## View the Sustainable Finance dashboard
+## Sustainable Finance dashboard
 
 {{< include dashboard.qmd >}}
 
-## View the funding basket
+## Funding basket
 
 {{< include funding_basket.qmd >}}
 
-## Download the Bluebook
+## Bluebook
 
 {{< include bluebook.qmd >}}
 
