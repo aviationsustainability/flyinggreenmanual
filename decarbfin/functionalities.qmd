@@ -2,12 +2,6 @@
 
 ------------------------------------------------------------------------
 
-#### FAQ
-
-View the DecarbFin FAQ
-
-------------------------------------------------------------------------
-
 #### Fund-Pathfinder
 
 -   **Funds Overview**: View the Funds & Programmes overview
@@ -29,4 +23,3 @@ View the DecarbFin FAQ
 -   **Bluebook**: Download the Bluebook 
 
 ------------------------------------------------------------------------
-

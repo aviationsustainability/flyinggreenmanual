@@ -48,4 +48,4 @@
 
 -   Funding Basket: add, select, remove and link essentials to build an EU & Private funding business case
 
--   Funding Booster including Financial Instruments, Use Cases,
+-   Funding Booster including Financial Instruments, Use Cases, Frameworks and Roadmaps & Trends and Metrics dashboard
