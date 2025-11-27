@@ -1,4 +1,5 @@
-## ![](/www/view_env_costs.png){fig-align="center"}
+
+![](/www/view_env_costs.png){fig-align="center"}
 
 **Default**
 
