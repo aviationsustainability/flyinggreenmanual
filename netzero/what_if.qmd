@@ -1,8 +1,5 @@
-<<<<<<< HEAD:netzero/what_if.qmd
 ![](images/what_if_1.png){fig-align="center"}
-=======
-## ![](/www/what_if_results.png){fig-align="center" width="500"}
->>>>>>> 0c5489e7c3ffb5f1e432003aa1a46c3d0dc9706d:netzero/what_if_results.qmd
+
 
 **Default**
 

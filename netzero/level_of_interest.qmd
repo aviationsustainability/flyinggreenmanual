@@ -57,7 +57,7 @@ You can analyze results at different levels. First pick a Level, then pick the c
 
 6.  Airport value is Brussels
 
-![](images/clipboard-1061742285.png)\]
+![](images/clipboard-1061742285.png)
 
 ------------------------------------------------------------------------
 
@@ -66,21 +66,10 @@ You can analyze results at different levels. First pick a Level, then pick the c
 The Level and Area selection update the Emissions, Fuel burn, Cumulative Emissions and What-if Graphs.
 
 ------------------------------------------------------------------------
-<<<<<<< HEAD
-=======
-
-**Data**
->>>>>>> 0c5489e7c3ffb5f1e432003aa1a46c3d0dc9706d
 
 **Data**
 
-<<<<<<< HEAD
 UN list of countries. The designations employed do not imply the expression of any opinion whatsoever on the part of EUROCONTROL concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. Generally, Airports with, on average, more than 10 movements perday are included.
-=======
-------------------------------------------------------------------------
-
-**Definition**
->>>>>>> 0c5489e7c3ffb5f1e432003aa1a46c3d0dc9706d
 
 ------------------------------------------------------------------------
 

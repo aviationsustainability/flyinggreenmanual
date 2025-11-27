@@ -6,6 +6,8 @@ Version 2.3
 
 ![](images/thumbnail_icon-flyinggreen.png){fig-align="center"}
 
+An older version of the User Manual is available [here](https://raw.githubusercontent.com/aviationsustainability/flyinggreenmanual/9337db3a15564c6a18cf0b1dfec0858d94402e60/Ectl-User-manual.pdf).
+
 ```{=html}
 <style>
 /* Floating Chatbot button and iframe */
