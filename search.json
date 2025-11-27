@@ -120,71 +120,71 @@
     ]
   },
   {
-    "objectID": "netzero/index.html#select-area-of-interest",
-    "href": "netzero/index.html#select-area-of-interest",
+    "objectID": "netzero/index.html#area-of-interest",
+    "href": "netzero/index.html#area-of-interest",
     "title": "5  NetZero",
-    "section": "5.4 Select Area of interest",
-    "text": "5.4 Select Area of interest\nYou can analyze results at different levels. First pick a Level, then pick the corresponding Area.\nSelect the Level\n\nOpen the Level dropdown. Choose one of:\n\nNetwork\nState\nFAB\nAirport\n\n\n(After you choose a level, the Area dropdown will adapt to that level.)\nSelect the Area / State / FAB / ANSP / Airport\n\nOpen the Area dropdown.\nPick the item that matches your chosen level:\n\nNetwork → choose a region (e.g., ECAC, EUROCONTROL, EU27+EFTA, EEA, RP3, EU27).\nState → choose a country (e.g., Belgium).\nFAB → choose a Functional Airspace Block (e.g., FABEC).\nAirport → choose an airport (e.g., Brussels).\n\nThe map panel updates to your selection.\n\nWhat to do next\n\nClick Area focus to view metrics for the selected area (you’ll see panels such as Fuel burn and others update accordingly).\nOr click Full trajectory if you want trajectory-based views (when available).\n\n\nNotes & tips\n\n“Please select your area of interest to determine the filters”, filters become available after you pick a Level + Area.\nFor Airport level, select a source to display airport emissions (e.g., LTO, TMA) when prompted.\n\n\nDefault values\n\nLevel value is Network\nArea value is ECAC\nState value is Belgium\nFAB value is FABEC\nANSP value is Skeyes\nAirport value is Brussels\n\n]\n\nOutput\nThe Level and Area selection update the Emissions, Fuel burn, Cumulative Emissions and What-if Graphs.\n\n\n\n\n\n\n&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD =======\n\n\nData &gt;&gt;&gt;&gt;&gt;&gt;&gt; 0c5489e7c3ffb5f1e432003aa1a46c3d0dc9706d\n\n\nData\n\n\n&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD UN list of countries. The designations employed do not imply the expression of any opinion whatsoever on the part of EUROCONTROL concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. Generally, Airports with, on average, more than 10 movements perday are included. =======\n\n\n\nDefinition &gt;&gt;&gt;&gt;&gt;&gt;&gt; 0c5489e7c3ffb5f1e432003aa1a46c3d0dc9706d\n\nDefinition\nNetwork: group of states State: nation or territory considered as an organized political community under one government FAB (Functional Airspace Block): an airspace block based on operational requirements and established regardless of State boundaries.",
+    "section": "5.4 Area of interest",
+    "text": "5.4 Area of interest\nYou can analyze results at different levels. First pick a Level, then pick the corresponding Area.\nSelect the Level\n\nOpen the Level dropdown. Choose one of:\n\nNetwork\nState\nFAB\nAirport\n\n\n(After you choose a level, the Area dropdown will adapt to that level.)\nSelect the Area / State / FAB / ANSP / Airport\n\nOpen the Area dropdown.\nPick the item that matches your chosen level:\n\nNetwork → choose a region (e.g., ECAC, EUROCONTROL, EU27+EFTA, EEA, RP3, EU27).\nState → choose a country (e.g., Belgium).\nFAB → choose a Functional Airspace Block (e.g., FABEC).\nAirport → choose an airport (e.g., Brussels).\n\nThe map panel updates to your selection.\n\nWhat to do next\n\nClick Area focus to view metrics for the selected area (you’ll see panels such as Fuel burn and others update accordingly).\nOr click Full trajectory if you want trajectory-based views (when available).\n\n\nNotes & tips\n\n“Please select your area of interest to determine the filters”, filters become available after you pick a Level + Area.\nFor Airport level, select a source to display airport emissions (e.g., LTO, TMA) when prompted.\n\n\nDefault values\n\nLevel value is Network\nArea value is ECAC\nState value is Belgium\nFAB value is FABEC\nANSP value is Skeyes\nAirport value is Brussels\n\n]\n\nOutput\nThe Level and Area selection update the Emissions, Fuel burn, Cumulative Emissions and What-if Graphs.\n\n\n\n\n\n\n&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD =======\n\n\nData &gt;&gt;&gt;&gt;&gt;&gt;&gt; 0c5489e7c3ffb5f1e432003aa1a46c3d0dc9706d\n\n\nData\n\n\n&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD UN list of countries. The designations employed do not imply the expression of any opinion whatsoever on the part of EUROCONTROL concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. Generally, Airports with, on average, more than 10 movements perday are included. =======\n\n\n\nDefinition &gt;&gt;&gt;&gt;&gt;&gt;&gt; 0c5489e7c3ffb5f1e432003aa1a46c3d0dc9706d\n\nDefinition\nNetwork: group of states State: nation or territory considered as an organized political community under one government FAB (Functional Airspace Block): an airspace block based on operational requirements and established regardless of State boundaries.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>NetZero</span>"
     ]
   },
   {
-    "objectID": "netzero/index.html#view-the-emissions-totals-average-and-reference",
-    "href": "netzero/index.html#view-the-emissions-totals-average-and-reference",
+    "objectID": "netzero/index.html#emissions-totals-average-and-reference",
+    "href": "netzero/index.html#emissions-totals-average-and-reference",
     "title": "5  NetZero",
-    "section": "5.5 View the Emissions (totals, average and reference)",
-    "text": "5.5 View the Emissions (totals, average and reference)\n\n\n\n\n\n\nDefault\n\nvalues CO2 exhaust, CO2 net, SAF, Fleet Renewal, Fleet Revolution, Operation Improvements, NOx, SOx\nEmissions View Total\n\n\nOutput\nThe Emissions results vary depending on the Zone selected, the Filters and the What if values. The total emissions of one year, and the reduction potential of in-sector improvements are visible at the top of the graph.\n\n\n\n\n\n\nData\nTotal value presents absolute total values of emissions Average values present values per flight Relative values present the yearly relative change compared to the reference year (currently 2024)\n\nDefinition\nTotal value presents absolute total values of emissions\nAverage values present values per flight\nRelative values present the yearly relative change compared to the reference year (currently 2024)",
+    "section": "5.5 Emissions (totals, average and reference)",
+    "text": "5.5 Emissions (totals, average and reference)\n\n\n\n\n\n\nDefault\n\nvalues CO2 exhaust, CO2 net, SAF, Fleet Renewal, Fleet Revolution, Operation Improvements, NOx, SOx\nEmissions View Total\n\n\nOutput\nThe Emissions results vary depending on the Zone selected, the Filters and the What if values. The total emissions of one year, and the reduction potential of in-sector improvements are visible at the top of the graph.\n\n\n\n\n\n\nData\nTotal value presents absolute total values of emissions Average values present values per flight Relative values present the yearly relative change compared to the reference year (currently 2024)\n\nDefinition\nTotal value presents absolute total values of emissions\nAverage values present values per flight\nRelative values present the yearly relative change compared to the reference year (currently 2024)",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>NetZero</span>"
     ]
   },
   {
-    "objectID": "netzero/index.html#view-the-fuel-burn-number-of-flights",
-    "href": "netzero/index.html#view-the-fuel-burn-number-of-flights",
+    "objectID": "netzero/index.html#fuel-burn-number-of-flights",
+    "href": "netzero/index.html#fuel-burn-number-of-flights",
     "title": "5  NetZero",
-    "section": "5.6 View the Fuel Burn & Number of Flights",
-    "text": "5.6 View the Fuel Burn & Number of Flights\n&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD  ======= ———————————————————————— Default &gt;&gt;&gt;&gt;&gt;&gt;&gt; 0c5489e7c3ffb5f1e432003aa1a46c3d0dc9706d\n\n&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD Default ======= ———————————————————————— Output &gt;&gt;&gt;&gt;&gt;&gt;&gt; 0c5489e7c3ffb5f1e432003aa1a46c3d0dc9706d\nDefault values: Fossil, SAF, e-H2 and Number of flights \n\n&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD Output ======= ———————————————————————— Data &gt;&gt;&gt;&gt;&gt;&gt;&gt; 0c5489e7c3ffb5f1e432003aa1a46c3d0dc9706d\nThe Fuel Burn results vary depending on the Zone selected, the Filters and the What if simulation. The Fuel Burn of one year is visible at the top of the graph. The graph shows total fuel burn and average fuel burn per flight. The H2 and electricity energy is based on the percentage of fleet revolution chosen.​\n\n\n\n\n\n\nData\nFuel burn historical values are calculated for each flight using the EUROCONTROL Advanced Emission Model (AEM) based on latest aircraft/engine fuel burn and emission models with BADA3.16.\nEstimated Fuel burn values towards 2050 are based on actual trajectories of reference year (usually the last full year) and traffic growth rates as published by STATFOR.​",
+    "section": "5.6 Fuel Burn & Number of Flights",
+    "text": "5.6 Fuel Burn & Number of Flights\n&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD  ======= ———————————————————————— Default &gt;&gt;&gt;&gt;&gt;&gt;&gt; 0c5489e7c3ffb5f1e432003aa1a46c3d0dc9706d\n\n&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD Default ======= ———————————————————————— Output &gt;&gt;&gt;&gt;&gt;&gt;&gt; 0c5489e7c3ffb5f1e432003aa1a46c3d0dc9706d\nDefault values: Fossil, SAF, e-H2 and Number of flights \n\n&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD Output ======= ———————————————————————— Data &gt;&gt;&gt;&gt;&gt;&gt;&gt; 0c5489e7c3ffb5f1e432003aa1a46c3d0dc9706d\nThe Fuel Burn results vary depending on the Zone selected, the Filters and the What if simulation. The Fuel Burn of one year is visible at the top of the graph. The graph shows total fuel burn and average fuel burn per flight. The H2 and electricity energy is based on the percentage of fleet revolution chosen.​\n\n\n\n\n\n\nData\nFuel burn historical values are calculated for each flight using the EUROCONTROL Advanced Emission Model (AEM) based on latest aircraft/engine fuel burn and emission models with BADA3.16.\nEstimated Fuel burn values towards 2050 are based on actual trajectories of reference year (usually the last full year) and traffic growth rates as published by STATFOR.​",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>NetZero</span>"
     ]
   },
   {
-    "objectID": "netzero/index.html#view-the-cumulative-emissions",
-    "href": "netzero/index.html#view-the-cumulative-emissions",
+    "objectID": "netzero/index.html#cumulative-emissions",
+    "href": "netzero/index.html#cumulative-emissions",
     "title": "5  NetZero",
-    "section": "5.7 View the cumulative emissions",
-    "text": "5.7 View the cumulative emissions\n\n&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD  ======= ———————————————————————— Default &gt;&gt;&gt;&gt;&gt;&gt;&gt; 0c5489e7c3ffb5f1e432003aa1a46c3d0dc9706d\nDefault\n&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD Default values: CO2 exhaust and CO2 net ======= ———————————————————————— Output &gt;&gt;&gt;&gt;&gt;&gt;&gt; 0c5489e7c3ffb5f1e432003aa1a46c3d0dc9706d\n\n&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD Output ======= ———————————————————————— Data &gt;&gt;&gt;&gt;&gt;&gt;&gt; 0c5489e7c3ffb5f1e432003aa1a46c3d0dc9706d\nThe Cumulative Emissions results vary depending on the Zoneselected, the Filters and the What if simulation. The Cumulative Emissions of one year is visible by travelling on top of the graph.\n\nData\nThe yearly results from the main graph are added to indicate the cumulative emission results for CO2 (as CO2 remains in the atmosphere for many decades).​",
+    "section": "5.7 Cumulative emissions",
+    "text": "5.7 Cumulative emissions\n\n&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD  ======= ———————————————————————— Default &gt;&gt;&gt;&gt;&gt;&gt;&gt; 0c5489e7c3ffb5f1e432003aa1a46c3d0dc9706d\nDefault\n&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD Default values: CO2 exhaust and CO2 net ======= ———————————————————————— Output &gt;&gt;&gt;&gt;&gt;&gt;&gt; 0c5489e7c3ffb5f1e432003aa1a46c3d0dc9706d\n\n&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD Output ======= ———————————————————————— Data &gt;&gt;&gt;&gt;&gt;&gt;&gt; 0c5489e7c3ffb5f1e432003aa1a46c3d0dc9706d\nThe Cumulative Emissions results vary depending on the Zoneselected, the Filters and the What if simulation. The Cumulative Emissions of one year is visible by travelling on top of the graph.\n\nData\nThe yearly results from the main graph are added to indicate the cumulative emission results for CO2 (as CO2 remains in the atmosphere for many decades).​",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>NetZero</span>"
     ]
   },
   {
-    "objectID": "netzero/index.html#view-the-what-if-results",
-    "href": "netzero/index.html#view-the-what-if-results",
+    "objectID": "netzero/index.html#what-if-results",
+    "href": "netzero/index.html#what-if-results",
     "title": "5  NetZero",
-    "section": "5.8 View the what-if results",
-    "text": "5.8 View the what-if results\n&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD:netzero/what_if.qmd  ======= ##  &gt;&gt;&gt;&gt;&gt;&gt;&gt; 0c5489e7c3ffb5f1e432003aa1a46c3d0dc9706d:netzero/what_if_results.qmd\nDefault\nDefault view Fleet Renewal\n\nOutput\nThe What if results vary depending on the Zone selected, the Filtersand the What if simulation. The What if results of one year are visibleby travelling on top of the graph.\n\nData\n​The results for the parameters are extracted from the results in the main emission, fuel burn and cost calculation. This graphs presents simply an easier overview of expected results over time for only one parameter.​\n\n\n\n\n\n\nDefault\nDefault view In ANSP and Airport views, a KPI overview is shown\n\nOutput\nThe KPI results depend on the Zone selected, the Filters and the Whatif simulation. The What if results of one year are visible by travellingon top of the KPI overview.\n\nData\nThe results for the parameters are extracted from the results in themain emission, fuel burn and cost calculation. This overview presentssimply an easier overview of expected results over time for the mainindicators of interest (improvements and cost impact)",
+    "section": "5.8 What-if results",
+    "text": "5.8 What-if results\n&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD:netzero/what_if.qmd  ======= ##  &gt;&gt;&gt;&gt;&gt;&gt;&gt; 0c5489e7c3ffb5f1e432003aa1a46c3d0dc9706d:netzero/what_if_results.qmd\nDefault\nDefault view Fleet Renewal\n\nOutput\nThe What if results vary depending on the Zone selected, the Filtersand the What if simulation. The What if results of one year are visibleby travelling on top of the graph.\n\nData\n​The results for the parameters are extracted from the results in the main emission, fuel burn and cost calculation. This graphs presents simply an easier overview of expected results over time for only one parameter.​\n\n\n\n\n\n\nDefault\nDefault view In ANSP and Airport views, a KPI overview is shown\n\nOutput\nThe KPI results depend on the Zone selected, the Filters and the Whatif simulation. The What if results of one year are visible by travellingon top of the KPI overview.\n\nData\nThe results for the parameters are extracted from the results in themain emission, fuel burn and cost calculation. This overview presentssimply an easier overview of expected results over time for the mainindicators of interest (improvements and cost impact)",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>NetZero</span>"
     ]
   },
   {
-    "objectID": "netzero/index.html#view-the-environmental-management-status",
-    "href": "netzero/index.html#view-the-environmental-management-status",
+    "objectID": "netzero/index.html#environmental-management-status",
+    "href": "netzero/index.html#environmental-management-status",
     "title": "5  NetZero",
-    "section": "5.9 View the Environmental Management status",
-    "text": "5.9 View the Environmental Management status\n\nDefault\nIn the ANSP and Airport views, instead of the cost graphs an overviewis presented on the EMS status of ANSP and airports​\n\nOutput\nIndication of the Environmental Systems that are applied at the ANSPand different national Airports.\n\nData\nANSP​\nSeveral Environmental Systems may be applied at ANSP level, such as EMAS,GreenATM, ISO 14000 family, etc.​\nThe CANSO GreenATM programme is a voluntary environmental accreditationdesigned for ANSPs to assess and enhance their environmental performance. Itoffers a structured framework with five maturity levels, evaluating areas such asgovernance, operational efficiency, infrastructure, and stakeholder engagement.​\nParticipation in the GreenATM programme is entirely voluntary for ANSPs. It serves as an independent, industry-endorsed accreditation of their environmental efforts.​\nAirports\nThe Airport Carbon Accreditation (ACA) programme, developed by Airports Council International (ACI), is a globally recognized certification that helps airports measure, manage, and reduce their carbon emissions. It offers a six-level framework, from mapping emissions to achieving net zero, and is based on independent assessment and annual verification.",
+    "section": "5.9 Environmental Management status",
+    "text": "5.9 Environmental Management status\n\nDefault\nIn the ANSP and Airport views, instead of the cost graphs an overviewis presented on the EMS status of ANSP and airports​\n\nOutput\nIndication of the Environmental Systems that are applied at the ANSPand different national Airports.\n\nData\nANSP​\nSeveral Environmental Systems may be applied at ANSP level, such as EMAS,GreenATM, ISO 14000 family, etc.​\nThe CANSO GreenATM programme is a voluntary environmental accreditationdesigned for ANSPs to assess and enhance their environmental performance. Itoffers a structured framework with five maturity levels, evaluating areas such asgovernance, operational efficiency, infrastructure, and stakeholder engagement.​\nParticipation in the GreenATM programme is entirely voluntary for ANSPs. It serves as an independent, industry-endorsed accreditation of their environmental efforts.​\nAirports\nThe Airport Carbon Accreditation (ACA) programme, developed by Airports Council International (ACI), is a globally recognized certification that helps airports measure, manage, and reduce their carbon emissions. It offers a six-level framework, from mapping emissions to achieving net zero, and is based on independent assessment and annual verification.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>NetZero</span>"
     ]
   },
   {
-    "objectID": "netzero/index.html#view-the-environmental-costs",
-    "href": "netzero/index.html#view-the-environmental-costs",
+    "objectID": "netzero/index.html#environmental-costs",
+    "href": "netzero/index.html#environmental-costs",
     "title": "5  NetZero",
-    "section": "5.10 View the Environmental Costs",
-    "text": "5.10 View the Environmental Costs",
+    "section": "5.10 Environmental Costs",
+    "text": "5.10 Environmental Costs",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>NetZero</span>"
     ]
@@ -200,51 +200,51 @@
     ]
   },
   {
-    "objectID": "netzero/index.html#select-the-flight-criteria-filters",
-    "href": "netzero/index.html#select-the-flight-criteria-filters",
+    "objectID": "netzero/index.html#flight-criteria-filters",
+    "href": "netzero/index.html#flight-criteria-filters",
     "title": "5  NetZero",
-    "section": "5.12 Select the Flight criteria Filters",
-    "text": "5.12 Select the Flight criteria Filters\n\n\nDefault\nDefault Area of interest is Area focus.\nDefault Flight type Area Focus is Departures and Arrivals Default Flight type.\nFull trajectory is Departures.\nNo Default Flight phases for Area focus or Full trajectory.\nNo Default Market segment for Area focus.\n\nOutput\nThe Area of interest and filters selection update the Emissions, Fuel burn, Cumulative Emissions and What-if Graphs.\n\nData\nEmission values are calculated using 2 different methodologies.\nThe Area focus presents Fuel burn and Emissions within the Area selected. Finetune the type of traffic to be presented by Departures to outside the Area selected, Arrivals to within the Area selected, Internal flight withing the Area selected, and Overflying traffic of the Area selected.\nWith the Full trajectory method, the Fuel burn, and Emissions of the Full trajectory are presented. Possible traffic selections are Full emission and Fuel burn of departing traffic from the Area selected, from Arrivals to the Area selected and from Domestic flights. Traffic selections cannot be selected simultaneously to avoid overlap.",
+    "section": "5.12 Flight criteria Filters",
+    "text": "5.12 Flight criteria Filters\n\n\nDefault\nDefault Area of interest is Area focus.\nDefault Flight type Area Focus is Departures and Arrivals Default Flight type.\nFull trajectory is Departures.\nNo Default Flight phases for Area focus or Full trajectory.\nNo Default Market segment for Area focus.\n\nOutput\nThe Area of interest and filters selection update the Emissions, Fuel burn, Cumulative Emissions and What-if Graphs.\n\nData\nEmission values are calculated using 2 different methodologies.\nThe Area focus presents Fuel burn and Emissions within the Area selected. Finetune the type of traffic to be presented by Departures to outside the Area selected, Arrivals to within the Area selected, Internal flight withing the Area selected, and Overflying traffic of the Area selected.\nWith the Full trajectory method, the Fuel burn, and Emissions of the Full trajectory are presented. Possible traffic selections are Full emission and Fuel burn of departing traffic from the Area selected, from Arrivals to the Area selected and from Domestic flights. Traffic selections cannot be selected simultaneously to avoid overlap.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>NetZero</span>"
     ]
   },
   {
-    "objectID": "netzero/index.html#select-the-aviation-outlook",
-    "href": "netzero/index.html#select-the-aviation-outlook",
+    "objectID": "netzero/index.html#aviation-outlook",
+    "href": "netzero/index.html#aviation-outlook",
     "title": "5  NetZero",
-    "section": "5.13 Select the Aviation Outlook",
-    "text": "5.13 Select the Aviation Outlook\n\n\nDefault\nDefault Scenario value is Base\n\nOutput\nThe Low, Base and High Scenarios represent traffic hypothesis. The Scenario changes the Emissions, Fuel burn, Cumulative Emissions and What-if Graphs values.\n\n\nData\nTraffic numbers and Emission and Fuel burn are based on High, Base and Low scenario as applied in the EUROCONTROL Aviation Outlook 2050. Each scenario presents different growth rates that are reflected in the emission Fuel burn graphs.",
+    "section": "5.13 Aviation Outlook",
+    "text": "5.13 Aviation Outlook\n\n\nDefault\nDefault Scenario value is Base\n\nOutput\nThe Low, Base and High Scenarios represent traffic hypothesis. The Scenario changes the Emissions, Fuel burn, Cumulative Emissions and What-if Graphs values.\n\n\nData\nTraffic numbers and Emission and Fuel burn are based on High, Base and Low scenario as applied in the EUROCONTROL Aviation Outlook 2050. Each scenario presents different growth rates that are reflected in the emission Fuel burn graphs.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>NetZero</span>"
     ]
   },
   {
-    "objectID": "netzero/index.html#customise-the-saf-blend",
-    "href": "netzero/index.html#customise-the-saf-blend",
+    "objectID": "netzero/index.html#saf-blend-customisation",
+    "href": "netzero/index.html#saf-blend-customisation",
     "title": "5  NetZero",
-    "section": "5.14 Customise the SAF Blend",
-    "text": "5.14 Customise the SAF Blend\n\n\nDefault\nDefault Blend Low scenario: 4% in 2030, 26% in 2040, 50% in 2050\nBlend Base scenario: 6% in 2030, 34% in 2040, 70% in 2050\nDefault Blend High scenario: 10% in 2030, 49% in 2040, 88% in 2050\nBio-SAF/synth-SAF ratios are applied according to ReFuelEU mandate.\n\nOutput\nThe Blend % changes the CO2 net curve on the Emissions and Cumulative emissions graph and the SAF curve on the Fuel Burn graph.\n\n\nData\nTo assess the impact of the use of Sustainable Aviation Fuels on the NET emission values, input the percentages of SAF blend in the different years and the specific SAF pathway. Default values in the base scenario are aligned with the ReFuelEU SAF requirements. LCA values applied are: 65% emission reduction for bio-SAF and 70% emission reduction for synthetic SAFs.",
+    "section": "5.14 SAF Blend Customisation",
+    "text": "5.14 SAF Blend Customisation\n\n\nDefault\nDefault Blend Low scenario: 4% in 2030, 26% in 2040, 50% in 2050\nBlend Base scenario: 6% in 2030, 34% in 2040, 70% in 2050\nDefault Blend High scenario: 10% in 2030, 49% in 2040, 88% in 2050\nBio-SAF/synth-SAF ratios are applied according to ReFuelEU mandate.\n\nOutput\nThe Blend % changes the CO2 net curve on the Emissions and Cumulative emissions graph and the SAF curve on the Fuel Burn graph.\n\n\nData\nTo assess the impact of the use of Sustainable Aviation Fuels on the NET emission values, input the percentages of SAF blend in the different years and the specific SAF pathway. Default values in the base scenario are aligned with the ReFuelEU SAF requirements. LCA values applied are: 65% emission reduction for bio-SAF and 70% emission reduction for synthetic SAFs.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>NetZero</span>"
     ]
   },
   {
-    "objectID": "netzero/index.html#customise-the-fleet-air-traffic-management-and-economic-prices",
-    "href": "netzero/index.html#customise-the-fleet-air-traffic-management-and-economic-prices",
+    "objectID": "netzero/index.html#fleet-air-traffic-management-and-economic-prices-customisation",
+    "href": "netzero/index.html#fleet-air-traffic-management-and-economic-prices-customisation",
     "title": "5  NetZero",
-    "section": "5.15 Customise the Fleet, Air Traffic Management and Economic Prices",
-    "text": "5.15 Customise the Fleet, Air Traffic Management and Economic Prices\n\n\nDefault\nDefault Levels:\n\nModerate (Fleet and Air Traffic Management)\nModerate (Economic Scenario)\n\n\nOutput\nThe different levels update the Emissions, Fuel burn, Cumulative Emissions, What-if and Environmental Cost Graphs.\n\n\nData\nFleet evolution, revolution are derived from forecasted emission reductions as presented in the EUROCONTROL Aviation Outlook 2050.\nThe reduction potential per year are extrapolated towards final results in 2050 in the different scenarios.\nThe user can select his/her/their specific improvement percentages using the sliders and/or select low, moderate or high prices for fuels, SAF and CO2.\nThe state view includes the impact on ticket price and subsequent impact on demand.\nIn this release very simple values and methodologies are applied (not specified per market segment or other filters), assuming fixed operational margins and fuel cost shares of airlines, to present the user with an mererly and indication of possible impact.\nThe price elasticity value applied is -0.1.",
+    "section": "5.15 Fleet, Air Traffic Management and Economic Prices Customisation",
+    "text": "5.15 Fleet, Air Traffic Management and Economic Prices Customisation\n\n\nDefault\nDefault Levels:\n\nModerate (Fleet and Air Traffic Management)\nModerate (Economic Scenario)\n\n\nOutput\nThe different levels update the Emissions, Fuel burn, Cumulative Emissions, What-if and Environmental Cost Graphs.\n\n\nData\nFleet evolution, revolution are derived from forecasted emission reductions as presented in the EUROCONTROL Aviation Outlook 2050.\nThe reduction potential per year are extrapolated towards final results in 2050 in the different scenarios.\nThe user can select his/her/their specific improvement percentages using the sliders and/or select low, moderate or high prices for fuels, SAF and CO2.\nThe state view includes the impact on ticket price and subsequent impact on demand.\nIn this release very simple values and methodologies are applied (not specified per market segment or other filters), assuming fixed operational margins and fuel cost shares of airlines, to present the user with an mererly and indication of possible impact.\nThe price elasticity value applied is -0.1.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>NetZero</span>"
     ]
   },
   {
-    "objectID": "netzero/index.html#see-the-impact-of-operational-improvements",
-    "href": "netzero/index.html#see-the-impact-of-operational-improvements",
+    "objectID": "netzero/index.html#impact-of-operational-improvements",
+    "href": "netzero/index.html#impact-of-operational-improvements",
     "title": "5  NetZero",
-    "section": "5.16 See the impact of operational improvements",
-    "text": "5.16 See the impact of operational improvements\n\n\nDefault\nDefault Level is Moderate (Fleet and Air Traffic Management)\n\nOutput\nThe different input of operational improvements update:\n\nEmissions (with indicated reduction of emissions from operational improvements)\nFuel burn\nCumulative Emissions\nWhat-if\nEnvironmental Cost Graphs.\n\n\n\nData\nThe user can select specific improvement percentages per flight phase.\nEach flight phase presents indications of potential improvement percentages for different operational concepts.\nThe operational improvements are only applied to the available trajectory segments in the selected zone/area.\nE.g. taxi operational improvements will not affect upper area airspace emissions.",
+    "section": "5.16 Impact of operational improvements",
+    "text": "5.16 Impact of operational improvements\n\n\nDefault\nDefault Level is Moderate (Fleet and Air Traffic Management)\n\nOutput\nThe different input of operational improvements update:\n\nEmissions (with indicated reduction of emissions from operational improvements)\nFuel burn\nCumulative Emissions\nWhat-if\nEnvironmental Cost Graphs.\n\n\n\nData\nThe user can select specific improvement percentages per flight phase.\nEach flight phase presents indications of potential improvement percentages for different operational concepts.\nThe operational improvements are only applied to the available trajectory segments in the selected zone/area.\nE.g. taxi operational improvements will not affect upper area airspace emissions.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>NetZero</span>"
     ]
@@ -310,91 +310,91 @@
     ]
   },
   {
-    "objectID": "climadapt/index.html#view-climate-change-effects-per-climate-zone-or-state",
-    "href": "climadapt/index.html#view-climate-change-effects-per-climate-zone-or-state",
+    "objectID": "climadapt/index.html#climate-change-effects-per-climate-zone-or-state",
+    "href": "climadapt/index.html#climate-change-effects-per-climate-zone-or-state",
     "title": "7  ClimAdapt",
-    "section": "7.3 View Climate change effects​ per Climate zone or State",
-    "text": "7.3 View Climate change effects​ per Climate zone or State\n\n\nDefault\nNo Geographical subdivision selected\nClimate change effects is empty\nMap displayed with all IPCC zone with colour codes\n\nOutput\nSelected IPCC geographical subdivision highlighted with related Climate change effects.\n\n\nData\nScientific sources the IPCC assessment reports.",
+    "section": "7.3 Climate change effects​ per Climate zone or State",
+    "text": "7.3 Climate change effects​ per Climate zone or State\n\n\nDefault\nNo Geographical subdivision selected\nClimate change effects is empty\nMap displayed with all IPCC zone with colour codes\n\nOutput\nSelected IPCC geographical subdivision highlighted with related Climate change effects.\n\n\nData\nScientific sources the IPCC assessment reports.",
     "crumbs": [
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>ClimAdapt</span>"
     ]
   },
   {
-    "objectID": "climadapt/index.html#run-a-climate-change-risk-pre-screening-assessment",
-    "href": "climadapt/index.html#run-a-climate-change-risk-pre-screening-assessment",
+    "objectID": "climadapt/index.html#climate-change-risk-pre-screening-assessment",
+    "href": "climadapt/index.html#climate-change-risk-pre-screening-assessment",
     "title": "7  ClimAdapt",
-    "section": "7.4 Run a climate change risk pre-screening assessment​",
-    "text": "7.4 Run a climate change risk pre-screening assessment​\n\n\nDefault\nDefault Location type: State\nNo profile selected\n\nOutput\nSelected State or IPCC geographical subdivision, and selected profile, impacts the questions presented for:\n\nTemperature;\nStorms;\nSea level rise;\nPrecipitation.\n\n\n\nData\nQuestionnaire and methodology are designed by EUROCONTROL experts.",
+    "section": "7.4 Climate change risk pre-screening assessment​",
+    "text": "7.4 Climate change risk pre-screening assessment​\n\n\nDefault\nDefault Location type: State\nNo profile selected\n\nOutput\nSelected State or IPCC geographical subdivision, and selected profile, impacts the questions presented for:\n\nTemperature;\nStorms;\nSea level rise;\nPrecipitation.\n\n\n\nData\nQuestionnaire and methodology are designed by EUROCONTROL experts.",
     "crumbs": [
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>ClimAdapt</span>"
     ]
   },
   {
-    "objectID": "climadapt/index.html#view-the-pre-screening-assessment-report-summary",
-    "href": "climadapt/index.html#view-the-pre-screening-assessment-report-summary",
+    "objectID": "climadapt/index.html#pre-screening-assessment-report-summary",
+    "href": "climadapt/index.html#pre-screening-assessment-report-summary",
     "title": "7  ClimAdapt",
-    "section": "7.5 View the pre-screening assessment report​ summary",
-    "text": "7.5 View the pre-screening assessment report​ summary\n\n\nDefault\nResults from the High-level pre-screening assessment\n\nOutput\nThe results of the high-level pre-screening assessment are presented:\n\nScreening Assessment Report;\nAnswers to climate change effects and impacts questions;\nRecommendation for next steps.\n\nResults of the last assessment can be downloaded.",
+    "section": "7.5 Pre-screening assessment report​ summary",
+    "text": "7.5 Pre-screening assessment report​ summary\n\n\nDefault\nResults from the High-level pre-screening assessment\n\nOutput\nThe results of the high-level pre-screening assessment are presented:\n\nScreening Assessment Report;\nAnswers to climate change effects and impacts questions;\nRecommendation for next steps.\n\nResults of the last assessment can be downloaded.",
     "crumbs": [
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>ClimAdapt</span>"
     ]
   },
   {
-    "objectID": "climadapt/index.html#plan-for-the-financial-implications-of-climate-change",
-    "href": "climadapt/index.html#plan-for-the-financial-implications-of-climate-change",
+    "objectID": "climadapt/index.html#financial-implications-of-climate-change",
+    "href": "climadapt/index.html#financial-implications-of-climate-change",
     "title": "7  ClimAdapt",
-    "section": "7.6 Plan for the financial implications of climate change",
-    "text": "7.6 Plan for the financial implications of climate change\n\n\nDefault\nNo answers selected\n\nOutput\nSelected levels impact the results.\n\n\nData\nThese reference values were developed based on a range of industry and academic sources of information.\nFor more details you can see the Repository of Information and Guidance.",
+    "section": "7.6 Financial implications of climate change",
+    "text": "7.6 Financial implications of climate change\n\n\nDefault\nNo answers selected\n\nOutput\nSelected levels impact the results.\n\n\nData\nThese reference values were developed based on a range of industry and academic sources of information.\nFor more details you can see the Repository of Information and Guidance.",
     "crumbs": [
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>ClimAdapt</span>"
     ]
   },
   {
-    "objectID": "climadapt/index.html#view-the-economic-assessment-results",
-    "href": "climadapt/index.html#view-the-economic-assessment-results",
+    "objectID": "climadapt/index.html#economic-assessment-results",
+    "href": "climadapt/index.html#economic-assessment-results",
     "title": "7  ClimAdapt",
-    "section": "7.7 View the economic assessment results",
-    "text": "7.7 View the economic assessment results\n\n\nDefault\nResults from the Economic assessment\n\nOutput\nThe results of the Economic assessment are presented:\n\nPHOCCE score,\nSeverity costs,\nPotential loss details,\nNext steps,\nDisclaimer,\nSources.\n\nResults of the last assessment can be displayed.\nRecalculation is possible at the end of the results.",
+    "section": "7.7 Economic assessment results",
+    "text": "7.7 Economic assessment results\n\n\nDefault\nResults from the Economic assessment\n\nOutput\nThe results of the Economic assessment are presented:\n\nPHOCCE score,\nSeverity costs,\nPotential loss details,\nNext steps,\nDisclaimer,\nSources.\n\nResults of the last assessment can be displayed.\nRecalculation is possible at the end of the results.",
     "crumbs": [
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>ClimAdapt</span>"
     ]
   },
   {
-    "objectID": "climadapt/index.html#search-for-potential-climate-impacts-and-targeted-measures-to-reduce-vulnerabilities",
-    "href": "climadapt/index.html#search-for-potential-climate-impacts-and-targeted-measures-to-reduce-vulnerabilities",
+    "objectID": "climadapt/index.html#potential-climate-impacts-and-targeted-measures-to-reduce-vulnerabilities",
+    "href": "climadapt/index.html#potential-climate-impacts-and-targeted-measures-to-reduce-vulnerabilities",
     "title": "7  ClimAdapt",
-    "section": "7.8 Search for potential climate impacts and targeted measures to reduce vulnerabilities",
-    "text": "7.8 Search for potential climate impacts and targeted measures to reduce vulnerabilities\n\n\nDefault\nAll filters (Stakeholder, Climate Effect and Risk Category) preselected.\n\nOutput\nClimate impacts results with vulnerabilities and adaptations measures.\n\nData\nThe information in this repository is based on:\n\nICAO Key Climate Change Vulnerabilities for Aviation Organisations;\nICAO Menu of Adaptation Options;\nEUROCONTROL Climate Change Risks for European Aviation 2021;\nEUROCONTROL Adapting Aviation to a Changing Climate 2018.",
+    "section": "7.8 Potential climate impacts and targeted measures to reduce vulnerabilities",
+    "text": "7.8 Potential climate impacts and targeted measures to reduce vulnerabilities\n\n\nDefault\nAll filters (Stakeholder, Climate Effect and Risk Category) preselected.\n\nOutput\nClimate impacts results with vulnerabilities and adaptations measures.\n\nData\nThe information in this repository is based on:\n\nICAO Key Climate Change Vulnerabilities for Aviation Organisations;\nICAO Menu of Adaptation Options;\nEUROCONTROL Climate Change Risks for European Aviation 2021;\nEUROCONTROL Adapting Aviation to a Changing Climate 2018.",
     "crumbs": [
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>ClimAdapt</span>"
     ]
   },
   {
-    "objectID": "climadapt/index.html#check-the-key-steps-for-climate-risk-assessment-and-adaptation-action",
-    "href": "climadapt/index.html#check-the-key-steps-for-climate-risk-assessment-and-adaptation-action",
+    "objectID": "climadapt/index.html#key-steps-for-climate-risk-assessment-and-adaptation-action",
+    "href": "climadapt/index.html#key-steps-for-climate-risk-assessment-and-adaptation-action",
     "title": "7  ClimAdapt",
-    "section": "7.9 Check the key steps for climate risk assessment and adaptation action",
-    "text": "7.9 Check the key steps for climate risk assessment and adaptation action\n\n\nDefault\nNo actions preselected\n\nOutput\nProgress bar updated from the actions selected.\n\n\nData\nICAO guidance : Climate Change: Climate Risk Assessment, Adaptation and Resilience",
+    "section": "7.9 Key steps for climate risk assessment and adaptation action",
+    "text": "7.9 Key steps for climate risk assessment and adaptation action\n\n\nDefault\nNo actions preselected\n\nOutput\nProgress bar updated from the actions selected.\n\n\nData\nICAO guidance : Climate Change: Climate Risk Assessment, Adaptation and Resilience",
     "crumbs": [
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>ClimAdapt</span>"
     ]
   },
   {
-    "objectID": "climadapt/index.html#get-guidance-on-climate-change-risks-and-adaptation-measures-from-various-sources",
-    "href": "climadapt/index.html#get-guidance-on-climate-change-risks-and-adaptation-measures-from-various-sources",
+    "objectID": "climadapt/index.html#guidance-on-climate-change-risks-and-adaptation-measures-from-various-sources",
+    "href": "climadapt/index.html#guidance-on-climate-change-risks-and-adaptation-measures-from-various-sources",
     "title": "7  ClimAdapt",
-    "section": "7.10 Get guidance on climate change risks and adaptation measures from various sources",
-    "text": "7.10 Get guidance on climate change risks and adaptation measures from various sources\n\nDefault\nNo actions preselected",
+    "section": "7.10 Guidance on climate change risks and adaptation measures from various sources",
+    "text": "7.10 Guidance on climate change risks and adaptation measures from various sources\n\nDefault\nNo actions preselected",
     "crumbs": [
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>ClimAdapt</span>"
     ]
   },
   {
-    "objectID": "climadapt/index.html#view-climadapt-data-sources",
-    "href": "climadapt/index.html#view-climadapt-data-sources",
+    "objectID": "climadapt/index.html#climadapt-data-sources",
+    "href": "climadapt/index.html#climadapt-data-sources",
     "title": "7  ClimAdapt",
-    "section": "7.11 View ClimAdapt data sources",
-    "text": "7.11 View ClimAdapt data sources\n\nDefault\nLinks\n\nOutput\nThe data sources links open in a new window.",
+    "section": "7.11 ClimAdapt data sources",
+    "text": "7.11 ClimAdapt data sources\n\nDefault\nLinks\n\nOutput\nThe data sources links open in a new window.",
     "crumbs": [
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>ClimAdapt</span>"
     ]
@@ -440,141 +440,141 @@
     ]
   },
   {
-    "objectID": "decarbfin/index.html#view-the-decarbfin-faq",
-    "href": "decarbfin/index.html#view-the-decarbfin-faq",
+    "objectID": "decarbfin/index.html#decarbfin-faq",
+    "href": "decarbfin/index.html#decarbfin-faq",
     "title": "8  DecarbFin",
-    "section": "8.3 View the DecarbFin FAQ",
-    "text": "8.3 View the DecarbFin FAQ\n\n\n\n\n\n\nDefault\nFAQ for Fund Pathfinder\n\nOutput\nThe FAQ is presented for the Fund-Pathfinder.\n\n\nData\nThe FAQ summarises the scope of Fund Pathfinder under a list of given Q&A defining:\n\ngeographical scope,\nprogramme/fund scope,\nstakeholders addressed,\nfunding options,\nproject (sub-) types,\nproject maturity.\n\n\nDefinition\nBeneficiaries:: aviation stakeholders benefiting from the EU funding programmes included in Fund Pathfinder;\nResult type: search results that correspond to either a Fund, a Call, or both;\nFund: a EU funding programme or financing instrument;\nCall: a specific funding opportunity (often a grant) for a given Fund/Programme, with a specific time window when applicants are invited to submit under their Call for Proposal;\nTechnology Readiness Level (TRL): a method used to assess the maturity of a particular technology;\nProject type/sub-type: project categorisation according to eligible stakeholders, purpose of project and maturity level.",
+    "section": "8.3 DecarbFin FAQ",
+    "text": "8.3 DecarbFin FAQ\n\n\n\n\n\n\nDefault\nFAQ for Fund Pathfinder\n\nOutput\nThe FAQ is presented for the Fund-Pathfinder.\n\n\nData\nThe FAQ summarises the scope of Fund Pathfinder under a list of given Q&A defining:\n\ngeographical scope,\nprogramme/fund scope,\nstakeholders addressed,\nfunding options,\nproject (sub-) types,\nproject maturity.\n\n\nDefinition\nBeneficiaries:: aviation stakeholders benefiting from the EU funding programmes included in Fund Pathfinder;\nResult type: search results that correspond to either a Fund, a Call, or both;\nFund: a EU funding programme or financing instrument;\nCall: a specific funding opportunity (often a grant) for a given Fund/Programme, with a specific time window when applicants are invited to submit under their Call for Proposal;\nTechnology Readiness Level (TRL): a method used to assess the maturity of a particular technology;\nProject type/sub-type: project categorisation according to eligible stakeholders, purpose of project and maturity level.",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>DecarbFin</span>"
     ]
   },
   {
-    "objectID": "decarbfin/index.html#view-the-funds-programmes-overview",
-    "href": "decarbfin/index.html#view-the-funds-programmes-overview",
+    "objectID": "decarbfin/index.html#funds-programmes-overview",
+    "href": "decarbfin/index.html#funds-programmes-overview",
     "title": "8  DecarbFin",
-    "section": "8.4 View the Funds & Programmes overview",
-    "text": "8.4 View the Funds & Programmes overview\n\nDefault\nAll Currently available Funds & Programmes\n\n(With one exception: although completed and replaced by Horizon Europe, Horizon 2020 is displayed here as it has funded many aviation related projects of interest)\n\nOutput\nThe Funds & Programmes available are presented on the carrousel. \n\n\nData\nThe source of information for the Funds & Programmes is the official EU (and EU relevant agencies) websites.\n\nDefinition\nFunds / Programmes: financial resources allocated by the EU to projects & initiatives that support the EU strategic priorities, within its Member States and beyond in some cases. A sub-set of Funds selected for their relevance to aviation sustainability.\nState: ECAC Member State in which the aviation beneficiary is located.\nStakeholder: type of company/organisation in the aviation value chain.",
+    "section": "8.4 Funds & Programmes overview",
+    "text": "8.4 Funds & Programmes overview\n\nDefault\nAll Currently available Funds & Programmes\n\n(With one exception: although completed and replaced by Horizon Europe, Horizon 2020 is displayed here as it has funded many aviation related projects of interest)\n\nOutput\nThe Funds & Programmes available are presented on the carrousel. \n\n\nData\nThe source of information for the Funds & Programmes is the official EU (and EU relevant agencies) websites.\n\nDefinition\nFunds / Programmes: financial resources allocated by the EU to projects & initiatives that support the EU strategic priorities, within its Member States and beyond in some cases. A sub-set of Funds selected for their relevance to aviation sustainability.\nState: ECAC Member State in which the aviation beneficiary is located.\nStakeholder: type of company/organisation in the aviation value chain.",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>DecarbFin</span>"
     ]
   },
   {
-    "objectID": "decarbfin/index.html#filter-my-funds-and-calls",
-    "href": "decarbfin/index.html#filter-my-funds-and-calls",
+    "objectID": "decarbfin/index.html#my-funds-and-calls",
+    "href": "decarbfin/index.html#my-funds-and-calls",
     "title": "8  DecarbFin",
-    "section": "8.5 Filter My Funds and Calls",
-    "text": "8.5 Filter My Funds and Calls\n\n\n\n\n\n\nQuery\nTwo methods for searching\n\nQuick general query: you may use the filters at the top of the page: State, Stakeholder, Keyword: you can select one State, one or multiple Stakeholders and optionally Keyword(s).\n\n\n\n\n\n\n\nRefined query for specific project types: You may use the filters on the left hand-side, where all filtering combinations are possible:\n\nResult type (Fund/Call),\nStatus (Active/Upcoming…),\nFunding Type (Grant, other…),\nProject maturity,\nProject Type (purpose).\n\n\nThe search can combine filters at the top and the left of the page.\n\n\n\n\n\n\nNote on Result Type: The query can be made on “Funds” or “Calls”, or both combined.  “Calls” are instantiations of “Funds” meaning that they are more focused and may only target a subset of the project types defined in the corresponding “Fund”. \n\n\nOutput",
+    "section": "8.5 My Funds and Calls",
+    "text": "8.5 My Funds and Calls\n\n\n\n\n\n\nQuery\nTwo methods for searching\n\nQuick general query: you may use the filters at the top of the page: State, Stakeholder, Keyword: you can select one State, one or multiple Stakeholders and optionally Keyword(s).\n\n\n\n\n\n\n\nRefined query for specific project types: You may use the filters on the left hand-side, where all filtering combinations are possible:\n\nResult type (Fund/Call),\nStatus (Active/Upcoming…),\nFunding Type (Grant, other…),\nProject maturity,\nProject Type (purpose).\n\n\nThe search can combine filters at the top and the left of the page.\n\n\n\n\n\n\nNote on Result Type: The query can be made on “Funds” or “Calls”, or both combined.  “Calls” are instantiations of “Funds” meaning that they are more focused and may only target a subset of the project types defined in the corresponding “Fund”. \n\n\nOutput",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>DecarbFin</span>"
     ]
   },
   {
-    "objectID": "decarbfin/index.html#view-the-funds-the-programmes-and-the-calls-details",
-    "href": "decarbfin/index.html#view-the-funds-the-programmes-and-the-calls-details",
+    "objectID": "decarbfin/index.html#funds-programmes-and-calls-details",
+    "href": "decarbfin/index.html#funds-programmes-and-calls-details",
     "title": "8  DecarbFin",
-    "section": "8.6 View the Funds, the Programmes and the Calls details",
-    "text": "8.6 View the Funds, the Programmes and the Calls details\n\n\n\n\n\n\nDefault\n\nSections appearing in a Fund: Description, Funding types, Calls, Other support, Funding principles and rates, Project Maturity, Eligible States, Aviation related cases, References, Contact. \nSections appearing in a Call: Description, Funding types, Call total budget, Funding ratio, Call topics.\n\n\nOutput\nThe Funds & Programme or Calls details are displayed. The navigation is managed from the navigation index on the left-hand side.\n\n\n\n\n\n\nData\nThe information is sourced from the official EU websites and/or from the website of the specific programme/fund/call.\n\nDefinition\n\nFunding type(s): type of funding resource (e.g. grant) or financing instrument (e.g. loan, bond, equity…)\nSubmission: process of providing all necessary documents before deadline when applying for an EU funding opportunity",
+    "section": "8.6 Funds, Programmes and Calls details",
+    "text": "8.6 Funds, Programmes and Calls details\n\n\n\n\n\n\nDefault\n\nSections appearing in a Fund: Description, Funding types, Calls, Other support, Funding principles and rates, Project Maturity, Eligible States, Aviation related cases, References, Contact. \nSections appearing in a Call: Description, Funding types, Call total budget, Funding ratio, Call topics.\n\n\nOutput\nThe Funds & Programme or Calls details are displayed. The navigation is managed from the navigation index on the left-hand side.\n\n\n\n\n\n\nData\nThe information is sourced from the official EU websites and/or from the website of the specific programme/fund/call.\n\nDefinition\n\nFunding type(s): type of funding resource (e.g. grant) or financing instrument (e.g. loan, bond, equity…)\nSubmission: process of providing all necessary documents before deadline when applying for an EU funding opportunity",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>DecarbFin</span>"
     ]
   },
   {
-    "objectID": "decarbfin/index.html#view-the-projects-overview",
-    "href": "decarbfin/index.html#view-the-projects-overview",
+    "objectID": "decarbfin/index.html#projects-overview",
+    "href": "decarbfin/index.html#projects-overview",
     "title": "8  DecarbFin",
-    "section": "8.7 View the Projects overview",
-    "text": "8.7 View the Projects overview\n\n\n\n\n\nDefault\nCurrent or past Projects, publicly available, that have benefited from EU Funding and are relevant for aviation decarbonisation.\n\nOutput\nThe Projects are presented on the carrousel.\n\n\n\n\n\n\nData\nAll projects showcased and their descriptions are sourced from the official sites of the projects or from relevant EU websites.\n\nDefinition\nProjects showcase: A (non-exhaustive) selection of publicly disclosed projects, that have benefited from EU Funding and are relevant for aviation decarbonisation.",
+    "section": "8.7 Projects overview",
+    "text": "8.7 Projects overview\n\n\n\n\n\nDefault\nCurrent or past Projects, publicly available, that have benefited from EU Funding and are relevant for aviation decarbonisation.\n\nOutput\nThe Projects are presented on the carrousel.\n\n\n\n\n\n\nData\nAll projects showcased and their descriptions are sourced from the official sites of the projects or from relevant EU websites.\n\nDefinition\nProjects showcase: A (non-exhaustive) selection of publicly disclosed projects, that have benefited from EU Funding and are relevant for aviation decarbonisation.",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>DecarbFin</span>"
     ]
   },
   {
-    "objectID": "decarbfin/index.html#view-the-finance-instruments---sustainable-summary",
-    "href": "decarbfin/index.html#view-the-finance-instruments---sustainable-summary",
+    "objectID": "decarbfin/index.html#finance-instruments---sustainable-summary",
+    "href": "decarbfin/index.html#finance-instruments---sustainable-summary",
     "title": "8  DecarbFin",
-    "section": "8.8 View the finance instruments - Sustainable Summary",
-    "text": "8.8 View the finance instruments - Sustainable Summary\n\nDefault\nSustainable finance instruments offered by the financial institutions: sustainability-linked loans, green bonds, sustainability-linked bonds, green loans, social bonds and venture capital.\n\nOutput\nCarousel of the summary cards of sustainable finance instruments located in the landing page constitute a very structured summary of the full description of sustainable finance instruments.\n\n\n\n\n\n\nData\nPublic data available in various websites with focus on ICMA resources.\nThe selection of options is based on historic transactions pertaining to the aviation industry coupled with two extra alternatives for social and early-stage projects.\n\nDefinition\nPlease consult the Dictionary of terms function.\n\n\nTip: By clicking on any of the cards in the carousel, a longer description of the sustainable finance instrument appears – please see next page.",
+    "section": "8.8 Finance instruments - Sustainable Summary",
+    "text": "8.8 Finance instruments - Sustainable Summary\n\nDefault\nSustainable finance instruments offered by the financial institutions: sustainability-linked loans, green bonds, sustainability-linked bonds, green loans, social bonds and venture capital.\n\nOutput\nCarousel of the summary cards of sustainable finance instruments located in the landing page constitute a very structured summary of the full description of sustainable finance instruments.\n\n\n\n\n\n\nData\nPublic data available in various websites with focus on ICMA resources.\nThe selection of options is based on historic transactions pertaining to the aviation industry coupled with two extra alternatives for social and early-stage projects.\n\nDefinition\nPlease consult the Dictionary of terms function.\n\n\nTip: By clicking on any of the cards in the carousel, a longer description of the sustainable finance instrument appears – please see next page.",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>DecarbFin</span>"
     ]
   },
   {
-    "objectID": "decarbfin/index.html#view-the-sustainable-finance-instruments---details",
-    "href": "decarbfin/index.html#view-the-sustainable-finance-instruments---details",
+    "objectID": "decarbfin/index.html#sustainable-finance-instruments---details",
+    "href": "decarbfin/index.html#sustainable-finance-instruments---details",
     "title": "8  DecarbFin",
-    "section": "8.9 View the Sustainable finance instruments - Details",
-    "text": "8.9 View the Sustainable finance instruments - Details\n\nDefault\nView the following items:\n\nThe Description of the instrument,\nThe recorded range of aviation-related volumes,\nAreas of Eligibility,\nPotential Use of Proceeds,\nInstrument’s Characteristics,\nProcedural Framework,\nSustainability Strategy,\nKey Performance Indicators,\nReporting Needs,\nExternal Verification Needs and Completed with the relevant (if any) Use Cases corresponding to that specific instrument.\n\n\nOutput\nSustainable finance instruments are presented in detail. The navigation can also be managed from the navigation menu on the left hand-side.\n\n\n\n\n\n\nData\nAll information is sourced from publicly accessible sources which are located at the bottom of the page.\n\nDefinitions\nPlease consult the Dictionary of terms function",
+    "section": "8.9 Sustainable finance instruments - Details",
+    "text": "8.9 Sustainable finance instruments - Details\n\nDefault\nView the following items:\n\nThe Description of the instrument,\nThe recorded range of aviation-related volumes,\nAreas of Eligibility,\nPotential Use of Proceeds,\nInstrument’s Characteristics,\nProcedural Framework,\nSustainability Strategy,\nKey Performance Indicators,\nReporting Needs,\nExternal Verification Needs and Completed with the relevant (if any) Use Cases corresponding to that specific instrument.\n\n\nOutput\nSustainable finance instruments are presented in detail. The navigation can also be managed from the navigation menu on the left hand-side.\n\n\n\n\n\n\nData\nAll information is sourced from publicly accessible sources which are located at the bottom of the page.\n\nDefinitions\nPlease consult the Dictionary of terms function",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>DecarbFin</span>"
     ]
   },
   {
-    "objectID": "decarbfin/index.html#view-the-use-cases",
-    "href": "decarbfin/index.html#view-the-use-cases",
+    "objectID": "decarbfin/index.html#use-cases",
+    "href": "decarbfin/index.html#use-cases",
     "title": "8  DecarbFin",
-    "section": "8.10 View the Use Cases",
-    "text": "8.10 View the Use Cases\n\nDefault\nA selection of diverse sustainable finance transactions or past Use Cases from the global aviation sector. They constitute financial deals between borrower companies active in aviation and financial institutions. These deals are subject to ESG-related financial conditions.\n\nOutput\nEach Use Case outlines a single transaction with details on:\n\nState,\nType of stakeholder,\nOrganisation,\nAmount asked,\nUse of proceeds,\nKPIs used,\nEU Taxonomy relevance,\nTransaction year,\nSource.\n\n\n\n\n\n\n\nData\nPublic data mainly by press releases from involved parties or articles mainly at bank websites.\n\nDefinitions\nPlease consult the Dictionary of terms function.",
+    "section": "8.10 Use cases",
+    "text": "8.10 Use cases\n\nDefault\nA selection of diverse sustainable finance transactions or past Use Cases from the global aviation sector. They constitute financial deals between borrower companies active in aviation and financial institutions. These deals are subject to ESG-related financial conditions.\n\nOutput\nEach Use Case outlines a single transaction with details on:\n\nState,\nType of stakeholder,\nOrganisation,\nAmount asked,\nUse of proceeds,\nKPIs used,\nEU Taxonomy relevance,\nTransaction year,\nSource.\n\n\n\n\n\n\n\nData\nPublic data mainly by press releases from involved parties or articles mainly at bank websites.\n\nDefinitions\nPlease consult the Dictionary of terms function.",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>DecarbFin</span>"
     ]
   },
   {
-    "objectID": "decarbfin/index.html#view-the-dictionary-of-terms",
-    "href": "decarbfin/index.html#view-the-dictionary-of-terms",
+    "objectID": "decarbfin/index.html#dictionary-of-terms",
+    "href": "decarbfin/index.html#dictionary-of-terms",
     "title": "8  DecarbFin",
-    "section": "8.11 View the Dictionary of terms",
-    "text": "8.11 View the Dictionary of terms\n\nDefault\nList of short explanations and definitions of terms appearing in the Funding Booster functionalities .\n\nOutput\nEach term is categorised under the Funding Booster’s functionality it belongs due to times of appearance. Each term is shortly explained with examples provided sometimes.\n\nData\nAll information is based on internal ASU validated information/knowledge and/or public acknowledged websites.",
+    "section": "8.11 Dictionary of terms",
+    "text": "8.11 Dictionary of terms\n\nDefault\nList of short explanations and definitions of terms appearing in the Funding Booster functionalities .\n\nOutput\nEach term is categorised under the Funding Booster’s functionality it belongs due to times of appearance. Each term is shortly explained with examples provided sometimes.\n\nData\nAll information is based on internal ASU validated information/knowledge and/or public acknowledged websites.",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>DecarbFin</span>"
     ]
   },
   {
-    "objectID": "decarbfin/index.html#search-my-private-funding-and-filter-my-sustainable-finance-instruments",
-    "href": "decarbfin/index.html#search-my-private-funding-and-filter-my-sustainable-finance-instruments",
+    "objectID": "decarbfin/index.html#my-private-funding-and-my-sustainable-finance-instruments",
+    "href": "decarbfin/index.html#my-private-funding-and-my-sustainable-finance-instruments",
     "title": "8  DecarbFin",
-    "section": "8.12 Search my “private” funding and Filter my Sustainable Finance instruments",
-    "text": "8.12 Search my “private” funding and Filter my Sustainable Finance instruments\nQuery\n\nType of stakeholder: definition of stakeholder type\nProject purpose: selection of the purpose of the proceeds (project – based or non-project based)\nStrategy and Reporting: profiling of sustainability strategy and reporting capabilities of the company\n\n\n\n\n\n\n\nOutput\nList of search results pertaining to sustainable finance instruments",
+    "section": "8.12 My “private” funding and my Sustainable Finance instruments",
+    "text": "8.12 My “private” funding and my Sustainable Finance instruments\nQuery\n\nType of stakeholder: definition of stakeholder type\nProject purpose: selection of the purpose of the proceeds (project – based or non-project based)\nStrategy and Reporting: profiling of sustainability strategy and reporting capabilities of the company\n\n\n\n\n\n\n\nOutput\nList of search results pertaining to sustainable finance instruments",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>DecarbFin</span>"
     ]
   },
   {
-    "objectID": "decarbfin/index.html#view-the-essentials",
-    "href": "decarbfin/index.html#view-the-essentials",
+    "objectID": "decarbfin/index.html#essentials",
+    "href": "decarbfin/index.html#essentials",
     "title": "8  DecarbFin",
-    "section": "8.13 View the Essentials",
-    "text": "8.13 View the Essentials\n\n1. ESG Frameworks\nDefault\nView the following items:\n\nPurpose of the framework\nFocus Areas\nKey Highlights\nCategories of ESG metrics\nTarget Audience\nRelevance with Aviation Sector\nWhere to Report\nCost of Use\nTarget Users\nReporting Period\nShort Conclusion\n\n\nOutput\nEach ESG framework is presented in detail. The navigation can be also managed from the navigation menu on the left side.\n\nData\nAll information is sourced from publicly accessible sources which are indicated at the bottom of the page. Some of them correspond to the official site of the ESG framework, where applicable (ie. CDP).\n\n\n\n\n\n\nDefinitions\nPlease consult the Dictionary of terms function.\n\n\n\n2. Roadmaps\nDefault\nView the following items: - Description of the roadmap\n\nStrategy Goals it entails\nMain Features\nTechnological solutions put forward\nPolicy and Market Mechanisms\nInvestment and Financing\nOperational and Infrastructure Changes\nInternational Collaboration\nTimelines/Milestones under its decarbonisation pathways\n\n\n\n\n\n\n\nOutput\nEach roadmap is presented in detail. The navigation can be also managed from the navigation menu on the left side.\n\nData\nAll information is sourced from publicly accessible sources which are located at the bottom of the page. They correspond to the official site of the roadmap release (ie. ICAO, IATA, SBTi, etc.).\n\nDefinitions\nPlease consult the Dictionary of terms function.",
+    "section": "8.13 Essentials",
+    "text": "8.13 Essentials\n\n1. ESG Frameworks\nDefault\nView the following items:\n\nPurpose of the framework\nFocus Areas\nKey Highlights\nCategories of ESG metrics\nTarget Audience\nRelevance with Aviation Sector\nWhere to Report\nCost of Use\nTarget Users\nReporting Period\nShort Conclusion\n\n\nOutput\nEach ESG framework is presented in detail. The navigation can be also managed from the navigation menu on the left side.\n\nData\nAll information is sourced from publicly accessible sources which are indicated at the bottom of the page. Some of them correspond to the official site of the ESG framework, where applicable (ie. CDP).\n\n\n\n\n\n\nDefinitions\nPlease consult the Dictionary of terms function.\n\n\n\n2. Roadmaps\nDefault\nView the following items: - Description of the roadmap\n\nStrategy Goals it entails\nMain Features\nTechnological solutions put forward\nPolicy and Market Mechanisms\nInvestment and Financing\nOperational and Infrastructure Changes\nInternational Collaboration\nTimelines/Milestones under its decarbonisation pathways\n\n\n\n\n\n\n\nOutput\nEach roadmap is presented in detail. The navigation can be also managed from the navigation menu on the left side.\n\nData\nAll information is sourced from publicly accessible sources which are located at the bottom of the page. They correspond to the official site of the roadmap release (ie. ICAO, IATA, SBTi, etc.).\n\nDefinitions\nPlease consult the Dictionary of terms function.",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>DecarbFin</span>"
     ]
   },
   {
-    "objectID": "decarbfin/index.html#view-the-sustainable-finance-dashboard",
-    "href": "decarbfin/index.html#view-the-sustainable-finance-dashboard",
+    "objectID": "decarbfin/index.html#sustainable-finance-dashboard",
+    "href": "decarbfin/index.html#sustainable-finance-dashboard",
     "title": "8  DecarbFin",
-    "section": "8.14 View the Sustainable Finance dashboard",
-    "text": "8.14 View the Sustainable Finance dashboard\nDefault\n\nVolume transactions per State (ECAC & Global)\nSustainable financing volume per instrument\nSustainable financing volume per Key Performance Indicator\nProceeds allocation per instrument and per stakeholder\nKey Performance Indicator used per stakeholder type\n\n\nOutput\nKey volumes per geography, over time and per instrument, per Environmental, Social or General context, per stakeholder type and use of proceeds and finally, indicators appearing in transactions.\n\n\n\n\n\n\n\nData\nPublic data (web).\nFor a comprehensive list of sources, click here.\n\nDefinitions\nPlease consult the Sustainable Finance dashboard for more information on how to read and interact with the visuals.",
+    "section": "8.14 Sustainable Finance dashboard",
+    "text": "8.14 Sustainable Finance dashboard\nDefault\n\nVolume transactions per State (ECAC & Global)\nSustainable financing volume per instrument\nSustainable financing volume per Key Performance Indicator\nProceeds allocation per instrument and per stakeholder\nKey Performance Indicator used per stakeholder type\n\n\nOutput\nKey volumes per geography, over time and per instrument, per Environmental, Social or General context, per stakeholder type and use of proceeds and finally, indicators appearing in transactions.\n\n\n\n\n\n\n\nData\nPublic data (web).\nFor a comprehensive list of sources, click here.\n\nDefinitions\nPlease consult the Sustainable Finance dashboard for more information on how to read and interact with the visuals.",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>DecarbFin</span>"
     ]
   },
   {
-    "objectID": "decarbfin/index.html#view-the-funding-basket",
-    "href": "decarbfin/index.html#view-the-funding-basket",
+    "objectID": "decarbfin/index.html#funding-basket",
+    "href": "decarbfin/index.html#funding-basket",
     "title": "8  DecarbFin",
-    "section": "8.15 View the funding basket",
-    "text": "8.15 View the funding basket\nFunding Basket: a space to temporarily store selected information from Fund Pathfinder and Funding Booster and export to a word format.\n\n\n\n\n\n\nDefault\nThe basket view consists of a Fund Pathfinder (EU funding) and Funding Booster (private funding) space: the user can select/add, view, and remove all the funds/calls and financial instruments previously selected. They can also add, view and remove ESG frameworks and Roadmaps.\n\n\n\n\n\n\n\nOutput\n\nFund Pathfinder: Sustainable business case including a selection of Funds and/or Calls including relevant EU funded project cases.\nFunding Booster: Sustainable business case defined by a single, selected financial instrument, and may include a linked ESG framework and/or a linked Roadmap.",
+    "section": "8.15 Funding basket",
+    "text": "8.15 Funding basket\nFunding Basket: a space to temporarily store selected information from Fund Pathfinder and Funding Booster and export to a word format.\n\n\n\n\n\n\nDefault\nThe basket view consists of a Fund Pathfinder (EU funding) and Funding Booster (private funding) space: the user can select/add, view, and remove all the funds/calls and financial instruments previously selected. They can also add, view and remove ESG frameworks and Roadmaps.\n\n\n\n\n\n\n\nOutput\n\nFund Pathfinder: Sustainable business case including a selection of Funds and/or Calls including relevant EU funded project cases.\nFunding Booster: Sustainable business case defined by a single, selected financial instrument, and may include a linked ESG framework and/or a linked Roadmap.",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>DecarbFin</span>"
     ]
   },
   {
-    "objectID": "decarbfin/index.html#download-the-bluebook",
-    "href": "decarbfin/index.html#download-the-bluebook",
+    "objectID": "decarbfin/index.html#bluebook-1",
+    "href": "decarbfin/index.html#bluebook-1",
     "title": "8  DecarbFin",
-    "section": "8.16 Download the Bluebook",
-    "text": "8.16 Download the Bluebook\n\n\n\n\n\n\nDefault\nBluebook\n\nOutput\nThe Bluebook is downloadable from the Landing page.\n\n\n\n\n\n\nData\nThe Bluebook summarises the EU Taxonomy and CSRD regulations using and quoting information provided by official EU regulatory websites, material produced by EFRAG, and other non-EU advisory services.",
+    "section": "8.16 Bluebook",
+    "text": "8.16 Bluebook\n\n\n\n\n\n\nDefault\nBluebook\n\nOutput\nThe Bluebook is downloadable from the Landing page.\n\n\n\n\n\n\nData\nThe Bluebook summarises the EU Taxonomy and CSRD regulations using and quoting information provided by official EU regulatory websites, material produced by EFRAG, and other non-EU advisory services.",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>DecarbFin</span>"
     ]
