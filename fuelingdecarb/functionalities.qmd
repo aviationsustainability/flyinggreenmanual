@@ -20,21 +20,20 @@
 
 **Fuel Assessment**
 
-11. **Allocated Low-Carbon Electricity** Assess the Low-Carbon electricity necessary for Fuel production
+11. **Allocated Low-Carbon Electricity:** Assess the Low-Carbon electricity necessary for Fuel production
 
-12. **Fill the Low Carbon Electricity gap** Plan the Low-Carbon electricity infrastructures to fill the Low-Carbon electricity gap with costs
+12. **Fill the Low Carbon Electricity gap:** Plan the Low-Carbon electricity infrastructures to fill the Low-Carbon electricity gap with costs
 
-13. **Allocated Other Electricity** Assess the Others energy category of electricity necessary for Fuel production
+13. **Allocated Other Electricity:** Assess the Others energy category of electricity necessary for Fuel production
 
-14. **Needs & Production** View needs & production chart (SAF, Hydrogen fuel and Electric aircraft)
+14. **Needs & Production:** View needs & production chart (SAF, Hydrogen fuel and Electric aircraft)
 
-15. **SAF & H₂ Costs Graph** Graphical display of SAF and H₂ costs for each feedstock/pathway
+15. **SAF & H₂ Costs Graph:** Graphical display of SAF and H₂ costs for each feedstock/pathway
 
 **SAF Map**
 
-16. **SAF Map** View the SAF map
+16. [**SAF Map**](https://www.eurocontrol.int/shared/saf/)**:** View the SAF map
 
 **SAF News Corner**
 
-17. **SAF News**\
-    View the SAF news
+17. [**SAF News**](https://flying-green.eurocontrol.int/#/fuelling-decarb/)**:** View the SAF news

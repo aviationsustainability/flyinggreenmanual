@@ -1,4 +1,4 @@
-# FlyingGreen functionalities
+# Functionalities
 
 ## Netzero
 
