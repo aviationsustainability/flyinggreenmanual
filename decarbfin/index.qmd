@@ -52,7 +52,7 @@
 
 {{< include essentials.qmd >}}
 
-## Sustainable Finance dashboard
+## Flynance dashboard
 
 {{< include dashboard.qmd >}}
 
@@ -67,3 +67,7 @@
 ## DecarbFin journey
 
 {{< include decarbfin_journey.qmd >}}
+
+## References
+
+{{< include references.qmd >}}
