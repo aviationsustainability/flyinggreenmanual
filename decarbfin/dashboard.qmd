@@ -32,4 +32,4 @@ For a comprehensive list of sources, check the References section.
 
 **Definitions**
 
-Please consult the Flynance dashboard for more information on how to read and interact with the visuals.
+Please consult the FLYnance! dashboard for more information on how to read and interact with the visuals.

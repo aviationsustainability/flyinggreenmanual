@@ -52,13 +52,17 @@
 
 {{< include essentials.qmd >}}
 
-## Flynance dashboard
+## FLYnance! dashboard
 
 {{< include dashboard.qmd >}}
 
-## How to use the Flynance dashboard
+## How to use the FLYnance! dashboard
 
 {{< include how_to_use.qmd >}}
+
+## FLYnance! References
+
+{{< include references.qmd >}}
 
 ## Funding basket
 
@@ -71,7 +75,3 @@
 ## DecarbFin journey
 
 {{< include decarbfin_journey.qmd >}}
-
-## References
-
-{{< include references.qmd >}}
