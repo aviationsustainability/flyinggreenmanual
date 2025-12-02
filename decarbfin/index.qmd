@@ -56,6 +56,10 @@
 
 {{< include dashboard.qmd >}}
 
+## How to use the Flynance dashboard
+
+{{< include how_to_use.qmd >}}
+
 ## Funding basket
 
 {{< include funding_basket.qmd >}}
