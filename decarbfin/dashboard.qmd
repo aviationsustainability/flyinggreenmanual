@@ -32,4 +32,4 @@ For a comprehensive list of sources, check the References section.
 
 **Definitions**
 
-Please consult the FLYnance! dashboard for more information on how to read and interact with the visuals.
+Please consult the [FLYnance! dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2YxNWI4OTAtNmY2NC00ZmZkLWI5NzgtNGRkYTM3OGUxOWFlIiwidCI6Ijc2ZjMzYzIwLTU5NzktNDQwOC1hZGY3LThiM2M0YmU5NWU1MiIsImMiOjl9) for more information on how to read and interact with the visuals.
