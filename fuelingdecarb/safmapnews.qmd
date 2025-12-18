@@ -1,0 +1,4 @@
+-   Check the [SAF Map](https://www.eurocontrol.int/shared/saf/)
+-   Check the [SAF News Corner](https://flying-green.eurocontrol.int/#/fuelling-decarb)
+
+![](images/Picture28.png){fig-align="center"}

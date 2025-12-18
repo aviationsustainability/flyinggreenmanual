@@ -1,0 +1,23 @@
+![](images/Picture12.png){fig-align="center"}
+
+------------------------------------------------------------------------
+
+**Default**
+
+• Default Electricity are Renewable, Low-Carbon & Other
+
+• Quantities values are prefilled for some Areas / States
+
+------------------------------------------------------------------------
+
+**Output**
+
+The Electric Aircraft electricity results are presented on the Fuel produced chart. Depending on the Type of electricity selected and the Quantity of electricity usage the donut charts are updated.
+
+![](images/Picture13.png){fig-align="center"}
+
+------------------------------------------------------------------------
+
+**Data**
+
+EUROCONTROL Aviation Outlook (Long Term Forecast report), IEA, EEA.

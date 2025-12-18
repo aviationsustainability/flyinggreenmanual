@@ -254,7 +254,7 @@
     "href": "fuelingdecarb/index.html",
     "title": "6  Fuelling Decarb",
     "section": "",
-    "text": "6.1 Gateway to Informed Green Energy Choices\nThe FuellingDecarb pillar of the platform allows to assess the volumes, costs and Minimum Selling Prices of Sustainable Aviation Fuel and the quantities of electricity and feedstock required to produce Sustainable Aviation Fuel (SAF) but also hydrogen, electricity for hydrogen and electric powered aircraft.​",
+    "text": "6.1 Intro",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Fuelling Decarb</span>"
     ]
@@ -597,6 +597,226 @@
     "text": "8.19 DecarbFin journey\n\nDecarbFin step-by-step\n\nFunds Overview: Check the Description of a Fund: Horizon Europe\nProjects: Check a funded Project’s website: BioSFera project\nSearch My Funds: Search for the available Funds with the criteria ‘France’ and ‘ANSP’ – Refine the search with the criteria ‘Active Calls’\nCalls Overview: Check all calls attached to a given Fund: Connecting Europe Facility\nSearch My financing: Search for Sustainable finance instruments: Sustainability-linked Loans\nFind a Use Case: Check for past use cases/ transactions: Air France-KLM Sustainability-linked Loan\nDashboard: Become aware on latest sustainable finance trends & metrics\nBluebook: Download the Bluebook\n\n\n\n\nThe advantages of your journey\n\nQuickly identify EU funding options that are relevant for your projects, with initial guidance to apply, with Fund Pathfinder.\nCheck success stories of past and ongoing, aviation sustainability-related, EU funded projects, as a source of inspiration.\nWith the Bluebook, better understand the EU Taxonomy and CSRD with aviation-specific insights to help you comply with these regulations.\nBuild a robust sustainability business case with the right EU fund(s), private financing instrument(s), and complement it with essential ESG frameworks and sustainability roadmaps.",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>DecarbFin</span>"
+    ]
+  },
+  {
+    "objectID": "fuelingdecarb/index.html#functionalities",
+    "href": "fuelingdecarb/index.html#functionalities",
+    "title": "6  Fuelling Decarb",
+    "section": "6.2 Functionalities",
+    "text": "6.2 Functionalities\nFuel Assessment\n\nSettings: Select the Fuel Assessment tool settings​​\nFuel Estimate:  View the Fuel Assessment page​\nBioSAF:  The Bio SAF Fuel production, units, ​electricity required, GHGs, cost & ​Minimum Selling Price​\nSAF Coproduct:  Assess the SAF Coproducts production​\nSynthetic SAF  The Synthetic SAF fuel production, electricity required, units GHGs, Costs & Minimum Selling Price​\nElectric Aircraft: The Electric Aircraft electricity production​\nHydrogen Aircraft:  The Hydrogen fuel production ​\nAllocated Renewable Electricity:  Assess the volume of Green electricity (produced with renewable energy) necessary ​for Fuel production\nElectricity Share: Display Global, Allocated & Used electricity\nFill the Renewable Electricity Gap:  Plan the Renewable electricity infrastructures to fill the Renewable electricity gap with costs​\nAllocated Low-Carbon Electricity:  Assess the Low-Carbon electricity necessary for Fuel production\nFill the Low Carbon Electricity Gap:  Plan the Low-Carbon electricity infrastructures to fill the Low-Carbon electricity gap with costs​\nAllocated Other Electricity:​ Assess the Others energy category of electricity necessary ​for Fuel production\nNeeds​&​Production:  View needs & production chart ​(SAF, Hydrogen fuel and Electric aircraft)​\nSAF & H2 Costs:  Graph​Graphical display of SAF and H2 costs​for each feedstock/pathway​\n\nSAF Map\nView the SAF Map\nSAF News Corner\nView the SAF News Corner",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Fuelling Decarb</span>"
+    ]
+  },
+  {
+    "objectID": "fuelingdecarb/index.html#bio-saf-fuel-production-units-and-costs",
+    "href": "fuelingdecarb/index.html#bio-saf-fuel-production-units-and-costs",
+    "title": "6  Fuelling Decarb",
+    "section": "6.4 Bio SAF fuel production (units and costs)",
+    "text": "6.4 Bio SAF fuel production (units and costs)\n\nBio SAF production\n\n\n\n\n\n\n\n\nBio SAF feedstock and costs details\n\n\n\n\n\n\n\n\nBio SAF production electricity and costs overview\nDefault\n\nDefault Pathways per Feedstock\nDefault Electricity are Renewable, Low-Carbon & Other\nQuantities values are prefilled for some Areas / States\n\n\nOutput\nThe Bio SAF Fuel production results are presented on the Fuel produced, electricity and SAF and H2 charts.\n\n\n\n\n\n\nData\nCONCAWE and Imperial College London data, FAO , EUROCONTROL research, EUROSTAT, Fraunhofer Institute for Solar Energy Systems, ICCT, IEA, EMBER, IRENA EEA, Project SkyPower, TU Delft, Trinity College of Dublin, ASTM standards.\nThe CONCAWE dataset was amended for manure feedstock in Greece. For more details on SAF pathways data, please also consult “About data” section on the site. Sewage feedstock were from EUROSTAT, amended with ICCT methodology by excluding volumes used for agriculture, composting.\nTherefore only volumes used for incineration, landfilling, and other use considered eligible feedstock for SAF production .\nNB: All the feedstock considered in FuellingDecarb is complying with ‘not for feed and food’ principles as per the revised Renewable Energy Directive (EU/2023/2413) (and other related EU directives).",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Fuelling Decarb</span>"
+    ]
+  },
+  {
+    "objectID": "fuelingdecarb/index.html#saf-production-coproducts-assessment",
+    "href": "fuelingdecarb/index.html#saf-production-coproducts-assessment",
+    "title": "6  Fuelling Decarb",
+    "section": "6.5 SAF production coproducts assessment",
+    "text": "6.5 SAF production coproducts assessment\n\n\n\n\n\n\nDefault\n• Default Pathways per Feedstock\n• Default Electricity are Renewable, Low-Carbon & Other\n• Quantities values are prefilled for EU27, ECAC, US, China and World\n\nData\nCONCAWE and Imperial College London data, EUROCONTROL research, FAO, Fraunhofer Institute for Solar Energy Systems, IEA, EEA, TU Delft, Trinity College Of Dublin, ASTM standards.\nFor more details on SAF pathways data, please also consult “About data” section on the site.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Fuelling Decarb</span>"
+    ]
+  },
+  {
+    "objectID": "fuelingdecarb/index.html#saf-production-coproducts-assessment-1",
+    "href": "fuelingdecarb/index.html#saf-production-coproducts-assessment-1",
+    "title": "6  Fuelling Decarb",
+    "section": "6.6 SAF production coproducts assessment",
+    "text": "6.6 SAF production coproducts assessment\n\nSynthetic SAF production pathways and costs overview\n\n\n\n\n\n\n\n\nSynthetic SAF detailed view on data modification and costs\n\n\n\n\n\n\n\n\nSynthetic SAF production electricity and costs overview\nDefault\n• Default Pathways is Power-to-liquid\n• Default Electricity are Renewable, Low-Carbon & Other\n• Quantities values are not prefilled\n\nOutput\nThe Synthetic SAF Fuel production results are presented on the Fuel produced, SAF and H2 Cost and electricity charts. Depending on the repartition of the Type of electricity and the Quantity of feedstock usage the donut charts are updated.\n\n\n\n\n\n\nData\nCONCAWE and Imperial College London data (lower estimates), EUROCONTROL research, FAO, IEA, EEA, Project SkyPower , TU Delft, Trinity College of Dublin, ASTM standards.\nFor more details on SAF pathways data, please also consult “About data” section on the site.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Fuelling Decarb</span>"
+    ]
+  },
+  {
+    "objectID": "fuelingdecarb/index.html#electric-aircraft-electricity-production",
+    "href": "fuelingdecarb/index.html#electric-aircraft-electricity-production",
+    "title": "6  Fuelling Decarb",
+    "section": "6.7 Electric aircraft electricity production",
+    "text": "6.7 Electric aircraft electricity production\n\n\n\n\n\n\nDefault\n• Default Electricity are Renewable, Low-Carbon & Other\n• Quantities values are prefilled for some Areas / States\n\nOutput\nThe Electric Aircraft electricity results are presented on the Fuel produced chart. Depending on the Type of electricity selected and the Quantity of electricity usage the donut charts are updated.\n\n\n\n\n\n\nData\nEUROCONTROL Aviation Outlook (Long Term Forecast report), IEA, EEA.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Fuelling Decarb</span>"
+    ]
+  },
+  {
+    "objectID": "fuelingdecarb/index.html#hydrogen-production-and-costs",
+    "href": "fuelingdecarb/index.html#hydrogen-production-and-costs",
+    "title": "6  Fuelling Decarb",
+    "section": "6.8 Hydrogen production and costs",
+    "text": "6.8 Hydrogen production and costs\n\n\n\n\n\n\nDefault\n• Default Electricity are Renewable, Low-Carbon & Other\n• Quantities values are prefilled for some Areas / States\n• Conversion efficiency\n\nOutput\nThe Hydrogen Fuel production results are presented on the Fuel produced chart. Depending on the Type of electricity selected and the Quantity of electricity usage the donut charts are updated.\n\n\n\n\n\n\nData\nEUROCONTROL research, EUROCONTROL Aviation Outlook (Long Term Forecast report), IEA, EEA, ASTM standards.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Fuelling Decarb</span>"
+    ]
+  },
+  {
+    "objectID": "fuelingdecarb/index.html#assess-the-volume-of-electricity-necessary-for-fuel-production",
+    "href": "fuelingdecarb/index.html#assess-the-volume-of-electricity-necessary-for-fuel-production",
+    "title": "6  Fuelling Decarb",
+    "section": "6.9 Assess the volume of electricity necessary for Fuel production",
+    "text": "6.9 Assess the volume of electricity necessary for Fuel production\n\n\n\n\n\n\nDefault\n• Default Electricity are Renewable, Low-Carbon & Other\n• Quantities values are prefilled for some Areas/States\n• Share of origins is proportionally distributed between origins\n• Carbon intensity & price reference are prefilled for some Areas/States\n• Conversion efficiency prefilled and not editable\n\nOutput\nThe Renewable electricity results are presented on the Electricity donut chart. The modification of the Renewable electricity quantities impacts the quantity available per Type of electricity for Hydrogen Fuel, Electric aircraft and SAF.\n\nData\nEUROCONTROL research, EUROCONTROL Aviation Outlook (Long Term Forecast report), IEA, EEA, Lazard, Deutsche Bank economic research reports, European Commission - Cost of Energy 2020 report - prepared by TRINOMICS, Fraunhofer Institute for Solar Energy Systems, EIA, McKinsey.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Fuelling Decarb</span>"
+    ]
+  },
+  {
+    "objectID": "fuelingdecarb/index.html#display-global-allocated-used-electricity",
+    "href": "fuelingdecarb/index.html#display-global-allocated-used-electricity",
+    "title": "6  Fuelling Decarb",
+    "section": "6.10 Display global, allocated & used electricity",
+    "text": "6.10 Display global, allocated & used electricity",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Fuelling Decarb</span>"
+    ]
+  },
+  {
+    "objectID": "fuelingdecarb/index.html#plan-the-renewable-electricity-infrastructure-needs-and-costs-to-fill-the-renewable-electricity-gap",
+    "href": "fuelingdecarb/index.html#plan-the-renewable-electricity-infrastructure-needs-and-costs-to-fill-the-renewable-electricity-gap",
+    "title": "6  Fuelling Decarb",
+    "section": "6.11 Plan the Renewable electricity infrastructure needs and costs to fill the Renewable electricity gap",
+    "text": "6.11 Plan the Renewable electricity infrastructure needs and costs to fill the Renewable electricity gap\n\nRenewable electricity infrastructure overview\n\n\n\n\n\n\n\n\nRenewable electricity – solar infrastructure needs and costs\n\n\n\n\n\n\n\n\nRenewable electricity – wind (offshore & onshore) infrastructure needs and costs",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Fuelling Decarb</span>"
+    ]
+  },
+  {
+    "objectID": "fuelingdecarb/index.html#assess-the-low-carbon-nuclear-electricity-needs-for-fuel-production",
+    "href": "fuelingdecarb/index.html#assess-the-low-carbon-nuclear-electricity-needs-for-fuel-production",
+    "title": "6  Fuelling Decarb",
+    "section": "6.12 Assess the low carbon (nuclear) electricity needs for fuel production",
+    "text": "6.12 Assess the low carbon (nuclear) electricity needs for fuel production\n\n\n\n\n\n\nDefault\n• Default Electricity are Renewable, Low-Carbon & Other\n• Quantities values are prefilled for some Areas/States\n• Origin is Nuclear energy\n• Carbon intensity & price reference are prefilled for some Areas/States\n• Conversion efficiency prefilled and not editable\n\nOutput\nThe Low-Carbon electricity results are presented on the Electricity donut chart.\nThe modification of the Low-Carbon electricity quantities impacts the quantity available per Type of electricity for Hydrogen Fuel, Electric aircraft and SAF.\n\nData\nCONCAWE and Imperial College London data, 2021 EU report on Energy and GHG emissions, EUROCONTROL research, EUROCONTROL Aviation Outlook (Long Term Forecast report), FAO, IEA, EEA, ASTM standards.\nThe 2021 EU report on Energy, Transport and GHG emissions data was amended to reflect national policy changes impacting low carbon production.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Fuelling Decarb</span>"
+    ]
+  },
+  {
+    "objectID": "fuelingdecarb/index.html#other-energy-category-fossile-sources-of-energy-necessary-for-fuel-production",
+    "href": "fuelingdecarb/index.html#other-energy-category-fossile-sources-of-energy-necessary-for-fuel-production",
+    "title": "6  Fuelling Decarb",
+    "section": "6.14 Other energy category (fossile sources of energy) necessary for fuel production",
+    "text": "6.14 Other energy category (fossile sources of energy) necessary for fuel production\n\n\n\n\n\n\nDefault\n• Default Electricity are Renewable, Low-Carbon & Other\n• Quantities values are prefilled for some Areas/States\n• Share of origins is proportionally distributed between origins\n• Carbon intensity & price reference are prefilled for some Areas/States\n• Conversion efficiency prefilled and not editable\nThe other sources of energy category cannot be used to fill the gap for electricity needs.\nNB: Electricity costs for each ECAC State is corresponding to the Levelised Cost of Energy (LCOE).\n\nOutput\nThe Other electricity results are presented on the Electricity donut chart.\nThe modification of the Other electricity quantities impacts the quantity available per Type of electricity for Hydrogen Fuel, Electric aircraft and SAF.\n\nData\n2021 EU report on Energy and GHG emissions, EUROCONTROL research, EUROCONTROL Aviation Outlook (Long Term Forecast report), IEA, EEA, ASTM standards.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Fuelling Decarb</span>"
+    ]
+  },
+  {
+    "objectID": "fuelingdecarb/index.html#visualise-needs-production-chart-saf-electric-ac-h2-fuel",
+    "href": "fuelingdecarb/index.html#visualise-needs-production-chart-saf-electric-ac-h2-fuel",
+    "title": "6  Fuelling Decarb",
+    "section": "6.15 Visualise needs & production chart (SAF, electric a/c, H2 fuel)",
+    "text": "6.15 Visualise needs & production chart (SAF, electric a/c, H2 fuel)\n\n\n\n\n\n\nDefault\n• Default Needs are Hydrogen, Electricity & Fuel\n• Needs values are prefilled for some Areas / States\n• Default Fuel produced chart are Hydrogen, Electricity & SAF\n\nOutput\nThe Fuel produced results are presented on the Fuel produced chart.\nThe results presentation are compared to the needs in the settings page.\n\nData\nCONCAWE and Imperial College London data (low scenario) , 2021 EU report on Energy and GHG emissions, EUROCONTROL research, EUROCONTROL Aviation Outlook (Long Term Forecast report), FAO, IEA, EEA, ASTM standards. Lazard, Deutsche Bank economic research reports, European Commission - Cost of Energy 2020 report - prepared by TRINOMICS, Fraunhofer Institute for Solar Energy Systems, EIA, McKinsey.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Fuelling Decarb</span>"
+    ]
+  },
+  {
+    "objectID": "fuelingdecarb/index.html#visualise-saf-and-h2-costs-for-each-feedstockpathway",
+    "href": "fuelingdecarb/index.html#visualise-saf-and-h2-costs-for-each-feedstockpathway",
+    "title": "6  Fuelling Decarb",
+    "section": "6.16 Visualise SAF and H2 costs for each feedstock/pathway",
+    "text": "6.16 Visualise SAF and H2 costs for each feedstock/pathway",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Fuelling Decarb</span>"
+    ]
+  },
+  {
+    "objectID": "fuelingdecarb/index.html#consult-the-saf-map-and-the-saf-news",
+    "href": "fuelingdecarb/index.html#consult-the-saf-map-and-the-saf-news",
+    "title": "6  Fuelling Decarb",
+    "section": "6.17 Consult the SAF Map and the SAF news",
+    "text": "6.17 Consult the SAF Map and the SAF news\n\nCheck the SAF Map\nCheck the SAF News Corner",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Fuelling Decarb</span>"
+    ]
+  },
+  {
+    "objectID": "fuelingdecarb/index.html#intro",
+    "href": "fuelingdecarb/index.html#intro",
+    "title": "6  Fuelling Decarb",
+    "section": "",
+    "text": "Fuelling Decarb: Gateway to Informed Green Energy Choices\n\n\n\n\n\n\nThe FuellingDecarb pillar of the platform allows to assess the volumes, costs and Minimum Selling Prices of Sustainable Aviation Fuel and the quantities of electricity and feedstock required to produce Sustainable Aviation Fuel (SAF) but also hydrogen, electricity for hydrogen and electric powered aircraft.​\n\nEstimation Tool\n\n\n\n\n\n\nSAF Map\n\n\n\n\n\n\nSAF News Corner",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Fuelling Decarb</span>"
+    ]
+  },
+  {
+    "objectID": "fuelingdecarb/index.html#section",
+    "href": "fuelingdecarb/index.html#section",
+    "title": "6  Fuelling Decarb",
+    "section": "6.2 ",
+    "text": "6.2 \n\nSAF Map",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Fuelling Decarb</span>"
+    ]
+  },
+  {
+    "objectID": "fuelingdecarb/index.html#section-1",
+    "href": "fuelingdecarb/index.html#section-1",
+    "title": "6  Fuelling Decarb",
+    "section": "6.3 ",
+    "text": "6.3 \n\nSAF News Corner",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Fuelling Decarb</span>"
+    ]
+  },
+  {
+    "objectID": "fuelingdecarb/index.html#select-the-fuel-assessment-tool-settings",
+    "href": "fuelingdecarb/index.html#select-the-fuel-assessment-tool-settings",
+    "title": "6  Fuelling Decarb",
+    "section": "6.3 Select the Fuel Assessment tool settings",
+    "text": "6.3 Select the Fuel Assessment tool settings\n\nSettings page\n\n\n\n\n\n\nDefault\n\nDefault Area is ECAC\nDefault Year is 2040\nDefault Regulation is ReFuel EU Aviation (Mandate corresponding to 2040)\n\nNeeds values are prefilled for some Areas / States\n\nOutput\nThe Settings impact the Fuel Assessment goals to reach on SAF production, Hydrogen production and Electric production.\n\nData\nEU Commission, EASA and ICAO. ECAC Member States list.\n\nDefinitions\nSAF: Sustainable Aviation Fuel, a bio or synthetic fuel used to power aircraft with smaller carbon footprint than conventional jet fuel.\nGHGs: Green House Gas savings\nFeedstock: Sources from which the SAF is produced. The feedstock is here presented in two different categories considered:\n\nBio SAF feedstocks: biomass such as agricultural and forestry residues, municipal waste or algae.\nSynthetic SAF feedstocks: H2-CO2\n\nElectricity sources\n\nRenewable: In this context, electricity source coming from renewable source (i.e solar, hydroelectric, wind).\nLow-carbon: In this context, electricity produced with nuclear power plants.\nOther: in this context, electricity sources not coming from renewable or low-carbon sources (such as coal, oil and gas electricity sources).\n\nBattery powered aircraft: Aircraft partially or fully powered via an electric battery (hybrid-electric or full electric aircraft).\nHydrogen powered aircraft: Aircraft  powered  by hydrogen via Direct combustion in jet engines or via fuel cell to produce electricity for electric engines.\n\n\n\nFuel assessment page\n\n\n\n\n\n\nDefault\n• Default Fuel is SAF\n• Default Electricity are Renewable, Low-Carbon(nuclear energy) & Other (fossil sources of energy)\n• Imported electricity price is the average electricity price of the 5 neighbouring countries.\n• Quantities values are prefilled for EU27, ECAC, US, China and World\n\nOutput\nThe Fuel Assessment provides information on the Fuel to produce. The different zones of the Fuel Assessment allow a personalised configuration of the Fuel produced.\n\nData\nCONCAWE and Imperial College London data, EUROCONTROL research, EUROSTAT, FAO, Fraunhofer Institute for Solar Energy Systems, ICCT, IEA, IRENA, EMBER, EEA, Project SkyPower, TU Delft, Trinity College of Dublin, ASTM standards.\nFor more details on SAF pathways data, please also consult “About data” section on the site.\n\n\n\n\n\n\nDefinition\nTU Delft SAF conversion available:\n• HEFA-SPK: Hydrotreated Esters and Fatty Acids (HEFA) transformed in Synthesised Paraffinic Kerosene.\n• FT-SPK: Synthesised paraffinic kerosene produced via Fischer-Tropsch process.\n• ATJ : Alcohol to Jet production process\n• ATJ-SPK: Synthesised paraffinic kerosene produced with Alcohol to Jet\n• PTL : Power to Liquid via Fischer-Tropsch synthesis process.\nTrinity College Dublin SAF conversion available:\n• HEFA-SPK (NG no CCS): Natural gas for heat & H2 no carbon capture sequestration.\n• FT-SPK: Synthesised paraffinic kerosene produced via Fischer-Tropsch process.\n• MtJ: bioMethanol to Jet process. Agricultural residues to produce biomethane, methanol and convert it to jetfuel (ASTM D4054 certification ongoing).\n• HTL: Hydrothermal liquefaction via electricity or hydroge, (not yet certified).\n• PTL : Power to Liquid via liquid sorbent DAC and Fischer-Tropsch synthesis process.\n• PTL : Power to Liquid via solid sorbent DAC and Fischer-Tropsch synthesis process.\n• PTL: Power to Liquid process via MtJ process (not yet certified)",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Fuelling Decarb</span>"
+    ]
+  },
+  {
+    "objectID": "fuelingdecarb/index.html#the-synthetic-saf-fuel-production-units-and-costs",
+    "href": "fuelingdecarb/index.html#the-synthetic-saf-fuel-production-units-and-costs",
+    "title": "6  Fuelling Decarb",
+    "section": "6.6 The synthetic SAF fuel production units and costs",
+    "text": "6.6 The synthetic SAF fuel production units and costs\n\nSynthetic SAF production pathways and costs overview\n\n\n\n\n\n\n\n\nSynthetic SAF detailed view on data modification and costs\n\n\n\n\n\n\n\n\nSynthetic SAF production electricity and costs overview\nDefault\n• Default Pathways is Power-to-liquid\n• Default Electricity are Renewable, Low-Carbon & Other\n• Quantities values are not prefilled\n\nOutput\nThe Synthetic SAF Fuel production results are presented on the Fuel produced, SAF and H2 Cost and electricity charts. Depending on the repartition of the Type of electricity and the Quantity of feedstock usage the donut charts are updated.\n\n\n\n\n\n\nData\nCONCAWE and Imperial College London data (lower estimates), EUROCONTROL research, FAO, IEA, EEA, Project SkyPower , TU Delft, Trinity College of Dublin, ASTM standards.\nFor more details on SAF pathways data, please also consult “About data” section on the site.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Fuelling Decarb</span>"
+    ]
+  },
+  {
+    "objectID": "fuelingdecarb/index.html#assess-the-volume-of-green-electricity-necessary-for-fuel-production",
+    "href": "fuelingdecarb/index.html#assess-the-volume-of-green-electricity-necessary-for-fuel-production",
+    "title": "6  Fuelling Decarb",
+    "section": "6.9 Assess the volume of green electricity necessary for Fuel production",
+    "text": "6.9 Assess the volume of green electricity necessary for Fuel production\n\n\n\n\n\n\nDefault\n• Default Electricity are Renewable, Low-Carbon & Other\n• Quantities values are prefilled for some Areas/States\n• Share of origins is proportionally distributed between origins\n• Carbon intensity & price reference are prefilled for some Areas/States\n• Conversion efficiency prefilled and not editable\n\nOutput\nThe Renewable electricity results are presented on the Electricity donut chart.\nThe modification of the Renewable electricity quantities impacts the quantity available per Type of electricity for Hydrogen Fuel, Electric aircraft and SAF.\n\nData\nEUROCONTROL research, EUROCONTROL Aviation Outlook (Long Term Forecast report), IEA, EEA, Lazard, Deutsche Bank economic research reports, European Commission - Cost of Energy 2020 report - prepared by TRINOMICS, Fraunhofer Institute for Solar Energy Systems, EIA, McKinsey.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Fuelling Decarb</span>"
+    ]
+  },
+  {
+    "objectID": "fuelingdecarb/index.html#plan-the-low-carbon-electricity-infrastructures-to-fill-the-low-carbon-electricity-gap",
+    "href": "fuelingdecarb/index.html#plan-the-low-carbon-electricity-infrastructures-to-fill-the-low-carbon-electricity-gap",
+    "title": "6  Fuelling Decarb",
+    "section": "6.13 Plan the Low-Carbon electricity infrastructures to fill the Low-Carbon electricity gap",
+    "text": "6.13 Plan the Low-Carbon electricity infrastructures to fill the Low-Carbon electricity gap\n\nRenewable electricity infrastructure overview\n\n\n\n\n\n\n\n\nPlan the low carbon (nuclear) electricity infrastructure needs and costs to fill the low-carbon electricity gap",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Fuelling Decarb</span>"
+    ]
+  },
+  {
+    "objectID": "fuelingdecarb/index.html#fuellingdecarb-journey",
+    "href": "fuelingdecarb/index.html#fuellingdecarb-journey",
+    "title": "6  Fuelling Decarb",
+    "section": "6.18 FuellingDecarb journey",
+    "text": "6.18 FuellingDecarb journey\nFuellingDecarb step-by-step\n\nSettings: Click on Start to estimate, select the country/area and year\nNeeds:  Define the needs for the country/area\nBioSAF:  Change the global quantity of feedstock and minimise/maximise the SAF for a pathway. Global quantity of Bio SAF and synthetic SAF are set according to Refuel EU mandate.\ne-SAF:  Adjust the quantity of Hydrogen and CO2 to produce synthetic SAF according to Refuel EU.\nElectric and Hydrogen:  Estimate the quantity used for Electric Aircraft and Hydrogen Fuel according to the needs.\nAllocated Electricity:  Change the Global quantity of Renewable Electricity to 1000 GWh and modify the origin shares\nFill the Electricity Gap:  Plan new electricity infrastructures or import to fill the Renewable and Low-Carbon electricity gap.\nFuel Production:  Check if the configuration is meeting your defined needs and Green House Gas savings \n\n\nThe advantages of your journey\n\nSimulate the production of SAF, Electricity and Hydrogen.\nUse different sources of electricity to produce SAF, Electricity and Hydrogen.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Fuelling Decarb</span>"
     ]
   }
 ]

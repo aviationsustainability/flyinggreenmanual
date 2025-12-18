@@ -1,0 +1,29 @@
+
+**FuellingDecarb step-by-step**
+
+- ***Settings:*** Click on Start to estimate, select the country/area and year
+
+- ***Needs: *** Define the needs for the country/area
+
+- ***BioSAF: *** Change the global quantity of feedstock and minimise/maximise the SAF for a pathway. Global quantity of Bio SAF and synthetic SAF are set according to Refuel EU mandate.
+
+- ***e-SAF: *** Adjust the quantity of Hydrogen and CO2 to produce synthetic SAF according to Refuel EU. 
+
+- ***Electric and Hydrogen: *** Estimate the quantity used for Electric Aircraft and Hydrogen Fuel according to the needs.
+
+- ***Allocated Electricity: *** Change the Global quantity of Renewable Electricity to 1000 GWh and modify the origin shares
+
+- ***Fill the Electricity Gap: *** Plan new electricity infrastructures or import to fill the Renewable and Low-Carbon electricity gap.
+
+- ***Fuel Production: *** Check if the configuration is meeting your defined needs and Green House Gas savings 
+
+---
+
+**The advantages of your journey**
+
+1. Simulate the production of SAF, Electricity and Hydrogen.
+
+2. Use different sources of electricity to produce SAF, Electricity and Hydrogen.
+
+
+

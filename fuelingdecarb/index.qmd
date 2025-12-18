@@ -1,9 +1,73 @@
 # Fuelling Decarb
 
-## Gateway to Informed Green Energy Choices
+## Intro
 
 {{< include intro.qmd >}}
 
-## Fuel Assessment
+## Functionalities
 
 {{< include functionalities.qmd >}}
+
+## Select the Fuel Assessment tool settings
+
+{{< include fueltool.qmd >}}
+
+## Bio SAF fuel production (units and costs)
+
+{{< include biosaf.qmd >}}
+
+## SAF production coproducts assessment
+
+{{< include safcoproduction.qmd >}}
+
+##  The synthetic SAF fuel production units and costs
+
+{{< include syntheticsaf.qmd >}}
+
+## Electric aircraft electricity production
+
+{{< include electricity.qmd >}}
+
+## Hydrogen production and costs
+
+{{< include hydrogen.qmd >}}
+
+## Assess the volume of green electricity necessary for Fuel production
+
+{{< include assesselectricity.qmd >}}
+
+## Display global, allocated & used electricity
+
+{{< include usedelectricity.qmd >}}
+
+## Plan the Renewable electricity infrastructure needs and costs to fill the Renewable electricity gap
+
+{{< include renewableelectricity.qmd >}}
+
+## Assess the low carbon (nuclear) electricity needs for fuel production
+
+{{< include nuclearelectricity.qmd >}}
+
+## Plan the Low-Carbon electricity infrastructures to fill the Low-Carbon electricity gap
+
+{{< include lowcarbon.qmd >}}
+
+## Other energy category (fossile sources of energy) necessary for fuel production
+
+{{< include otherelectricity.qmd >}}
+
+## Visualise needs & production chart (SAF, electric a/c, H2 fuel)
+
+{{< include needsproductioncharts.qmd >}}
+
+## Visualise SAF and H2 costs for each feedstock/pathway
+
+{{< include feedstockcosts.qmd >}}
+
+## Consult the SAF Map and the SAF news
+
+{{< include safmapnews.qmd >}}
+
+## FuellingDecarb journey
+
+{{< include fd_journey.qmd >}}

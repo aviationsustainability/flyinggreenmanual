@@ -1,1 +1,28 @@
-The FuellingDecarb pillar of the platform allows to assess the volumes, costs and Minimum Selling Prices of Sustainable Aviation Fuel and the quantities of electricity and feedstock required to produce Sustainable Aviation Fuel (SAF) but also hydrogen, electricity for hydrogen and electric powered aircraft.​
+
+### Fuelling Decarb: Gateway to Informed Green Energy Choices
+
+![](images/Picture29.png){fig-align="center"}
+
+------------------------------------------------------------------------
+
+The **FuellingDecarb** pillar of the platform allows to assess the volumes, costs and Minimum Selling Prices of Sustainable Aviation Fuel and the quantities of electricity and feedstock required to produce Sustainable Aviation Fuel (SAF) but also hydrogen, electricity for hydrogen and electric powered aircraft.​
+
+------------------------------------------------------------------------
+
+**Estimation Tool**
+
+![](images/Picture30.png){fig-align="center"}
+
+------------------------------------------------------------------------
+
+**SAF Map**
+
+![](images/Picture31.png){fig-align="center"}
+
+------------------------------------------------------------------------
+
+**SAF News Corner**
+
+![](images/Picture32.png){fig-align="center"}
+
+------------------------------------------------------------------------
