@@ -13,7 +13,7 @@ book:
     - fg_functionalities.qmd
     - common_features/initial_login.qmd
     - netzero/index.qmd  
-    - fuelingdecarb/index.qmd
+    - fuellingdecarb/index.qmd
     - climadapt/index.qmd
     - decarbfin/index.qmd
 
