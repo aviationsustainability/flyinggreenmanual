@@ -2,7 +2,7 @@
 
 Your journey manual.
 
-Version 2.3
+Interactive version 1.1
 
 ![](images/thumbnail_icon-flyinggreen.png){fig-align="center"}
 

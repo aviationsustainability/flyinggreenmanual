@@ -1,4 +1,3 @@
-
 ### Renewable electricity infrastructure overview
 
 ![](images/Picture22.png){fig-align="center"}
