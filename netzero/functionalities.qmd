@@ -21,17 +21,3 @@ Based on EUROCONTROL data and traffic forecasts, get an estimate of future trip 
 
     10. Customise the SAF Blend\
     11. Customise the Fleet, Air Traffic Management and Economic Prices
-
-## Feedback Survey
-
-Please fill in the survey below:
-
-::: {.content-visible when-format="html"}
-<iframe src="https://forms.office.com/e/ZzL6Z8fnDr?embed=true" width="100%" height="800" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen>
-
-</iframe>
-:::
-
-::: {.content-visible when-format="pdf"}
-👉 [Open the survey here](https://forms.office.com/e/ZzL6Z8fnDr?embed=true)
-:::
