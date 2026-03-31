@@ -1,0 +1,23 @@
+**Default**
+
+-   **Sustainability Indicators** categorized by User segment.
+
+-   **EU Taxonomy alignment** for specific aviation activities.
+
+-   **User Segment filtering** (Airlines, Airports, Lessors).
+
+-   **Detailed breakdown of indicator** covering technical and operational perspectives.
+
+-   **Detailed comparison** of selected indicator cards.
+
+------------------
+
+**Output**
+
+A technical database of indicators that align operational aviation information with sustainable finance requirements like EU Taxonomy regulation. It provides a standardized way to view metrics relevant to the **EU Taxonomy Technical Screening Criteria (TSC)** and helps stakeholders identify which KPIs are applicable to their specific business segment and project financing.
+
+--------------------
+
+**Data**
+
+The platform utilizes a curated set of aviation-specific sustainability indicators. These are mapped against: the EU Taxonomy Regulation (Activities 6.17, 6.18, 6.19, and 6.20), the User Segment (Airlines, Airports, Lessors), Efficiency-focus and Energy/Fuel relevance. There is a filtering menu on the top left side of the front page where the user can select and filter preferred information.

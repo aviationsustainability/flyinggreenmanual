@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "FlyingGreen User Manual",
     "section": "",
-    "text": "FLYINGGREEN\nYour journey manual.\nVersion 2.3\n\n\n\n\n\nAn older version of the User Manual is available here.\n\n\n💬",
+    "text": "FLYINGGREEN\nYour journey manual.\nInteractive version 1.1\n\n\n\n\n\nAn older version of the User Manual is available here.\n\n\n💬",
     "crumbs": [
       "FLYINGGREEN"
     ]
@@ -100,21 +100,11 @@
     ]
   },
   {
-    "objectID": "netzero/index.html#feedback-survey",
-    "href": "netzero/index.html#feedback-survey",
-    "title": "5  NetZero",
-    "section": "5.2 Feedback Survey",
-    "text": "5.2 Feedback Survey\nPlease fill in the survey below:",
-    "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>NetZero</span>"
-    ]
-  },
-  {
     "objectID": "netzero/index.html#save-retrieve-delete-project-data",
     "href": "netzero/index.html#save-retrieve-delete-project-data",
     "title": "5  NetZero",
-    "section": "5.3 Save, Retrieve, Delete Project data",
-    "text": "5.3 Save, Retrieve, Delete Project data\nNote: You need to log in to enable project data management.\n\nDisplay the projects list\n\nOpen the Project(s) dropdown.\nThe list of available projects appears (e.g., MyFirstProject, MySecondProject, New Project).\n\nCreate a new project and save data\n\nIn the Project(s) dropdown, choose New Project.\nIn the New Project field, enter the project name (e.g., My New Project Name).\nReview the Net Zero information shown on the page.\nClick Save to create the project and store the displayed Net Zero information.\n\nUpdate data in the current project\n\nEnsure the desired project is selected in Project(s) (e.g., MyFirstProject).\nMake your changes on the page.\nClick Save to update the current project with the new information.\n\nRetrieve project data\n\nOpen the Project(s) dropdown.\nSelect the project you want to load (e.g., MyFirstProject, MySecondProject, or My New Project Name).\nThe stored data for that project will be retrieved and displayed.\n\nDelete a project\n\nOpen the Project(s) dropdown and locate the project to remove.\nClick the delete (trash/bin) icon next to that project.\nIn the confirmation dialog, click Confirm to permanently delete the project (or Cancel to keep it).",
+    "section": "5.2 Save, Retrieve, Delete Project data",
+    "text": "5.2 Save, Retrieve, Delete Project data\nNote: You need to log in to enable project data management.\n\nDisplay the projects list\n\nOpen the Project(s) dropdown.\nThe list of available projects appears (e.g., MyFirstProject, MySecondProject, New Project).\n\nCreate a new project and save data\n\nIn the Project(s) dropdown, choose New Project.\nIn the New Project field, enter the project name (e.g., My New Project Name).\nReview the Net Zero information shown on the page.\nClick Save to create the project and store the displayed Net Zero information.\n\nUpdate data in the current project\n\nEnsure the desired project is selected in Project(s) (e.g., MyFirstProject).\nMake your changes on the page.\nClick Save to update the current project with the new information.\n\nRetrieve project data\n\nOpen the Project(s) dropdown.\nSelect the project you want to load (e.g., MyFirstProject, MySecondProject, or My New Project Name).\nThe stored data for that project will be retrieved and displayed.\n\nDelete a project\n\nOpen the Project(s) dropdown and locate the project to remove.\nClick the delete (trash/bin) icon next to that project.\nIn the confirmation dialog, click Confirm to permanently delete the project (or Cancel to keep it).",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>NetZero</span>"
     ]
@@ -123,8 +113,8 @@
     "objectID": "netzero/index.html#area-of-interest",
     "href": "netzero/index.html#area-of-interest",
     "title": "5  NetZero",
-    "section": "5.4 Area of interest",
-    "text": "5.4 Area of interest\nYou can analyze results at different levels. First pick a Level, then pick the corresponding Area.\nSelect the Level\n\nOpen the Level dropdown. Choose one of:\n\nNetwork\nState\nFAB\nAirport\n\n\n(After you choose a level, the Area dropdown will adapt to that level.)\nSelect the Area / State / FAB / ANSP / Airport\n\nOpen the Area dropdown.\nPick the item that matches your chosen level:\n\nNetwork → choose a region (e.g., ECAC, EUROCONTROL, EU27+EFTA, EEA, RP3, EU27).\nState → choose a country (e.g., Belgium).\nFAB → choose a Functional Airspace Block (e.g., FABEC).\nAirport → choose an airport (e.g., Brussels).\n\nThe map panel updates to your selection.\n\nWhat to do next\n\nClick Area focus to view metrics for the selected area (you’ll see panels such as Fuel burn and others update accordingly).\nOr click Full trajectory if you want trajectory-based views (when available).\n\n\nNotes & tips\n\n“Please select your area of interest to determine the filters”, filters become available after you pick a Level + Area.\nFor Airport level, select a source to display airport emissions (e.g., LTO, TMA) when prompted.\n\n\nDefault values\n\nLevel value is Network\nArea value is ECAC\nState value is Belgium\nFAB value is FABEC\nANSP value is Skeyes\nAirport value is Brussels\n\n\n\nOutput\nThe Level and Area selection update the Emissions, Fuel burn, Cumulative Emissions and What-if Graphs.\n\nData\nUN list of countries. The designations employed do not imply the expression of any opinion whatsoever on the part of EUROCONTROL concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. Generally, Airports with, on average, more than 10 movements perday are included.\n\nDefinition\nNetwork: group of states State: nation or territory considered as an organized political community under one government FAB (Functional Airspace Block): an airspace block based on operational requirements and established regardless of State boundaries.",
+    "section": "5.3 Area of interest",
+    "text": "5.3 Area of interest\nYou can analyze results at different levels. First pick a Level, then pick the corresponding Area.\nSelect the Level\n\nOpen the Level dropdown. Choose one of:\n\nNetwork\nState\nFAB\nAirport\n\n\n(After you choose a level, the Area dropdown will adapt to that level.)\nSelect the Area / State / FAB / ANSP / Airport\n\nOpen the Area dropdown.\nPick the item that matches your chosen level:\n\nNetwork → choose a region (e.g., ECAC, EUROCONTROL, EU27+EFTA, EEA, RP3, EU27).\nState → choose a country (e.g., Belgium).\nFAB → choose a Functional Airspace Block (e.g., FABEC).\nAirport → choose an airport (e.g., Brussels).\n\nThe map panel updates to your selection.\n\nWhat to do next\n\nClick Area focus to view metrics for the selected area (you’ll see panels such as Fuel burn and others update accordingly).\nOr click Full trajectory if you want trajectory-based views (when available).\n\n\nNotes & tips\n\n“Please select your area of interest to determine the filters”, filters become available after you pick a Level + Area.\nFor Airport level, select a source to display airport emissions (e.g., LTO, TMA) when prompted.\n\n\nDefault values\n\nLevel value is Network\nArea value is ECAC\nState value is Belgium\nFAB value is FABEC\nANSP value is Skeyes\nAirport value is Brussels\n\n\n\nOutput\nThe Level and Area selection update the Emissions, Fuel burn, Cumulative Emissions and What-if Graphs.\n\nData\nUN list of countries. The designations employed do not imply the expression of any opinion whatsoever on the part of EUROCONTROL concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. Generally, Airports with, on average, more than 10 movements perday are included.\n\nDefinition\nNetwork: group of states State: nation or territory considered as an organized political community under one government FAB (Functional Airspace Block): an airspace block based on operational requirements and established regardless of State boundaries.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>NetZero</span>"
     ]
@@ -133,8 +123,8 @@
     "objectID": "netzero/index.html#emissions-totals-average-and-reference",
     "href": "netzero/index.html#emissions-totals-average-and-reference",
     "title": "5  NetZero",
-    "section": "5.5 Emissions (totals, average and reference)",
-    "text": "5.5 Emissions (totals, average and reference)\n\n\n\n\n\n\nDefault\n\nvalues CO2 exhaust, CO2 net, SAF, Fleet Renewal, Fleet Revolution, Operation Improvements, NOx, SOx\nEmissions View Total\n\n\nOutput\nThe Emissions results vary depending on the Zone selected, the Filters and the What if values. The total emissions of one year, and the reduction potential of in-sector improvements are visible at the top of the graph.\n\n\n\n\n\n\nData\nTotal value presents absolute total values of emissions Average values present values per flight Relative values present the yearly relative change compared to the reference year (currently 2024)\n\nDefinition\nTotal value presents absolute total values of emissions\nAverage values present values per flight\nRelative values present the yearly relative change compared to the reference year (currently 2024)",
+    "section": "5.4 Emissions (totals, average and reference)",
+    "text": "5.4 Emissions (totals, average and reference)\n\n\n\n\n\n\nDefault\n\nvalues CO2 exhaust, CO2 net, SAF, Fleet Renewal, Fleet Revolution, Operation Improvements, NOx, SOx\nEmissions View Total\n\n\nOutput\nThe Emissions results vary depending on the Zone selected, the Filters and the What if values. The total emissions of one year, and the reduction potential of in-sector improvements are visible at the top of the graph.\n\n\n\n\n\n\nData\nTotal value presents absolute total values of emissions Average values present values per flight Relative values present the yearly relative change compared to the reference year (currently 2024)\n\nDefinition\nTotal value presents absolute total values of emissions\nAverage values present values per flight\nRelative values present the yearly relative change compared to the reference year (currently 2024)",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>NetZero</span>"
     ]
@@ -143,8 +133,8 @@
     "objectID": "netzero/index.html#fuel-burn-number-of-flights",
     "href": "netzero/index.html#fuel-burn-number-of-flights",
     "title": "5  NetZero",
-    "section": "5.6 Fuel Burn & Number of Flights",
-    "text": "5.6 Fuel Burn & Number of Flights\n\n\n\n\n\nDefault\nDefault values: Fossil, SAF, e-H2 and Number of flights \n\nOutput\nThe Fuel Burn results vary depending on the Zone selected, the Filters and the What if simulation. The Fuel Burn of one year is visible at the top of the graph. The graph shows total fuel burn and average fuel burn per flight. The H2 and electricity energy is based on the percentage of fleet revolution chosen.​\n\n\n\n\n\n\nData\nFuel burn historical values are calculated for each flight using the EUROCONTROL Advanced Emission Model (AEM) based on latest aircraft/engine fuel burn and emission models with BADA3.16.\nEstimated Fuel burn values towards 2050 are based on actual trajectories of reference year (usually the last full year) and traffic growth rates as published by STATFOR.​",
+    "section": "5.5 Fuel Burn & Number of Flights",
+    "text": "5.5 Fuel Burn & Number of Flights\n\n\n\n\n\nDefault\nDefault values: Fossil, SAF, e-H2 and Number of flights \n\nOutput\nThe Fuel Burn results vary depending on the Zone selected, the Filters and the What if simulation. The Fuel Burn of one year is visible at the top of the graph. The graph shows total fuel burn and average fuel burn per flight. The H2 and electricity energy is based on the percentage of fleet revolution chosen.​\n\n\n\n\n\n\nData\nFuel burn historical values are calculated for each flight using the EUROCONTROL Advanced Emission Model (AEM) based on latest aircraft/engine fuel burn and emission models with BADA3.16.\nEstimated Fuel burn values towards 2050 are based on actual trajectories of reference year (usually the last full year) and traffic growth rates as published by STATFOR.​",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>NetZero</span>"
     ]
@@ -153,8 +143,8 @@
     "objectID": "netzero/index.html#cumulative-emissions",
     "href": "netzero/index.html#cumulative-emissions",
     "title": "5  NetZero",
-    "section": "5.7 Cumulative emissions",
-    "text": "5.7 Cumulative emissions\n\n\n\n\n\n\n\n\n\n\n\nOutput\n\n\nThe Cumulative Emissions results vary depending on the Zoneselected, the Filters and the What if simulation. The Cumulative Emissions of one year is visible by travelling on top of the graph.\n\n\n\nData\nThe yearly results from the main graph are added to indicate the cumulative emission results for CO2 (as CO2 remains in the atmosphere for many decades).​",
+    "section": "5.6 Cumulative emissions",
+    "text": "5.6 Cumulative emissions\n\n\n\n\n\n\n\n\n\n\n\nOutput\n\n\nThe Cumulative Emissions results vary depending on the Zoneselected, the Filters and the What if simulation. The Cumulative Emissions of one year is visible by travelling on top of the graph.\n\n\n\nData\nThe yearly results from the main graph are added to indicate the cumulative emission results for CO2 (as CO2 remains in the atmosphere for many decades).​",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>NetZero</span>"
     ]
@@ -163,8 +153,8 @@
     "objectID": "netzero/index.html#what-if-results",
     "href": "netzero/index.html#what-if-results",
     "title": "5  NetZero",
-    "section": "5.8 What-if results",
-    "text": "5.8 What-if results\n\n\n\n\n\nDefault\nDefault view Fleet Renewal\n\nOutput\nThe What if results vary depending on the Zone selected, the Filtersand the What if simulation. The What if results of one year are visibleby travelling on top of the graph.\n\nData\n​The results for the parameters are extracted from the results in the main emission, fuel burn and cost calculation. This graphs presents simply an easier overview of expected results over time for only one parameter.​\n\n\n\n\n\n\nDefault\nDefault view In ANSP and Airport views, a KPI overview is shown\n\nOutput\nThe KPI results depend on the Zone selected, the Filters and the Whatif simulation. The What if results of one year are visible by travellingon top of the KPI overview.\n\nData\nThe results for the parameters are extracted from the results in themain emission, fuel burn and cost calculation. This overview presentssimply an easier overview of expected results over time for the mainindicators of interest (improvements and cost impact)",
+    "section": "5.7 What-if results",
+    "text": "5.7 What-if results\n\n\n\n\n\nDefault\nDefault view Fleet Renewal\n\nOutput\nThe What if results vary depending on the Zone selected, the Filtersand the What if simulation. The What if results of one year are visibleby travelling on top of the graph.\n\nData\n​The results for the parameters are extracted from the results in the main emission, fuel burn and cost calculation. This graphs presents simply an easier overview of expected results over time for only one parameter.​\n\n\n\n\n\n\nDefault\nDefault view In ANSP and Airport views, a KPI overview is shown\n\nOutput\nThe KPI results depend on the Zone selected, the Filters and the Whatif simulation. The What if results of one year are visible by travellingon top of the KPI overview.\n\nData\nThe results for the parameters are extracted from the results in themain emission, fuel burn and cost calculation. This overview presentssimply an easier overview of expected results over time for the mainindicators of interest (improvements and cost impact)",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>NetZero</span>"
     ]
@@ -173,8 +163,8 @@
     "objectID": "netzero/index.html#environmental-management-status",
     "href": "netzero/index.html#environmental-management-status",
     "title": "5  NetZero",
-    "section": "5.9 Environmental Management status",
-    "text": "5.9 Environmental Management status\n\nDefault\nIn the ANSP and Airport views, instead of the cost graphs an overviewis presented on the EMS status of ANSP and airports​\n\nOutput\nIndication of the Environmental Systems that are applied at the ANSPand different national Airports.\n\nData\nANSP​\nSeveral Environmental Systems may be applied at ANSP level, such as EMAS,GreenATM, ISO 14000 family, etc.​\nThe CANSO GreenATM programme is a voluntary environmental accreditationdesigned for ANSPs to assess and enhance their environmental performance. Itoffers a structured framework with five maturity levels, evaluating areas such asgovernance, operational efficiency, infrastructure, and stakeholder engagement.​\nParticipation in the GreenATM programme is entirely voluntary for ANSPs. It serves as an independent, industry-endorsed accreditation of their environmental efforts.​\nAirports\nThe Airport Carbon Accreditation (ACA) programme, developed by Airports Council International (ACI), is a globally recognized certification that helps airports measure, manage, and reduce their carbon emissions. It offers a six-level framework, from mapping emissions to achieving net zero, and is based on independent assessment and annual verification.",
+    "section": "5.8 Environmental Management status",
+    "text": "5.8 Environmental Management status\n\nDefault\nIn the ANSP and Airport views, instead of the cost graphs an overviewis presented on the EMS status of ANSP and airports​\n\nOutput\nIndication of the Environmental Systems that are applied at the ANSPand different national Airports.\n\nData\nANSP​\nSeveral Environmental Systems may be applied at ANSP level, such as EMAS,GreenATM, ISO 14000 family, etc.​\nThe CANSO GreenATM programme is a voluntary environmental accreditationdesigned for ANSPs to assess and enhance their environmental performance. Itoffers a structured framework with five maturity levels, evaluating areas such asgovernance, operational efficiency, infrastructure, and stakeholder engagement.​\nParticipation in the GreenATM programme is entirely voluntary for ANSPs. It serves as an independent, industry-endorsed accreditation of their environmental efforts.​\nAirports\nThe Airport Carbon Accreditation (ACA) programme, developed by Airports Council International (ACI), is a globally recognized certification that helps airports measure, manage, and reduce their carbon emissions. It offers a six-level framework, from mapping emissions to achieving net zero, and is based on independent assessment and annual verification.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>NetZero</span>"
     ]
@@ -183,8 +173,8 @@
     "objectID": "netzero/index.html#environmental-costs",
     "href": "netzero/index.html#environmental-costs",
     "title": "5  NetZero",
-    "section": "5.10 Environmental Costs",
-    "text": "5.10 Environmental Costs\n\n\n\n\n\nDefault\nDefault values: EU ETS and Total view\n\nOutput\nThe Environmental costs vary depending on the Zone selected and the What if simulation.\nThe Environmental cost are visible for 3 years: 2030, 2040 and 2050.​\n\nData\nData to calculate additional environmental costs are synchronized with assumptions from Eurocontrol Aviation Outlook 2050 (see below).​\nEU ETS cost are assumed to offset the total remaining net emissions,both taking into consideration LCA values (option EU ETS), and not taking into consideration SAF lifecycle values (the option with SAF excluded). ​\nSimplified CORSIA costs only appear if emission values for eligibleflights are higher than 85% of 2019 emissions and then takingCORSIA sectoral growth factors into consideration (linear progressionfrom zero towards SGF 2,6 in 2050). Only sectoral offsetmethodologies are included to avoid too high calculation complexities.​",
+    "section": "5.9 Environmental Costs",
+    "text": "5.9 Environmental Costs\n\n\n\n\n\nDefault\nDefault values: EU ETS and Total view\n\nOutput\nThe Environmental costs vary depending on the Zone selected and the What if simulation.\nThe Environmental cost are visible for 3 years: 2030, 2040 and 2050.​\n\nData\nData to calculate additional environmental costs are synchronized with assumptions from Eurocontrol Aviation Outlook 2050 (see below).​\nEU ETS cost are assumed to offset the total remaining net emissions,both taking into consideration LCA values (option EU ETS), and not taking into consideration SAF lifecycle values (the option with SAF excluded). ​\nSimplified CORSIA costs only appear if emission values for eligibleflights are higher than 85% of 2019 emissions and then takingCORSIA sectoral growth factors into consideration (linear progressionfrom zero towards SGF 2,6 in 2050). Only sectoral offsetmethodologies are included to avoid too high calculation complexities.​",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>NetZero</span>"
     ]
@@ -193,8 +183,8 @@
     "objectID": "netzero/index.html#flight-criteria-filters",
     "href": "netzero/index.html#flight-criteria-filters",
     "title": "5  NetZero",
-    "section": "5.11 Flight criteria Filters",
-    "text": "5.11 Flight criteria Filters\n\n\nDefault\nDefault Area of interest is Area focus.\nDefault Flight type Area Focus is Departures and Arrivals Default Flight type.\nFull trajectory is Departures.\nNo Default Flight phases for Area focus or Full trajectory.\nNo Default Market segment for Area focus.\n\nOutput\nThe Area of interest and filters selection update the Emissions, Fuel burn, Cumulative Emissions and What-if Graphs.\n\nData\nEmission values are calculated using 2 different methodologies.\nThe Area focus presents Fuel burn and Emissions within the Area selected. Finetune the type of traffic to be presented by Departures to outside the Area selected, Arrivals to within the Area selected, Internal flight withing the Area selected, and Overflying traffic of the Area selected.\nWith the Full trajectory method, the Fuel burn, and Emissions of the Full trajectory are presented. Possible traffic selections are Full emission and Fuel burn of departing traffic from the Area selected, from Arrivals to the Area selected and from Domestic flights. Traffic selections cannot be selected simultaneously to avoid overlap.",
+    "section": "5.10 Flight criteria Filters",
+    "text": "5.10 Flight criteria Filters\n\n\nDefault\nDefault Area of interest is Area focus.\nDefault Flight type Area Focus is Departures and Arrivals Default Flight type.\nFull trajectory is Departures.\nNo Default Flight phases for Area focus or Full trajectory.\nNo Default Market segment for Area focus.\n\nOutput\nThe Area of interest and filters selection update the Emissions, Fuel burn, Cumulative Emissions and What-if Graphs.\n\nData\nEmission values are calculated using 2 different methodologies.\nThe Area focus presents Fuel burn and Emissions within the Area selected. Finetune the type of traffic to be presented by Departures to outside the Area selected, Arrivals to within the Area selected, Internal flight withing the Area selected, and Overflying traffic of the Area selected.\nWith the Full trajectory method, the Fuel burn, and Emissions of the Full trajectory are presented. Possible traffic selections are Full emission and Fuel burn of departing traffic from the Area selected, from Arrivals to the Area selected and from Domestic flights. Traffic selections cannot be selected simultaneously to avoid overlap.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>NetZero</span>"
     ]
@@ -203,8 +193,8 @@
     "objectID": "netzero/index.html#aviation-outlook",
     "href": "netzero/index.html#aviation-outlook",
     "title": "5  NetZero",
-    "section": "5.12 Aviation Outlook",
-    "text": "5.12 Aviation Outlook\n\n\nDefault\nDefault Scenario value is Base\n\nOutput\nThe Low, Base and High Scenarios represent traffic hypothesis. The Scenario changes the Emissions, Fuel burn, Cumulative Emissions and What-if Graphs values.\n\n\nData\nTraffic numbers and Emission and Fuel burn are based on High, Base and Low scenario as applied in the EUROCONTROL Aviation Outlook 2050. Each scenario presents different growth rates that are reflected in the emission Fuel burn graphs.",
+    "section": "5.11 Aviation Outlook",
+    "text": "5.11 Aviation Outlook\n\n\nDefault\nDefault Scenario value is Base\n\nOutput\nThe Low, Base and High Scenarios represent traffic hypothesis. The Scenario changes the Emissions, Fuel burn, Cumulative Emissions and What-if Graphs values.\n\n\nData\nTraffic numbers and Emission and Fuel burn are based on High, Base and Low scenario as applied in the EUROCONTROL Aviation Outlook 2050. Each scenario presents different growth rates that are reflected in the emission Fuel burn graphs.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>NetZero</span>"
     ]
@@ -213,8 +203,8 @@
     "objectID": "netzero/index.html#saf-blend-customisation",
     "href": "netzero/index.html#saf-blend-customisation",
     "title": "5  NetZero",
-    "section": "5.13 SAF Blend Customisation",
-    "text": "5.13 SAF Blend Customisation\n\n\nDefault\nDefault Blend Low scenario: 4% in 2030, 26% in 2040, 50% in 2050\nBlend Base scenario: 6% in 2030, 34% in 2040, 70% in 2050\nDefault Blend High scenario: 10% in 2030, 49% in 2040, 88% in 2050\nBio-SAF/synth-SAF ratios are applied according to ReFuelEU mandate.\n\nOutput\nThe Blend % changes the CO2 net curve on the Emissions and Cumulative emissions graph and the SAF curve on the Fuel Burn graph.\n\n\nData\nTo assess the impact of the use of Sustainable Aviation Fuels on the NET emission values, input the percentages of SAF blend in the different years and the specific SAF pathway. Default values in the base scenario are aligned with the ReFuelEU SAF requirements. LCA values applied are: 65% emission reduction for bio-SAF and 70% emission reduction for synthetic SAFs.",
+    "section": "5.12 SAF Blend Customisation",
+    "text": "5.12 SAF Blend Customisation\n\n\nDefault\nDefault Blend Low scenario: 4% in 2030, 26% in 2040, 50% in 2050\nBlend Base scenario: 6% in 2030, 34% in 2040, 70% in 2050\nDefault Blend High scenario: 10% in 2030, 49% in 2040, 88% in 2050\nBio-SAF/synth-SAF ratios are applied according to ReFuelEU mandate.\n\nOutput\nThe Blend % changes the CO2 net curve on the Emissions and Cumulative emissions graph and the SAF curve on the Fuel Burn graph.\n\n\nData\nTo assess the impact of the use of Sustainable Aviation Fuels on the NET emission values, input the percentages of SAF blend in the different years and the specific SAF pathway. Default values in the base scenario are aligned with the ReFuelEU SAF requirements. LCA values applied are: 65% emission reduction for bio-SAF and 70% emission reduction for synthetic SAFs.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>NetZero</span>"
     ]
@@ -223,8 +213,8 @@
     "objectID": "netzero/index.html#fleet-air-traffic-management-and-economic-prices-customisation",
     "href": "netzero/index.html#fleet-air-traffic-management-and-economic-prices-customisation",
     "title": "5  NetZero",
-    "section": "5.14 Fleet, Air Traffic Management and Economic Prices Customisation",
-    "text": "5.14 Fleet, Air Traffic Management and Economic Prices Customisation\n\n\nDefault\nDefault Levels:\n\nModerate (Fleet and Air Traffic Management)\nModerate (Economic Scenario)\n\n\nOutput\nThe different levels update the Emissions, Fuel burn, Cumulative Emissions, What-if and Environmental Cost Graphs.\n\n\nData\nFleet evolution, revolution are derived from forecasted emission reductions as presented in the EUROCONTROL Aviation Outlook 2050.\nThe reduction potential per year are extrapolated towards final results in 2050 in the different scenarios.\nThe user can select his/her/their specific improvement percentages using the sliders and/or select low, moderate or high prices for fuels, SAF and CO2.\nThe state view includes the impact on ticket price and subsequent impact on demand.\nIn this release very simple values and methodologies are applied (not specified per market segment or other filters), assuming fixed operational margins and fuel cost shares of airlines, to present the user with an mererly and indication of possible impact.\nThe price elasticity value applied is -0.1.",
+    "section": "5.13 Fleet, Air Traffic Management and Economic Prices Customisation",
+    "text": "5.13 Fleet, Air Traffic Management and Economic Prices Customisation\n\n\nDefault\nDefault Levels:\n\nModerate (Fleet and Air Traffic Management)\nModerate (Economic Scenario)\n\n\nOutput\nThe different levels update the Emissions, Fuel burn, Cumulative Emissions, What-if and Environmental Cost Graphs.\n\n\nData\nFleet evolution, revolution are derived from forecasted emission reductions as presented in the EUROCONTROL Aviation Outlook 2050.\nThe reduction potential per year are extrapolated towards final results in 2050 in the different scenarios.\nThe user can select his/her/their specific improvement percentages using the sliders and/or select low, moderate or high prices for fuels, SAF and CO2.\nThe state view includes the impact on ticket price and subsequent impact on demand.\nIn this release very simple values and methodologies are applied (not specified per market segment or other filters), assuming fixed operational margins and fuel cost shares of airlines, to present the user with an mererly and indication of possible impact.\nThe price elasticity value applied is -0.1.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>NetZero</span>"
     ]
@@ -233,8 +223,8 @@
     "objectID": "netzero/index.html#impact-of-operational-improvements",
     "href": "netzero/index.html#impact-of-operational-improvements",
     "title": "5  NetZero",
-    "section": "5.15 Impact of operational improvements",
-    "text": "5.15 Impact of operational improvements\n\n\nDefault\nDefault Level is Moderate (Fleet and Air Traffic Management)\n\nOutput\nThe different input of operational improvements update:\n\nEmissions (with indicated reduction of emissions from operational improvements)\nFuel burn\nCumulative Emissions\nWhat-if\nEnvironmental Cost Graphs.\n\n\n\nData\nThe user can select specific improvement percentages per flight phase.\nEach flight phase presents indications of potential improvement percentages for different operational concepts.\nThe operational improvements are only applied to the available trajectory segments in the selected zone/area.\nE.g. taxi operational improvements will not affect upper area airspace emissions.",
+    "section": "5.14 Impact of operational improvements",
+    "text": "5.14 Impact of operational improvements\n\n\nDefault\nDefault Level is Moderate (Fleet and Air Traffic Management)\n\nOutput\nThe different input of operational improvements update:\n\nEmissions (with indicated reduction of emissions from operational improvements)\nFuel burn\nCumulative Emissions\nWhat-if\nEnvironmental Cost Graphs.\n\n\n\nData\nThe user can select specific improvement percentages per flight phase.\nEach flight phase presents indications of potential improvement percentages for different operational concepts.\nThe operational improvements are only applied to the available trajectory segments in the selected zone/area.\nE.g. taxi operational improvements will not affect upper area airspace emissions.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>NetZero</span>"
     ]
@@ -243,15 +233,15 @@
     "objectID": "netzero/index.html#netzero-journey",
     "href": "netzero/index.html#netzero-journey",
     "title": "5  NetZero",
-    "section": "5.16 NetZero journey",
-    "text": "5.16 NetZero journey\n\nNetZero step by step\n\nEmissions: Check the Emissions for ECAC in 2035\nFuel Burn: Check the Fuel Burn for ECAC in 2035\nFilters: Check only the departures, take-off phase and Mainline market segment for ECAC through the years\nScenarios: Check the high scenario for ECAC through the years\nSAF Blend: Change the % of SAF blending for 2030 for ECAC\nFleet, Air Traffic Mgt and Economic Prices: Consider High Fleet Renewal and a Moderate scenario for ATM and Airline operation Improvements or enter specific improvements per flight phase. Set the SAF Price on the highest possible level.\n\n\n\n\nThe advantages of your journey\n\nHave the latest EUROCONTROL emission data of your area of interest available. \nSee the impact of operational changes on fuel burn and emission values.\nBenchmark your emission values with those of different area of interests and using different methodologies.\nGet an indication of additional environmental cost due to regulations (ReFuelEU, EU ETS, CORSIA), and impact on ticket price and demand.",
+    "section": "5.15 NetZero journey",
+    "text": "5.15 NetZero journey\n\nNetZero step by step\n\nEmissions: Check the Emissions for ECAC in 2035\nFuel Burn: Check the Fuel Burn for ECAC in 2035\nFilters: Check only the departures, take-off phase and Mainline market segment for ECAC through the years\nScenarios: Check the high scenario for ECAC through the years\nSAF Blend: Change the % of SAF blending for 2030 for ECAC\nFleet, Air Traffic Mgt and Economic Prices: Consider High Fleet Renewal and a Moderate scenario for ATM and Airline operation Improvements or enter specific improvements per flight phase. Set the SAF Price on the highest possible level.\n\n\n\n\nThe advantages of your journey\n\nHave the latest EUROCONTROL emission data of your area of interest available. \nSee the impact of operational changes on fuel burn and emission values.\nBenchmark your emission values with those of different area of interests and using different methodologies.\nGet an indication of additional environmental cost due to regulations (ReFuelEU, EU ETS, CORSIA), and impact on ticket price and demand.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>NetZero</span>"
     ]
   },
   {
-    "objectID": "fuelingdecarb/index.html",
-    "href": "fuelingdecarb/index.html",
+    "objectID": "fuellingdecarb/index.html",
+    "href": "fuellingdecarb/index.html",
     "title": "6  Fuelling Decarb",
     "section": "",
     "text": "6.1 Intro",
@@ -260,8 +250,8 @@
     ]
   },
   {
-    "objectID": "fuelingdecarb/index.html#intro",
-    "href": "fuelingdecarb/index.html#intro",
+    "objectID": "fuellingdecarb/index.html#intro",
+    "href": "fuellingdecarb/index.html#intro",
     "title": "6  Fuelling Decarb",
     "section": "",
     "text": "Fuelling Decarb: Gateway to Informed Green Energy Choices\n\n\n\n\n\n\nThe FuellingDecarb pillar of the platform allows to assess the volumes, costs and Minimum Selling Prices of Sustainable Aviation Fuel and the quantities of electricity and feedstock required to produce Sustainable Aviation Fuel (SAF) but also hydrogen, electricity for hydrogen and electric powered aircraft.​\n\nEstimation Tool\n\n\n\n\n\n\nSAF Map\n\n\n\n\n\n\nSAF News Corner",
@@ -270,8 +260,8 @@
     ]
   },
   {
-    "objectID": "fuelingdecarb/index.html#functionalities",
-    "href": "fuelingdecarb/index.html#functionalities",
+    "objectID": "fuellingdecarb/index.html#functionalities",
+    "href": "fuellingdecarb/index.html#functionalities",
     "title": "6  Fuelling Decarb",
     "section": "6.2 Functionalities",
     "text": "6.2 Functionalities\nFuel Assessment\n\nSettings: Select the Fuel Assessment tool settings​​\nFuel Estimate:  View the Fuel Assessment page​\nBioSAF:  The Bio SAF Fuel production, units, ​electricity required, GHGs, cost & ​Minimum Selling Price​\nSAF Coproduct:  Assess the SAF Coproducts production​\nSynthetic SAF  The Synthetic SAF fuel production, electricity required, units GHGs, Costs & Minimum Selling Price​\nElectric Aircraft: The Electric Aircraft electricity production​\nHydrogen Aircraft:  The Hydrogen fuel production ​\nAllocated Renewable Electricity:  Assess the volume of Green electricity (produced with renewable energy) necessary ​for Fuel production\nElectricity Share: Display Global, Allocated & Used electricity\nFill the Renewable Electricity Gap:  Plan the Renewable electricity infrastructures to fill the Renewable electricity gap with costs​\nAllocated Low-Carbon Electricity:  Assess the Low-Carbon electricity necessary for Fuel production\nFill the Low Carbon Electricity Gap:  Plan the Low-Carbon electricity infrastructures to fill the Low-Carbon electricity gap with costs​\nAllocated Other Electricity:​ Assess the Others energy category of electricity necessary ​for Fuel production\nNeeds​&​Production:  View needs & production chart ​(SAF, Hydrogen fuel and Electric aircraft)​\nSAF & H2 Costs:  Graph​Graphical display of SAF and H2 costs​for each feedstock/pathway​\n\nSAF Map\nView the SAF Map\nSAF News Corner\nView the SAF News Corner",
@@ -280,8 +270,8 @@
     ]
   },
   {
-    "objectID": "fuelingdecarb/index.html#select-the-fuel-assessment-tool-settings",
-    "href": "fuelingdecarb/index.html#select-the-fuel-assessment-tool-settings",
+    "objectID": "fuellingdecarb/index.html#select-the-fuel-assessment-tool-settings",
+    "href": "fuellingdecarb/index.html#select-the-fuel-assessment-tool-settings",
     "title": "6  Fuelling Decarb",
     "section": "6.3 Select the Fuel Assessment tool settings",
     "text": "6.3 Select the Fuel Assessment tool settings\n\nSettings page\n\n\n\n\n\n\nDefault\n\nDefault Area is ECAC\nDefault Year is 2040\nDefault Regulation is ReFuel EU Aviation (Mandate corresponding to 2040)\n\nNeeds values are prefilled for some Areas / States\n\nOutput\nThe Settings impact the Fuel Assessment goals to reach on SAF production, Hydrogen production and Electric production.\n\nData\nEU Commission, EASA and ICAO. ECAC Member States list.\n\nDefinitions\nSAF: Sustainable Aviation Fuel, a bio or synthetic fuel used to power aircraft with smaller carbon footprint than conventional jet fuel.\nGHGs: Green House Gas savings\nFeedstock: Sources from which the SAF is produced. The feedstock is here presented in two different categories considered:\n\nBio SAF feedstocks: biomass such as agricultural and forestry residues, municipal waste or algae.\nSynthetic SAF feedstocks: H2-CO2\n\nElectricity sources\n\nRenewable: In this context, electricity source coming from renewable source (i.e solar, hydroelectric, wind).\nLow-carbon: In this context, electricity produced with nuclear power plants.\nOther: in this context, electricity sources not coming from renewable or low-carbon sources (such as coal, oil and gas electricity sources).\n\nBattery powered aircraft: Aircraft partially or fully powered via an electric battery (hybrid-electric or full electric aircraft).\nHydrogen powered aircraft: Aircraft  powered  by hydrogen via Direct combustion in jet engines or via fuel cell to produce electricity for electric engines.\n\n\n\nFuel assessment page\n\n\n\n\n\n\nDefault\n• Default Fuel is SAF\n• Default Electricity are Renewable, Low-Carbon(nuclear energy) & Other (fossil sources of energy)\n• Imported electricity price is the average electricity price of the 5 neighbouring countries.\n• Quantities values are prefilled for EU27, ECAC, US, China and World\n\nOutput\nThe Fuel Assessment provides information on the Fuel to produce. The different zones of the Fuel Assessment allow a personalised configuration of the Fuel produced.\n\nData\nCONCAWE and Imperial College London data, EUROCONTROL research, EUROSTAT, FAO, Fraunhofer Institute for Solar Energy Systems, ICCT, IEA, IRENA, EMBER, EEA, Project SkyPower, TU Delft, Trinity College of Dublin, ASTM standards.\nFor more details on SAF pathways data, please also consult “About data” section on the site.\n\n\n\n\n\n\nDefinition\nTU Delft SAF conversion available:\n• HEFA-SPK: Hydrotreated Esters and Fatty Acids (HEFA) transformed in Synthesised Paraffinic Kerosene.\n• FT-SPK: Synthesised paraffinic kerosene produced via Fischer-Tropsch process.\n• ATJ : Alcohol to Jet production process\n• ATJ-SPK: Synthesised paraffinic kerosene produced with Alcohol to Jet\n• PTL : Power to Liquid via Fischer-Tropsch synthesis process.\nTrinity College Dublin SAF conversion available:\n• HEFA-SPK (NG no CCS): Natural gas for heat & H2 no carbon capture sequestration.\n• FT-SPK: Synthesised paraffinic kerosene produced via Fischer-Tropsch process.\n• MtJ: bioMethanol to Jet process. Agricultural residues to produce biomethane, methanol and convert it to jetfuel (ASTM D4054 certification ongoing).\n• HTL: Hydrothermal liquefaction via electricity or hydroge, (not yet certified).\n• PTL : Power to Liquid via liquid sorbent DAC and Fischer-Tropsch synthesis process.\n• PTL : Power to Liquid via solid sorbent DAC and Fischer-Tropsch synthesis process.\n• PTL: Power to Liquid process via MtJ process (not yet certified)",
@@ -290,8 +280,8 @@
     ]
   },
   {
-    "objectID": "fuelingdecarb/index.html#bio-saf-fuel-production-units-and-costs",
-    "href": "fuelingdecarb/index.html#bio-saf-fuel-production-units-and-costs",
+    "objectID": "fuellingdecarb/index.html#bio-saf-fuel-production-units-and-costs",
+    "href": "fuellingdecarb/index.html#bio-saf-fuel-production-units-and-costs",
     "title": "6  Fuelling Decarb",
     "section": "6.4 Bio SAF fuel production (units and costs)",
     "text": "6.4 Bio SAF fuel production (units and costs)\n\nBio SAF production\n\n\n\n\n\n\n\n\nBio SAF feedstock and costs details\n\n\n\n\n\n\n\n\nBio SAF production electricity and costs overview\nDefault\n\nDefault Pathways per Feedstock\nDefault Electricity are Renewable, Low-Carbon & Other\nQuantities values are prefilled for some Areas / States\n\n\nOutput\nThe Bio SAF Fuel production results are presented on the Fuel produced, electricity and SAF and H2 charts.\n\n\n\n\n\n\nData\nCONCAWE and Imperial College London data, FAO , EUROCONTROL research, EUROSTAT, Fraunhofer Institute for Solar Energy Systems, ICCT, IEA, EMBER, IRENA EEA, Project SkyPower, TU Delft, Trinity College of Dublin, ASTM standards.\nThe CONCAWE dataset was amended for manure feedstock in Greece. For more details on SAF pathways data, please also consult “About data” section on the site. Sewage feedstock were from EUROSTAT, amended with ICCT methodology by excluding volumes used for agriculture, composting.\nTherefore only volumes used for incineration, landfilling, and other use considered eligible feedstock for SAF production .\nNB: All the feedstock considered in FuellingDecarb is complying with ‘not for feed and food’ principles as per the revised Renewable Energy Directive (EU/2023/2413) (and other related EU directives).",
@@ -300,8 +290,8 @@
     ]
   },
   {
-    "objectID": "fuelingdecarb/index.html#saf-production-coproducts-assessment",
-    "href": "fuelingdecarb/index.html#saf-production-coproducts-assessment",
+    "objectID": "fuellingdecarb/index.html#saf-production-coproducts-assessment",
+    "href": "fuellingdecarb/index.html#saf-production-coproducts-assessment",
     "title": "6  Fuelling Decarb",
     "section": "6.5 SAF production coproducts assessment",
     "text": "6.5 SAF production coproducts assessment\n\n\n\n\n\n\nDefault\n• Default Pathways per Feedstock\n• Default Electricity are Renewable, Low-Carbon & Other\n• Quantities values are prefilled for EU27, ECAC, US, China and World\n\nData\nCONCAWE and Imperial College London data, EUROCONTROL research, FAO, Fraunhofer Institute for Solar Energy Systems, IEA, EEA, TU Delft, Trinity College Of Dublin, ASTM standards.\nFor more details on SAF pathways data, please also consult “About data” section on the site.",
@@ -310,8 +300,8 @@
     ]
   },
   {
-    "objectID": "fuelingdecarb/index.html#the-synthetic-saf-fuel-production-units-and-costs",
-    "href": "fuelingdecarb/index.html#the-synthetic-saf-fuel-production-units-and-costs",
+    "objectID": "fuellingdecarb/index.html#the-synthetic-saf-fuel-production-units-and-costs",
+    "href": "fuellingdecarb/index.html#the-synthetic-saf-fuel-production-units-and-costs",
     "title": "6  Fuelling Decarb",
     "section": "6.6 The synthetic SAF fuel production units and costs",
     "text": "6.6 The synthetic SAF fuel production units and costs\n\nSynthetic SAF production pathways and costs overview\n\n\n\n\n\n\n\n\nSynthetic SAF detailed view on data modification and costs\n\n\n\n\n\n\n\n\nSynthetic SAF production electricity and costs overview\nDefault\n• Default Pathways is Power-to-liquid\n• Default Electricity are Renewable, Low-Carbon & Other\n• Quantities values are not prefilled\n\nOutput\nThe Synthetic SAF Fuel production results are presented on the Fuel produced, SAF and H2 Cost and electricity charts. Depending on the repartition of the Type of electricity and the Quantity of feedstock usage the donut charts are updated.\n\n\n\n\n\n\nData\nCONCAWE and Imperial College London data (lower estimates), EUROCONTROL research, FAO, IEA, EEA, Project SkyPower , TU Delft, Trinity College of Dublin, ASTM standards.\nFor more details on SAF pathways data, please also consult “About data” section on the site.",
@@ -320,8 +310,8 @@
     ]
   },
   {
-    "objectID": "fuelingdecarb/index.html#electric-aircraft-electricity-production",
-    "href": "fuelingdecarb/index.html#electric-aircraft-electricity-production",
+    "objectID": "fuellingdecarb/index.html#electric-aircraft-electricity-production",
+    "href": "fuellingdecarb/index.html#electric-aircraft-electricity-production",
     "title": "6  Fuelling Decarb",
     "section": "6.7 Electric aircraft electricity production",
     "text": "6.7 Electric aircraft electricity production\n\n\n\n\n\n\nDefault\n• Default Electricity are Renewable, Low-Carbon & Other\n• Quantities values are prefilled for some Areas / States\n\nOutput\nThe Electric Aircraft electricity results are presented on the Fuel produced chart. Depending on the Type of electricity selected and the Quantity of electricity usage the donut charts are updated.\n\n\n\n\n\n\nData\nEUROCONTROL Aviation Outlook (Long Term Forecast report), IEA, EEA.",
@@ -330,8 +320,8 @@
     ]
   },
   {
-    "objectID": "fuelingdecarb/index.html#hydrogen-production-and-costs",
-    "href": "fuelingdecarb/index.html#hydrogen-production-and-costs",
+    "objectID": "fuellingdecarb/index.html#hydrogen-production-and-costs",
+    "href": "fuellingdecarb/index.html#hydrogen-production-and-costs",
     "title": "6  Fuelling Decarb",
     "section": "6.8 Hydrogen production and costs",
     "text": "6.8 Hydrogen production and costs\n\n\n\n\n\n\nDefault\n• Default Electricity are Renewable, Low-Carbon & Other\n• Quantities values are prefilled for some Areas / States\n• Conversion efficiency\n\nOutput\nThe Hydrogen Fuel production results are presented on the Fuel produced chart. Depending on the Type of electricity selected and the Quantity of electricity usage the donut charts are updated.\n\n\n\n\n\n\nData\nEUROCONTROL research, EUROCONTROL Aviation Outlook (Long Term Forecast report), IEA, EEA, ASTM standards.",
@@ -340,8 +330,8 @@
     ]
   },
   {
-    "objectID": "fuelingdecarb/index.html#assess-the-volume-of-green-electricity-necessary-for-fuel-production",
-    "href": "fuelingdecarb/index.html#assess-the-volume-of-green-electricity-necessary-for-fuel-production",
+    "objectID": "fuellingdecarb/index.html#assess-the-volume-of-green-electricity-necessary-for-fuel-production",
+    "href": "fuellingdecarb/index.html#assess-the-volume-of-green-electricity-necessary-for-fuel-production",
     "title": "6  Fuelling Decarb",
     "section": "6.9 Assess the volume of green electricity necessary for Fuel production",
     "text": "6.9 Assess the volume of green electricity necessary for Fuel production\n\n\n\n\n\n\nDefault\n• Default Electricity are Renewable, Low-Carbon & Other\n• Quantities values are prefilled for some Areas/States\n• Share of origins is proportionally distributed between origins\n• Carbon intensity & price reference are prefilled for some Areas/States\n• Conversion efficiency prefilled and not editable\n\nOutput\nThe Renewable electricity results are presented on the Electricity donut chart.\nThe modification of the Renewable electricity quantities impacts the quantity available per Type of electricity for Hydrogen Fuel, Electric aircraft and SAF.\n\nData\nEUROCONTROL research, EUROCONTROL Aviation Outlook (Long Term Forecast report), IEA, EEA, Lazard, Deutsche Bank economic research reports, European Commission - Cost of Energy 2020 report - prepared by TRINOMICS, Fraunhofer Institute for Solar Energy Systems, EIA, McKinsey.",
@@ -350,8 +340,8 @@
     ]
   },
   {
-    "objectID": "fuelingdecarb/index.html#display-global-allocated-used-electricity",
-    "href": "fuelingdecarb/index.html#display-global-allocated-used-electricity",
+    "objectID": "fuellingdecarb/index.html#display-global-allocated-used-electricity",
+    "href": "fuellingdecarb/index.html#display-global-allocated-used-electricity",
     "title": "6  Fuelling Decarb",
     "section": "6.10 Display global, allocated & used electricity",
     "text": "6.10 Display global, allocated & used electricity",
@@ -360,8 +350,8 @@
     ]
   },
   {
-    "objectID": "fuelingdecarb/index.html#plan-the-renewable-electricity-infrastructure-needs-and-costs-to-fill-the-renewable-electricity-gap",
-    "href": "fuelingdecarb/index.html#plan-the-renewable-electricity-infrastructure-needs-and-costs-to-fill-the-renewable-electricity-gap",
+    "objectID": "fuellingdecarb/index.html#plan-the-renewable-electricity-infrastructure-needs-and-costs-to-fill-the-renewable-electricity-gap",
+    "href": "fuellingdecarb/index.html#plan-the-renewable-electricity-infrastructure-needs-and-costs-to-fill-the-renewable-electricity-gap",
     "title": "6  Fuelling Decarb",
     "section": "6.11 Plan the Renewable electricity infrastructure needs and costs to fill the Renewable electricity gap",
     "text": "6.11 Plan the Renewable electricity infrastructure needs and costs to fill the Renewable electricity gap\n\nRenewable electricity infrastructure overview\n\n\n\n\n\n\n\n\nRenewable electricity – solar infrastructure needs and costs\n\n\n\n\n\n\n\n\nRenewable electricity – wind (offshore & onshore) infrastructure needs and costs",
@@ -370,8 +360,8 @@
     ]
   },
   {
-    "objectID": "fuelingdecarb/index.html#assess-the-low-carbon-nuclear-electricity-needs-for-fuel-production",
-    "href": "fuelingdecarb/index.html#assess-the-low-carbon-nuclear-electricity-needs-for-fuel-production",
+    "objectID": "fuellingdecarb/index.html#assess-the-low-carbon-nuclear-electricity-needs-for-fuel-production",
+    "href": "fuellingdecarb/index.html#assess-the-low-carbon-nuclear-electricity-needs-for-fuel-production",
     "title": "6  Fuelling Decarb",
     "section": "6.12 Assess the low carbon (nuclear) electricity needs for fuel production",
     "text": "6.12 Assess the low carbon (nuclear) electricity needs for fuel production\n\n\n\n\n\n\nDefault\n• Default Electricity are Renewable, Low-Carbon & Other\n• Quantities values are prefilled for some Areas/States\n• Origin is Nuclear energy\n• Carbon intensity & price reference are prefilled for some Areas/States\n• Conversion efficiency prefilled and not editable\n\nOutput\nThe Low-Carbon electricity results are presented on the Electricity donut chart.\nThe modification of the Low-Carbon electricity quantities impacts the quantity available per Type of electricity for Hydrogen Fuel, Electric aircraft and SAF.\n\nData\nCONCAWE and Imperial College London data, 2021 EU report on Energy and GHG emissions, EUROCONTROL research, EUROCONTROL Aviation Outlook (Long Term Forecast report), FAO, IEA, EEA, ASTM standards.\nThe 2021 EU report on Energy, Transport and GHG emissions data was amended to reflect national policy changes impacting low carbon production.",
@@ -380,8 +370,8 @@
     ]
   },
   {
-    "objectID": "fuelingdecarb/index.html#plan-the-low-carbon-electricity-infrastructures-to-fill-the-low-carbon-electricity-gap",
-    "href": "fuelingdecarb/index.html#plan-the-low-carbon-electricity-infrastructures-to-fill-the-low-carbon-electricity-gap",
+    "objectID": "fuellingdecarb/index.html#plan-the-low-carbon-electricity-infrastructures-to-fill-the-low-carbon-electricity-gap",
+    "href": "fuellingdecarb/index.html#plan-the-low-carbon-electricity-infrastructures-to-fill-the-low-carbon-electricity-gap",
     "title": "6  Fuelling Decarb",
     "section": "6.13 Plan the Low-Carbon electricity infrastructures to fill the Low-Carbon electricity gap",
     "text": "6.13 Plan the Low-Carbon electricity infrastructures to fill the Low-Carbon electricity gap\n\nRenewable electricity infrastructure overview\n\n\n\n\n\n\n\n\nPlan the low carbon (nuclear) electricity infrastructure needs and costs to fill the low-carbon electricity gap",
@@ -390,8 +380,8 @@
     ]
   },
   {
-    "objectID": "fuelingdecarb/index.html#other-energy-category-fossile-sources-of-energy-necessary-for-fuel-production",
-    "href": "fuelingdecarb/index.html#other-energy-category-fossile-sources-of-energy-necessary-for-fuel-production",
+    "objectID": "fuellingdecarb/index.html#other-energy-category-fossile-sources-of-energy-necessary-for-fuel-production",
+    "href": "fuellingdecarb/index.html#other-energy-category-fossile-sources-of-energy-necessary-for-fuel-production",
     "title": "6  Fuelling Decarb",
     "section": "6.14 Other energy category (fossile sources of energy) necessary for fuel production",
     "text": "6.14 Other energy category (fossile sources of energy) necessary for fuel production\n\n\n\n\n\n\nDefault\n• Default Electricity are Renewable, Low-Carbon & Other\n• Quantities values are prefilled for some Areas/States\n• Share of origins is proportionally distributed between origins\n• Carbon intensity & price reference are prefilled for some Areas/States\n• Conversion efficiency prefilled and not editable\nThe other sources of energy category cannot be used to fill the gap for electricity needs.\nNB: Electricity costs for each ECAC State is corresponding to the Levelised Cost of Energy (LCOE).\n\nOutput\nThe Other electricity results are presented on the Electricity donut chart.\nThe modification of the Other electricity quantities impacts the quantity available per Type of electricity for Hydrogen Fuel, Electric aircraft and SAF.\n\nData\n2021 EU report on Energy and GHG emissions, EUROCONTROL research, EUROCONTROL Aviation Outlook (Long Term Forecast report), IEA, EEA, ASTM standards.",
@@ -400,8 +390,8 @@
     ]
   },
   {
-    "objectID": "fuelingdecarb/index.html#visualise-needs-production-chart-saf-electric-ac-h2-fuel",
-    "href": "fuelingdecarb/index.html#visualise-needs-production-chart-saf-electric-ac-h2-fuel",
+    "objectID": "fuellingdecarb/index.html#visualise-needs-production-chart-saf-electric-ac-h2-fuel",
+    "href": "fuellingdecarb/index.html#visualise-needs-production-chart-saf-electric-ac-h2-fuel",
     "title": "6  Fuelling Decarb",
     "section": "6.15 Visualise needs & production chart (SAF, electric a/c, H2 fuel)",
     "text": "6.15 Visualise needs & production chart (SAF, electric a/c, H2 fuel)\n\n\n\n\n\n\nDefault\n• Default Needs are Hydrogen, Electricity & Fuel\n• Needs values are prefilled for some Areas / States\n• Default Fuel produced chart are Hydrogen, Electricity & SAF\n\nOutput\nThe Fuel produced results are presented on the Fuel produced chart.\nThe results presentation are compared to the needs in the settings page.\n\nData\nCONCAWE and Imperial College London data (low scenario) , 2021 EU report on Energy and GHG emissions, EUROCONTROL research, EUROCONTROL Aviation Outlook (Long Term Forecast report), FAO, IEA, EEA, ASTM standards. Lazard, Deutsche Bank economic research reports, European Commission - Cost of Energy 2020 report - prepared by TRINOMICS, Fraunhofer Institute for Solar Energy Systems, EIA, McKinsey.",
@@ -410,8 +400,8 @@
     ]
   },
   {
-    "objectID": "fuelingdecarb/index.html#visualise-saf-and-h2-costs-for-each-feedstockpathway",
-    "href": "fuelingdecarb/index.html#visualise-saf-and-h2-costs-for-each-feedstockpathway",
+    "objectID": "fuellingdecarb/index.html#visualise-saf-and-h2-costs-for-each-feedstockpathway",
+    "href": "fuellingdecarb/index.html#visualise-saf-and-h2-costs-for-each-feedstockpathway",
     "title": "6  Fuelling Decarb",
     "section": "6.16 Visualise SAF and H2 costs for each feedstock/pathway",
     "text": "6.16 Visualise SAF and H2 costs for each feedstock/pathway",
@@ -420,8 +410,8 @@
     ]
   },
   {
-    "objectID": "fuelingdecarb/index.html#consult-the-saf-map-and-the-saf-news",
-    "href": "fuelingdecarb/index.html#consult-the-saf-map-and-the-saf-news",
+    "objectID": "fuellingdecarb/index.html#consult-the-saf-map-and-the-saf-news",
+    "href": "fuellingdecarb/index.html#consult-the-saf-map-and-the-saf-news",
     "title": "6  Fuelling Decarb",
     "section": "6.17 Consult the SAF Map and the SAF news",
     "text": "6.17 Consult the SAF Map and the SAF news\n\nCheck the SAF Map\nCheck the SAF News Corner",
@@ -430,8 +420,8 @@
     ]
   },
   {
-    "objectID": "fuelingdecarb/index.html#fuellingdecarb-journey",
-    "href": "fuelingdecarb/index.html#fuellingdecarb-journey",
+    "objectID": "fuellingdecarb/index.html#fuellingdecarb-journey",
+    "href": "fuellingdecarb/index.html#fuellingdecarb-journey",
     "title": "6  Fuelling Decarb",
     "section": "6.18 FuellingDecarb journey",
     "text": "6.18 FuellingDecarb journey\nFuellingDecarb step-by-step\n\nSettings: Click on Start to estimate, select the country/area and year\nNeeds:  Define the needs for the country/area\nBioSAF:  Change the global quantity of feedstock and minimise/maximise the SAF for a pathway. Global quantity of Bio SAF and synthetic SAF are set according to Refuel EU mandate.\ne-SAF:  Adjust the quantity of Hydrogen and CO2 to produce synthetic SAF according to Refuel EU.\nElectric and Hydrogen:  Estimate the quantity used for Electric Aircraft and Hydrogen Fuel according to the needs.\nAllocated Electricity:  Change the Global quantity of Renewable Electricity to 1000 GWh and modify the origin shares\nFill the Electricity Gap:  Plan new electricity infrastructures or import to fill the Renewable and Low-Carbon electricity gap.\nFuel Production:  Check if the configuration is meeting your defined needs and Green House Gas savings \n\n\nThe advantages of your journey\n\nSimulate the production of SAF, Electricity and Hydrogen.\nUse different sources of electricity to produce SAF, Electricity and Hydrogen.",

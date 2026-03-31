@@ -60,9 +60,18 @@
 
 {{< include how_to_use.qmd >}}
 
+## FlyingGreen Intelligence Platform
+
+{{< include intelligence.qmd >}}
+
+## How to Use FlyingGreen Intelligence
+
+{{< include intelligence_how_to_use.qmd >}}
+
 ## FLYnance! References
 
 {{< include references.qmd >}}
+
 
 ## Funding basket
 
