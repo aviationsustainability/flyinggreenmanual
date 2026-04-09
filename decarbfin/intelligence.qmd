@@ -10,13 +10,13 @@
 
 -   **Detailed comparison** of selected indicator cards.
 
-------------------
+------------------------------------------------------------------------
 
 **Output**
 
 A technical database of indicators that align operational aviation information with sustainable finance requirements like EU Taxonomy regulation. It provides a standardized way to view metrics relevant to the **EU Taxonomy Technical Screening Criteria (TSC)** and helps stakeholders identify which KPIs are applicable to their specific business segment and project financing.
 
---------------------
+------------------------------------------------------------------------
 
 **Data**
 

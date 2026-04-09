@@ -1,24 +1,26 @@
-As financing aviation decarbonisation proves challenging, due to limited access to sustainable finance and evolving regulatory landscape, **DecarbFin** provides you with tools and information necessary to facilitate your access to public and private sustainable funding opportunities.
+As financing aviation decarbonisation proves challenging, due to limited access to sustainable finance and evolving regulatory landscape, **DecarbFin** provides you with tools and information necessary to facilitate your access to public and private sustainable funding opportunities.
 
-Check out also the **Bluebook**, a guide for enhanced ESG reporting and compliance with the EU Taxonomy and CSRD to help you navigate this complex regulatory and reporting landscape.​
+Check out also the **Bluebook**, a guide for enhanced ESG reporting and compliance with the EU Taxonomy and CSRD to help you navigate this complex regulatory and reporting landscape.
+
+**Flynance!** provides an overview of the latest transactions around financing sustainable aviation and their features such as financial flows, aviation stakeholders involvement, performance indicators used, type of initiatives financed, etc.
 
 ------------------------------------------------------------------------
 
 ### Sections
 
-#### Fund Pathfinder
+#### 1) Fund Pathfinder – Search my EU funding
 
 ![](images/fund_pathfinder.png)
 
-#### Funding Booster
+#### 2) Funding Booster – Search my private funding
 
 ![](images/fund_booster.png)
 
-#### Bluebook
+#### 3) Bluebook – Download the Bluebook 
 
 ![](images/bluebook.png)
 
-#### FLYnance!
+#### 4) FLYnance! – View the FLYnance! dashboard
 
 ![](images/dash_1.png)
 

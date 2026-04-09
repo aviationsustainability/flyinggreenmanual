@@ -1,4 +1,6 @@
-![](images/bluebook1.png){fig-align="center"}
+Click on Bluebook from Decarbfin menu
+
+![](images/bluebook1.png){fig-align="center" width="191"}
 
 ------------------------------------------------------------------------
 
@@ -12,7 +14,11 @@ Bluebook
 
 The Bluebook is downloadable from the Landing page.
 
-![](images/bluebook2.png){fig-align="center"}
+![](images/bluebook.png){fig-align="center" width="600"}
+
+The Bluebook content about EU Taxonomy and CSRD is depicted below.
+
+![](images/bluebook2.png){fig-align="center" width="600"}
 
 ------------------------------------------------------------------------
 

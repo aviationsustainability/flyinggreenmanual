@@ -52,6 +52,10 @@
 
 {{< include essentials.qmd >}}
 
+## Funding basket
+
+{{< include funding_basket.qmd >}}
+
 ## FLYnance! dashboard
 
 {{< include dashboard.qmd >}}
@@ -60,6 +64,10 @@
 
 {{< include how_to_use.qmd >}}
 
+## FLYnance! References
+
+{{< include references.qmd >}}
+
 ## FlyingGreen Intelligence Platform
 
 {{< include intelligence.qmd >}}
@@ -67,15 +75,6 @@
 ## How to Use FlyingGreen Intelligence
 
 {{< include intelligence_how_to_use.qmd >}}
-
-## FLYnance! References
-
-{{< include references.qmd >}}
-
-
-## Funding basket
-
-{{< include funding_basket.qmd >}}
 
 ## Bluebook
 

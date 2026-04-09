@@ -18,8 +18,6 @@
 -   **Instruments Summary**: View the Use Cases
 -   **Dictionary**: View the Dictionary of Terms
 -   **Search Instruments**: Search and Filter my “private” Sustainable Finance instruments
--   **Essential View**: View the Essentials (ESG Frameworks, Roadmaps
--   **Dashboard**: View the Flynance dashboard
--   **Bluebook**: Download the Bluebook 
+-   **Essential View**: View the Essentials (ESG Frameworks, Roadmaps)
 
 ------------------------------------------------------------------------

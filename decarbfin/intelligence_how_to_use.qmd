@@ -6,21 +6,21 @@ Below are guidelines to help users navigate the catalogue of indicators and the 
 
     -   **Clicking on View Full Details** à the card flips and the user has access to additional information around the indicator.
 
-        ![](images/intelligence_1.png){fig-align="center" width="263"}
+    ![](images/intelligence_11.png){fig-align="center" width="423"}
 
 -   **Compare Cards:** Selecting the "click to compare" option top right on multiple cards populates the **Compare Cards (n)** table at the bottom of the screen enabling real-time comparison of each indicator’s drivers simultaneously.
 
-![](images/intelligence_2.png){fig-align="center" width="450"}
+![](images/intelligence_2.png){fig-align="center"}
 
 -   **Detailed Comparison:** Clicking this button opens a side-by-side view of the selected indicators to analyze differences in their methodology or applicability.
 
-![](images/intelligence_3.png){fig-align="center" width="450"}
+![](images/intelligence_3.png){fig-align="center" width="580"}
 
 -   **Filters Menu:** Located at the top/side, this allows users to narrow down the list of indicators based on specific regulatory or operational needs.
 
-![](images/intelligence_4.png){fig-align="center" width="324"}
+![](images/intelligence_4.png){fig-align="center"}
 
-----------
+------------------------------------------------------------------------
 
 **Refine Data (Filters)**
 
@@ -30,9 +30,9 @@ Below are guidelines to help users navigate the catalogue of indicators and the 
 
 -   **Utility:** Helps users find indicators specifically for "Environmental" performance reporting versus "Operational" optimization.
 
-![](images/intelligence_5.png){fig-align="center" width="221"}
+![](images/intelligence_5.png){fig-align="center"}
 
-----------
+------------------------------------------------------------------------
 
 **User Segment**
 
@@ -46,9 +46,9 @@ Below are guidelines to help users navigate the catalogue of indicators and the 
 
     -   **Lessors:** Indicators related to asset management and emissions.
 
-![](images/intelligence_6.png){fig-align="center" width="221"}
+![](images/intelligence_6.png){fig-align="center"}
 
-----------
+------------------------------------------------------------------------
 
 **EU Taxonomy Activity**
 
@@ -66,9 +66,9 @@ Below are guidelines to help users navigate the catalogue of indicators and the 
 
 **The selection responds to the question:** "Which indicators should I use to better demonstrate my activity is 'Taxonomy Aligned' under the Technical Screening Criteria?"
 
-![](images/intelligence_7.png){fig-align="center" width="160"}
+![](images/intelligence_7.png){fig-align="center"}
 
-----------
+------------------------------------------------------------------------
 
 **Indicator Comparison Tool**
 
@@ -97,29 +97,29 @@ Below are guidelines to help users navigate the catalogue of indicators and the 
     -   **Interpretation:** Guidance on how to read the indicator and under which conditions or enablers it better applies.
 
     -   **Actual use cases:** Real-world examples of how this indicator has been applied in financial deals, such as being a KPI for a Sustainability-Linked Bond.
-    
-----------
+
+------------------------------------------------------------------------
 
 **Front – side of cards**
 
-![](images/intelligence_8.png){fig-align="center" width="304"}
+![](images/intelligence_8.png){fig-align="center" width="500"}
 
-----------
+------------------------------------------------------------------------
 
 **Back – side of cards**
 
-![](images/intelligence_9.png){fig-align="center" width="304"}
+![](images/intelligence_9.png){fig-align="center" width="384"}
 
-----------
+------------------------------------------------------------------------
 
 **Navigation Icons**
 
 -   **Drawer Toggle:** Expands or collapses the detailed comparison view at the bottom of the screen.
 
-----------
+------------------------------------------------------------------------
 
 **Search content**
 
 The user can enter words or phrases and relevant categories or content appear in the results field.
 
-![](images/intelligence_10.png){fig-align="center" width="304"}
+![](images/intelligence_10.png){fig-align="center"}

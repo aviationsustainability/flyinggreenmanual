@@ -2,7 +2,7 @@
 
 **Default**
 
-Sustainable finance instruments offered by the financial institutions: sustainability-linked loans, green bonds, sustainability-linked bonds, green loans, social bonds and venture capital.
+Sustainable finance instruments offered by the financial institutions: sustainability-linked loans, green bonds, sustainability-linked bonds, green loans, social bonds, private equity and venture capital.
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ Please consult the Dictionary of terms function.
 
 > *Tip:* By clicking on any of the cards in the carousel, a longer description of the sustainable finance instrument appears – please see next page.
 
----
+------------------------------------------------------------------------

@@ -22,7 +22,7 @@ View the following items:
 
 -   Reporting Needs,
 
--   External Verification Needs and Completed with the relevant (if any) Use Cases corresponding to that specific instrument.
+-   External Verification Needs and completed with the relevant (if any) Use Cases corresponding to that specific instrument.
 
 ------------------------------------------------------------------------
 
@@ -32,16 +32,16 @@ Sustainable finance instruments are presented in detail. The navigation can also
 
 ![](images/sus_finance_details.png){fig-align="center"}
 
----
+------------------------------------------------------------------------
 
 **Data**
 
 All information is sourced from publicly accessible sources which are located at the bottom of the page.
 
----
+------------------------------------------------------------------------
 
 **Definitions**
 
 Please consult the Dictionary of terms function
 
----
+------------------------------------------------------------------------
