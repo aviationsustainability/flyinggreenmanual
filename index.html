@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>AVENIR Environmental Catalogue</title>
+<link href="https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet" />
+<script src="https://unpkg.com/@phosphor-icons/web"></script>
+<style>
+/* Keeping original style exactly as provided */
+:root {
+  --primary: #009F6E; --primary-dark: #075E54; --accent: #009F6E;
+  --ink: #212121; --paper: #FCFCFC;
+  --bg-gradient-start: #FCFCFC; --bg-gradient-end: #EAF4FF;
+  --surface: #FFFFFF; --surface-elev: rgba(255,255,255,0.8);
+  --border: rgba(0,0,0,0.08);
+  --text-primary: #212121; --text-secondary: #455A64; --text-inverse: #FFFFFF;
+  --focus: #009F6E; --shadow: 0 10px 30px rgba(0,0,0,0.08);
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  font-family: 'Exo';
+  background: linear-gradient(135deg, var(--bg-gradient-start), var(--bg-gradient-end));
+  color: var(--text-primary);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  overflow-x: hidden;
+}
+body::before {
+  content: '';
+  position: fixed;
+  top: -20%; left: -10%;
+  width: 700px; height: 700px;
+  background: radial-gradient(circle, rgba(0,159,110,0.12) 0%, transparent 65%);
+  filter: blur(60px);
+  z-index: -1;
+  pointer-events: none;
+}
+.topbar {
+  position: sticky; top: 0; z-index: 1000;
+  background: rgba(252,252,252,0.8);
+  backdrop-filter: saturate(140%) blur(10px);
+  border-bottom: 1px solid var(--border);
+}
+.topbar-inner { max-width: 1200px; margin: 0 auto; display: flex; align-items: center; gap: 12px; padding: 12px 16px; }
+.brand { color: var(--ink); text-decoration: none; font-weight: 800; letter-spacing: .2px; }
+.brand:hover { color: var(--primary-dark); }
+.menu-toggle { margin-left: auto; font-size: 1.6rem; line-height: 1; background: transparent; color: var(--ink); border: 0; cursor: pointer; padding: 4px 8px; }
+.menu-toggle:focus { outline: 2px solid var(--focus); outline-offset: 2px; border-radius: 6px; }
+nav.primary .menu { list-style: none; display: none; flex-direction: column; gap: 0; width: 100%; background: transparent; margin-top: 8px; }
+nav.primary .menu.open { display: flex }
+nav.primary .menu a { display: block; color: var(--ink); text-decoration: none; padding: 10px 12px; border-radius: 8px; }
+nav.primary .menu a:hover, nav.primary .menu a:focus { background: rgba(41,144,234,0.12); outline: none; }
+nav.primary .menu li.active>a, nav.primary .menu a[aria-current="page"] { background: rgba(0,159,110,0.12); font-weight: 600 }
+@media (min-width: 768px){
+  .menu-toggle { display: none }
+  .topbar-inner { display: grid; grid-template-columns: auto 1fr; align-items: center }
+  nav.primary { justify-self: end }
+  nav.primary .menu { display: flex !important; flex-direction: row; align-items: center; gap: 8px; background: transparent; margin-top: 0 }
+  nav.primary .menu a { padding: 8px 10px }
+}
+header { text-align: center; padding: 64px 24px 24px; }
+h1 { font-size: clamp(2rem, 6vw, 3.25rem); font-weight: 800; letter-spacing: -0.02em; margin-bottom: 12px; color: var(--primary-dark); }
+h5 { font-size: 1.4rem; margin-bottom: 10px; color: var(--primary-dark); }
+p.subtitle { font-size: clamp(1rem, 3.2vw, 1.15rem); color: var(--text-secondary); max-width: 900px; margin: 0 auto; line-height: 1.65; }
+main { flex: 1; max-width: 1200px; margin: 0 auto; padding: 24px; display: grid; grid-template-columns: 1fr; gap: 28px; width: 100%; }
+.id_section { background: var(--surface-elev); border: 1px solid var(--border); border-radius: 16px; padding: clamp(18px, 3.5vw, 28px); box-shadow: var(--shadow); }
+.id_section h2 { font-size: 1.4rem; margin-bottom: 10px; color: white; }
+.id_section p { color: white; line-height: 1.65; }
+.id_section_1 { background: var(--surface-elev); border: 1px solid var(--border); border-radius: 16px; padding: clamp(18px, 3.5vw, 28px); box-shadow: var(--shadow); }
+.id_section_1 h2 { font-size: 1.4rem; margin-bottom: 10px; color:var(--primary-dark); }
+.id_section_1 p { color:var(--text-secondary); line-height: 1.65; }
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap: 18px; }
+.card { background: var(--surface-elev); border: 1px solid var(--border); border-radius: 16px; padding: clamp(18px, 3.5vw, 28px); box-shadow: var(--shadow); transition: transform .25s ease, box-shadow .25s ease; display: flex; flex-direction: column; }
+.card:hover { transform: translateY(-4px); box-shadow: 0 16px 36px rgba(0,0,0,0.12); }
+.card-icon { font-size: 28px; color: var(--accent); margin-bottom: 14px; background: rgba(0,159,110,0.10); width: 52px; height: 52px; display: flex; align-items: center; justify-content: center; border-radius: 12px; }
+.card h2 { font-size: 1.25rem; margin-bottom: 10px; font-weight: 700; color: var(--ink); }
+.card p { color: var(--text-secondary); font-size: 0.98rem; line-height: 1.6; margin-bottom: 16px; }
+ /* Card with background image + overlay */
+.cards{position:relative;border:1px solid var(--border);border-radius:16px;box-shadow:var(--shadow);overflow:hidden;min-height:360px;display:flex;flex-direction:column;padding:20px;background-size:cover;background-position:center}
+.cards::before{content:"";position:absolute;inset:0;background:
+linear-gradient(
+  180deg,
+  rgba(0, 0, 0, 0.5) 30%,
+  rgba(0, 0, 0, 0.5) 30%
+)
+}
+.cards > *{position:relative;z-index:1}
+.cards h2{color:#fff;font-size:1.25rem;margin:0 0 8px 0;font-weight:800;text-shadow:0 2px 8px rgba(0,0,0,.45);min-height: 2em;}
+.cards h3{color:#01dd9b;font-weight:bold;font-size:.90rem;line-height:1.6;margin:0 0 14px 0;text-shadow:0 2px 8px rgba(0,0,0,.35);min-height: 2.8em;}
+.cards p{color:#f0f7f5;font-size:.98rem;line-height:1.6;margin:0 0 14px 0;text-shadow:0 2px 8px rgba(0,0,0,0.05);min-height: 3.6em;}
+.cards .btn {
+  margin-top: auto;
+}
+.cards img{display:none}
+.btn { display: inline-flex; align-items: center; justify-content: center; gap: 8px; text-decoration: none; color: var(--text-inverse); background: var(--primary); padding: 12px 18px; border-radius: 999px; font-weight: 700; transition: background .2s ease, transform .05s ease; width: fit-content; }
+.btn:hover { background: var(--primary-dark); }
+.btn:active { transform: scale(0.98); }
+.btn-ghost { margin-top: auto; display: inline-flex; align-items: center; gap: 8px; background: var(--primary); color: var(--text-inverse); border: none; border-radius: 999px; padding: 10px 14px; font-weight: 700; cursor: pointer; width: fit-content; }
+.btn-ghost:hover { background: var(--primary-dark); }
+.placeholder-list { margin-top: 12px; padding-left: 18px; display: none; animation: fadeIn .18s ease; }
+.placeholder-list.show { display: block; }
+.placeholder-list p { margin: 6px 0; }
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-2px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+
+.intro-wrapper {
+    display: flex;
+    gap: 32px;
+    align-items: flex-start;
+    background: transparent;
+}
+.intro-content {
+    flex: 2;
+    padding: 18px;
+}
+
+.intro-content h5 {
+    color: #075E54;
+    margin-top: 0;
+    font-size: 38px;
+}
+
+.intro-content p {
+    color: #455A64;
+    line-height: 1.65;
+    text-align: justify;
+}
+
+.intro-aside {
+    flex: 1;
+    background: #ffffff;
+    color: #455A64;
+    border-radius: 16px;
+    padding: 20px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.04);
+}
+
+.intro-aside h3 {
+    margin-top: 0;
+    color: #075E54;
+    font-weight: 700;
+}
+
+.intro-aside h4 {
+    color: #455A64;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+.intro-aside ul {
+    line-height: 1.6;
+    padding-left: 18px;
+}
+
+.intro-content {
+    flex: 2;
+    max-width: 760px;       /* prevents the text from feeling lost */
+}
+
+
+/* Responsive */
+@media (max-width: 768px) {
+    .intro-wrapper {
+        flex-direction: column;
+    }
+}
+
+
+footer { text-align: center; padding: 36px 20px; color: #607D8B; font-size: 0.9rem; }
+.skip-link { position: absolute; left: -999px; top: 0; background: var(--paper); color: var(--ink); padding: 8px 12px; border-radius: 4px; }
+.skip-link:focus { left: 8px; outline: 2px solid var(--focus); }
+</style>
+</head>
+<body>
+<div id="header-placeholder"></div>
+<header id="main-content" role="heading" aria-level="1">
+<h1>AVENIR Environmental Catalogue</h1>
+<p class="subtitle"></p>
+</header>
+<main>
+
+  
+
+<section class="intro-wrapper">
+      <div class="intro-content">
+        <h5>Find tools, dashboards and operational use cases supporting environmental performance in ATM.</h5>
+        <p>
+            This catalogue brings together existing tools, dashboards and operational use cases used across Europe 
+            to support environmental performance monitoring, analysis and improvement in Air Traffic Management (ATM).
+            It provides a practical entry point to help users navigate available solutions and understand how they can
+            support operational, analytical and reporting activities within ANSPs.
+        </p>
+    </div>
+
+    <section class="intro-aside">
+        <h3>Who is this for?</h3>
+        <h4>This catalogue is intended for ANSP teams who want to:</h4>
+        <ul>
+            <li>Monitor environmental performance</li>
+            <li>Analyse ATM inefficiencies and fuel burn</li>
+            <li>Support environmental reporting</li>
+            <li>Evaluate operational or technical measures</li>
+            <li>Explore monitoring dashboards</li>
+            <li>Learn from practical ANSP use cases and methodologies</li>
+        </ul>
+    </section>
+</section>
+
+<section class="id_section_1">
+<h5>
+Browse the catalogue
+</h5>
+
+<p style="margin-bottom:10px">Choose the solution that best matches your need. The catalogue is designed to help users move quickly from a practical question to the most relevant examples, tools or monitoring products.</p>
+
+<div class="grid">
+
+<div class="cards"
+     style="
+       background-image:url('figure/use.avif');
+     ">
+<h2>Use Cases</h2>
+<h3>Start here if you have an operational question</h3>
+<p >Practical examples of how ANSPs have addressed environmental challenges in operations, performance monitoring or reporting.
+Use cases may include the use of specific tools and dashboards, or may describe internal methodologies and operational approaches.</p>
+<a href="use-cases.html" class="btn">Explore Use Cases</a>
+</div>
+
+<div class="cards"
+     style="
+       background-image:url('figure/tools.avif');
+     ">
+<h2>Tools</h2>
+<h3>For modelling and analytical capability</h3>
+<p>Modelling and analysis tools used to assess fuel burn, emissions, ATM performance and the impact of operational or technical measures.</p>
+<a href="tools.html" class="btn">Browse Tools</a>
+</div>
+
+
+
+<div class="cards"
+     style="
+       background-image:url('figure/dashboard.avif');
+     ">
+    <h2>Dashboards</h2>
+    <h3>For monitoring, reporting and visualization</h3>
+    <p>Monitoring and reporting dashboards used to track environmental performance indicators and support reporting and performance management.
+    </p>
+    <a href="dashboard.html" class="btn">Open Dashboards</a>
+</div>
+
+
+
+</section>
+
+<section class="id_section_1">
+<h2>Coverage at a glance</h2>
+<p>The catalogue covers tools, dashboards and use cases across different environmental focus areas, flight phases and performance indicators. Summary mapping tables are available to help users understand which tools and dashboards are relevant for different types of analysis and monitoring.</p>
+<a href="tables.html" class="btn" style="margin-top: 10px">See the tables</a>
+</section>
+
+<section class="id_section_1">
+<div class="cards"
+     style="
+       background-image:url('figure/fuel.avif');
+     ">
+    <h2>Fuel Burn Results</h2>
+    <h3>How to Interpret Outputs from Different EUROCONTROL Tools and Dashboards
+    </h3>
+    <p>Several EUROCONTROL aviation environmental tools provide fuel burn and CO₂-related outputs. These values are sometimes interpreted as directly comparable. In practice, differences in results are expected and arise mainly from differences in methodology, scope, system boundaries, level of aggregation and intended use of each tool/dashboard.</p>
+    <a href="fuel_burn.html" class="btn">Find more</a>
+</div>
+</section>
+
+<section class="id_section_1">
+<h2>About AVENIR</h2>
+<p>The catalogue was developed under AVENIR Working Group as a shared knowledge repository for ANSPs. It is intended as a practical, non-prescriptive resource supporting knowledge sharing, transparency and easier navigation across available environmental tools and practices.
+</p>
+</section>
+
+</main>
+<footer>
+<p> The AVENIR Catalogue is developed under the EUROCONTROL–EASA AVENIR initiative and is maintained with contributions from aviation stakeholders and subject-matter experts.</p>
+<p style="margin-bottom: 1rem;"></p>
+<p>© 2026 EUROCONTROL. All rights reserved.</p>
+</footer>
+
+<script>
+
+fetch("header.html")
+    .then(res => res.text())
+    .then(data => {
+      document.getElementById("header-placeholder").innerHTML = data;
+    });
+
+const toggle = document.getElementById('menu-toggle');
+const list = document.getElementById('menu-list');
+toggle?.addEventListener('click', () => {
+const open = list.classList.toggle('open');
+toggle.setAttribute('aria-expanded', String(open));
+toggle.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');
+});
+
+document.querySelectorAll('.usage-toggle').forEach(btn => {
+btn.addEventListener('click', () => {
+const listId = btn.getAttribute('aria-controls');
+const target = document.getElementById(listId);
+const expanded = btn.getAttribute('aria-expanded') === 'true';
+btn.setAttribute('aria-expanded', String(!expanded));
+btn.innerHTML = !expanded
+? '<i class="ph ph-list-bullets" aria-hidden="true"></i> Hide list'
+: '<i class="ph ph-list-bullets" aria-hidden="true"></i> Show list';
+if (!expanded) {
+target.hidden = false;
+target.classList.add('show');
+} else {
+target.classList.remove('show');
+setTimeout(() => { target.hidden = true; }, 120);
+}
+});
+});
+</script>
+</body>
+</html>
