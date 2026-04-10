@@ -74,7 +74,7 @@
     "href": "fg_functionalities.html#decarbfin",
     "title": "3  Functionalities",
     "section": "3.4 DecarbFin",
-    "text": "3.4 DecarbFin\n\nLanding Page Design & Structure\nBluebook platform and downloadable versions\nFund Pathfinder: including Funds and Calls, EU funded projects\nFunding Basket: add, select, remove and link essentials to build an EU & Private funding business case\nFunding Booster including Financial Instruments, Use Cases, ESG Frameworks and Decarbonisation Roadmaps\nFlynance! Dashboard with trends & metrics",
+    "text": "3.4 DecarbFin\n\nLanding Page Design & Structure\nBluebook platform and downloadable versions\nFund Pathfinder: including Funds and Calls, EU funded projects\nMy selection: add, select, remove and link essentials to build an EU & Private funding business case\nFunding Booster including Financial Instruments, Use Cases, ESG Frameworks and Decarbonisation Roadmaps\nFlynance! Dashboard with trends & metrics",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Functionalities</span>"
     ]
@@ -700,11 +700,11 @@
     ]
   },
   {
-    "objectID": "decarbfin/index.html#funding-basket",
-    "href": "decarbfin/index.html#funding-basket",
+    "objectID": "decarbfin/index.html#my-selection",
+    "href": "decarbfin/index.html#my-selection",
     "title": "8  DecarbFin",
-    "section": "8.14 Funding basket",
-    "text": "8.14 Funding basket\nFunding Basket: a space to temporarily store selected information from Fund Pathfinder and Funding Booster and export to a word format.\n\n\n\n\n\n\nDefault\nThe basket view consists of a Fund Pathfinder (EU funding) and Funding Booster (private funding) space: the user can select/add, view, and remove all the funds/calls and financial instruments previously selected. They can also add, view and remove ESG frameworks and Roadmaps.\n\n\n\n\n\n\n\nOutput\n\nFund Pathfinder: Sustainable business case including a selection of Funds and/or Calls including relevant EU funded project cases.\nFunding Booster: Sustainable business case defined by a single, selected financial instrument, and may include a linked ESG framework and/or a linked Roadmap.",
+    "section": "8.14 My selection",
+    "text": "8.14 My selection\nFunding selection: a space to temporarily store selected information from Fund Pathfinder and Funding Booster and export to a word format. \n\nSelect an element \n\n\n\n\n\n\n\nAccess My selection area\n\n\n\n\n\n\n\nDefault\nThe selection view consists of a Fund Pathfinder (EU funding) and Funding Booster (private funding) space: the user can select/add, view, and remove all the funds/calls and financial instruments previously selected. They can also add, view and remove ESG frameworks and Roadmaps.\n\n\n\n\n\n\n\n\n\n\n\nOutput\n\nFund Pathfinder: Sustainable business case including a selection of Funds and/or Calls including relevant EU funded project cases.\nFunding Booster: Sustainable business case defined by a single, selected financial instrument, and may include a linked ESG framework and/or a linked Roadmap.",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>DecarbFin</span>"
     ]
