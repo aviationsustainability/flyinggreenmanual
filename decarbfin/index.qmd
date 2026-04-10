@@ -52,7 +52,7 @@
 
 {{< include essentials.qmd >}}
 
-## Funding basket
+## My selection
 
 {{< include funding_basket.qmd >}}
 
