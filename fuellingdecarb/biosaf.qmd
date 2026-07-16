@@ -2,23 +2,23 @@
 
 ![](images/Picture3.png){fig-align="center"}
 
----
+------------------------------------------------------------------------
 
 ### Bio SAF feedstock and costs details
 
 ![](images/Picture4.png){fig-align="center"}
 
----
+------------------------------------------------------------------------
 
 ### Bio SAF production electricity and costs overview
 
 **Default**
 
--   Default Pathways per Feedstock
+- Default Pathways per Feedstock
 
--   Default Electricity are Renewable, Low-Carbon & Other
+- Default Electricity are Renewable, Low-Carbon & Other
 
--   Quantities values are prefilled for some Areas / States
+- Quantities values are prefilled for some Areas / States
 
 ------------------------------------------------------------------------
 

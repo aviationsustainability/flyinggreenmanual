@@ -4,20 +4,20 @@
 
 #### Fund-Pathfinder
 
--   **Funds Overview**: View the Funds & Programmes overview
--   **Search My Funds**: Filter My Funds and Calls
--   **Funds In detail**: View the Funds, the Programmes and the Calls’ details
--   **Project Overview**: View the Projects overview
+- **Funds Overview**: View the Funds & Programmes overview
+- **Search My Funds**: Filter My Funds and Calls
+- **Funds In detail**: View the Funds, the Programmes and the Calls’ details
+- **Project Overview**: View the Projects overview
 
 ------------------------------------------------------------------------
 
 #### Funding Booster
 
--   **Instruments Overview**: View the Sustainable Finance instruments - Summary
--   **Instruments Details**: View the Sustainable Finance instruments - Details
--   **Instruments Summary**: View the Use Cases
--   **Dictionary**: View the Dictionary of Terms
--   **Search Instruments**: Search and Filter my “private” Sustainable Finance instruments
--   **Essential View**: View the Essentials (ESG Frameworks, Roadmaps)
+- **Instruments Overview**: View the Sustainable Finance instruments - Summary
+- **Instruments Details**: View the Sustainable Finance instruments - Details
+- **Instruments Summary**: View the Use Cases
+- **Dictionary**: View the Dictionary of Terms
+- **Search Instruments**: Search and Filter my “private” Sustainable Finance instruments
+- **View the Booster Catalogues** (ESG Frameworks, Roadmaps, Sustainability Indicators)
 
 ------------------------------------------------------------------------

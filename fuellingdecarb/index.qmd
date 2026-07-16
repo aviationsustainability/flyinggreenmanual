@@ -20,7 +20,7 @@
 
 {{< include safcoproduction.qmd >}}
 
-##  The synthetic SAF fuel production units and costs
+## The synthetic SAF fuel production units and costs
 
 {{< include syntheticsaf.qmd >}}
 

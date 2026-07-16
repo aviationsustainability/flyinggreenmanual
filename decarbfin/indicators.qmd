@@ -1,0 +1,45 @@
+**Default**
+
+By default, the Flynance! Indicators dashboard displays the following visuals for all market segments combined, using the Base, High and Low traffic scenarios across every five-year period between the available years (2025 - 2050) per different market segment:
+
+- Total CO₂ emissions per market segment
+
+- Total number of flights by market segment
+
+- Projected evolution of CO₂/ASK by market segment (Index: 2025 = 100)
+
+------------------------------------------------------------------------
+
+**Output** The dashboard provides projected CO₂ emission volumes, flight traffic volumes and carbon efficiency trends (CO₂ per Available Seat Kilometre) for European aviation from 2025 to 2050.
+
+Results are broken down by market segment and can be explored under three traffic growth scenarios. The dashboard supports questions such as:
+
+- How are CO₂ emissions expected to evolve across different aviation market segments to 2050? How each market segment’s performance compares with sector’s average?
+
+- Which market segments drive the highest growth in traffic and emissions?
+
+- Are market segments expected to improve their CO₂ efficiency (CO₂/ASK) over time?
+
+- How do High, Base and Low traffic scenarios affect projected outcomes?
+
+------------------------------------------------------------------------
+
+**Data**
+
+Data is sourced from EUROCONTROL traffic and emissions modelling, based on publicly available information and EUROCONTROL’s aviation forecasts. Projections reflect assumptions about traffic growth, fleet renewal and operational improvements under each scenario.
+
+------------------------------------------------------------------------
+
+**Key Baseline assumptions**
+
+- All projections use 2025 as the base year. The CO₂/ASK index is set to 100 for all segments in 2025.
+
+- CO₂ values are expressed in megatonnes (Mt). Flight volumes are expressed in millions (M).
+
+- The ‘Aviation’ series (dotted line) represents an aggregate or cross-segment reference category distinct from the individual operator-type segments.
+
+------------------------------------------------------------------------
+
+**Definitions**
+
+For a full explanation of methodology, traffic scenarios and model assumptions, consult the platform’s methodology documentation accessible via the ⓘ (info) button at the bottom of the dashboard. Key terms are also defined in the Glossary at the end of this manual.

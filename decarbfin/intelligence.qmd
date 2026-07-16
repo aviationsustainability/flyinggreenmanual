@@ -1,14 +1,14 @@
 **Default**
 
--   **Sustainability Indicators** categorized by User segment.
+- **Sustainability Indicators** categorized by User segment.
 
--   **EU Taxonomy alignment** for specific aviation activities.
+- **EU Taxonomy alignment** for specific aviation activities.
 
--   **User Segment filtering** (Airlines, Airports, Lessors).
+- **User Segment filtering** (Airlines, Airports, Lessors).
 
--   **Detailed breakdown of indicator** covering technical and operational perspectives.
+- **Detailed breakdown of indicator** covering technical and operational perspectives.
 
--   **Detailed comparison** of selected indicator cards.
+- **Detailed comparison** of selected indicator cards.
 
 ------------------------------------------------------------------------
 

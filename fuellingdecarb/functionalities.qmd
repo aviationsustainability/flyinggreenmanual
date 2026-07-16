@@ -1,35 +1,34 @@
-
 **Fuel Assessment**
 
-- **Settings: **Select the Fuel Assessment tool settings​​
+- **Settings:** Select the Fuel Assessment tool settings​​
 
-- **Fuel Estimate: ** View the Fuel Assessment page​
+- **Fuel Estimate:** View the Fuel Assessment page​
 
-- **BioSAF: ** The Bio SAF Fuel production, units, ​electricity required, GHGs, cost & ​Minimum Selling Price​
+- **BioSAF:** The Bio SAF Fuel production, units, ​electricity required, GHGs, cost & ​Minimum Selling Price​
 
-- **SAF Coproduct: ** Assess the SAF Coproducts production​
+- **SAF Coproduct:** Assess the SAF Coproducts production​
 
-- **Synthetic SAF ** The Synthetic SAF fuel production, electricity required, units GHGs, Costs & Minimum Selling Price​
+- **Synthetic SAF:** The Synthetic SAF fuel production, electricity required, units GHGs, Costs, Levelised Cost, Minimum Selling Price​, Market Price, Delivered Price
 
 - **Electric Aircraft:** The Electric Aircraft electricity production​
 
-- **Hydrogen Aircraft: ** The Hydrogen fuel production ​
+- **Hydrogen Aircraft:** The Hydrogen fuel production ​
 
-- **Allocated Renewable Electricity: ** Assess the volume of Green electricity (produced with renewable energy) necessary ​for Fuel production
+- **Allocated Renewable Electricity:** Assess the volume of Green electricity (produced with renewable energy) necessary ​for Fuel production
 
 - **Electricity Share:** Display Global, Allocated & Used electricity
 
-- **Fill the Renewable Electricity Gap: ** Plan the Renewable electricity infrastructures to fill the Renewable electricity gap with costs​
+- **Fill the Renewable Electricity Gap:** Plan the Renewable electricity infrastructures to fill the Renewable electricity gap with costs​
 
-- **Allocated Low-Carbon Electricity: ** Assess the Low-Carbon electricity necessary for Fuel production
+- **Allocated Low-Carbon Electricity:** Assess the Low-Carbon electricity necessary for Fuel production
 
-- **Fill the Low Carbon Electricity Gap: ** Plan the Low-Carbon electricity infrastructures to fill the Low-Carbon electricity gap with costs​
+- **Fill the Low Carbon Electricity Gap:** Plan the Low-Carbon electricity infrastructures to fill the Low-Carbon electricity gap with costs​
 
 - **Allocated Other Electricity:​** Assess the Others energy category of electricity necessary ​for Fuel production
 
-- **Needs​&​Production: ** View needs & production chart ​(SAF, Hydrogen fuel and Electric aircraft)​
+- **Needs​&​Production:** View needs & production chart ​(SAF, Hydrogen fuel and Electric aircraft)​
 
-- **SAF & H2 Costs: ** Graph​Graphical display of SAF and H2 costs​for each feedstock/pathway​
+- **SAF & H2 Costs:** Graph​Graphical display of SAF and H2 costs​for each feedstock/pathway​
 
 **SAF Map**
 

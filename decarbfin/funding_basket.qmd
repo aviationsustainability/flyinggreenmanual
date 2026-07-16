@@ -1,10 +1,10 @@
 **Funding selection:** a space to temporarily store selected information from Fund Pathfinder and Funding Booster and export to a word format. 
 
--   Select an element 
+- Select an element 
 
 ![](images/selection_1.png){fig-align="center" width="150" height="58"}
 
--   Access My selection area
+- Access My selection area
 
 ![](images/selection_2.png){fig-align="center" width="150"}
 
@@ -12,7 +12,7 @@
 
 **Default**
 
-The selection view consists of a **Fund Pathfinder (EU funding)** and **Funding Booster (private funding)** space: the user can select/add, view, and remove all the funds/calls and financial instruments previously selected. They can also add, view and remove ESG frameworks and Roadmaps.
+The Selection view consists of a **Fund Pathfinder (EU funding)** and **Funding Booster (private funding)** space: the user can select/add, view, and remove all the funds/calls and financial instruments previously selected. They can also add, view and remove ESG frameworks and Roadmaps.
 
 ![](images/selection_3.png){fig-align="center"}
 
@@ -22,6 +22,6 @@ The selection view consists of a **Fund Pathfinder (EU funding)** and **Fundi
 
 **Output**
 
--   **Fund Pathfinder**: Sustainable business case including a selection of Funds and/or Calls including relevant EU funded project cases.
+- **Fund Pathfinder**: Sustainable business case including a selection of Funds and/or Calls and relevant EU funded project cases.
 
--   **Funding Booster**: Sustainable business case defined by a single, selected financial instrument, and may include a linked ESG framework and/or a linked Roadmap.
+- **Funding Booster**: Sustainable business case defined by a single, selected financial instrument, that may include a linked ESG framework and/or a linked Roadmap.

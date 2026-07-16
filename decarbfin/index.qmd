@@ -48,35 +48,31 @@
 
 {{< include private_funding_filter.qmd >}}
 
-## Essentials
+## Booster Catalogues
 
 {{< include essentials.qmd >}}
 
-## My selection
+## Funding selection
 
 {{< include funding_basket.qmd >}}
 
-## FLYnance! dashboard
+## FLYnance! – Market trends
 
 {{< include dashboard.qmd >}}
 
-## How to use the FLYnance! dashboard
+## How to use the FLYnance! – Market trends
 
 {{< include how_to_use.qmd >}}
 
-## FLYnance! References
+## FLYnance! – Indicators
 
-{{< include references.qmd >}}
+{{< include indicators.qmd >}}
 
-## FlyingGreen Intelligence Platform
+## How to use the FLYnance! – Indicators
 
-{{< include intelligence.qmd >}}
+{{< include how_to_use_2.qmd >}}
 
-## How to Use FlyingGreen Intelligence
-
-{{< include intelligence_how_to_use.qmd >}}
-
-## Bluebook
+## Bluebook interface
 
 {{< include bluebook.qmd >}}
 
